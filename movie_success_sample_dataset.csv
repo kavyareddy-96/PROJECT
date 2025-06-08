@@ -1,0 +1,1001 @@
+Title,Genre,Director,Budget,Revenue,IMDB_Rating,Review
+Movie 1,Action,Director B,61775559,262819013,7.7,A decent movie with good direction.
+Movie 2,Action,Director A,60131327,7150684,5.3,Amazing movie with great visuals and acting.
+Movie 3,Drama,Director B,70203550,67974054,9.4,Loved the characters and the storyline.
+Movie 4,Romance,Director C,77732425,292278101,6.9,Amazing movie with great visuals and acting.
+Movie 5,Romance,Director A,82511221,270168521,3.6,Loved the characters and the storyline.
+Movie 6,Romance,Director B,87908845,192688820,7.8,A decent movie with good direction.
+Movie 7,Drama,Director D,81779347,83189947,7.3,"Not worth the time, poor screenplay."
+Movie 8,Drama,Director C,1565411,123990430,6.7,Loved the characters and the storyline.
+Movie 9,Action,Director C,56191486,95067744,8.3,Terrible plot and boring scenes.
+Movie 10,Action,Director B,1327297,198816372,7.7,Amazing movie with great visuals and acting.
+Movie 11,Horror,Director C,29503964,108424665,6.9,Loved the characters and the storyline.
+Movie 12,Comedy,Director C,69985200,108544331,7.5,A decent movie with good direction.
+Movie 13,Drama,Director A,6061831,124550838,6.1,Terrible plot and boring scenes.
+Movie 14,Romance,Director C,97126764,151617786,5.5,"Not worth the time, poor screenplay."
+Movie 15,Horror,Director B,77549261,29263037,7.5,"Not worth the time, poor screenplay."
+Movie 16,Thriller,Director B,42885694,55790649,7.4,Loved the characters and the storyline.
+Movie 17,Comedy,Director B,28071870,277873720,3.9,"Not worth the time, poor screenplay."
+Movie 18,Drama,Director A,73278814,46844537,3.8,Amazing movie with great visuals and acting.
+Movie 19,Romance,Director A,86262673,126896225,8.5,Loved the characters and the storyline.
+Movie 20,Drama,Director C,92188484,246700537,8.3,A decent movie with good direction.
+Movie 21,Action,Director C,89649368,25489382,8.8,Loved the characters and the storyline.
+Movie 22,Thriller,Director B,67978998,105643892,4.7,A decent movie with good direction.
+Movie 23,Horror,Director C,46104336,215179979,8.2,"Not worth the time, poor screenplay."
+Movie 24,Thriller,Director B,67682663,69328806,4.8,A decent movie with good direction.
+Movie 25,Comedy,Director A,98910816,54355386,3.5,Amazing movie with great visuals and acting.
+Movie 26,Action,Director A,12006840,61746751,6.3,A decent movie with good direction.
+Movie 27,Thriller,Director C,62765671,285670973,8.9,Terrible plot and boring scenes.
+Movie 28,Comedy,Director B,79617457,221322439,8,Terrible plot and boring scenes.
+Movie 29,Comedy,Director C,14800639,116584502,7.3,Terrible plot and boring scenes.
+Movie 30,Action,Director A,51965480,157546604,5.3,Terrible plot and boring scenes.
+Movie 31,Horror,Director B,18598570,208991579,4.7,A decent movie with good direction.
+Movie 32,Thriller,Director C,88673873,264708051,7.6,Amazing movie with great visuals and acting.
+Movie 33,Romance,Director C,54654395,180582928,7.5,Amazing movie with great visuals and acting.
+Movie 34,Comedy,Director C,4981242,101373419,5.4,Amazing movie with great visuals and acting.
+Movie 35,Romance,Director C,62964531,258839640,3.7,"Not worth the time, poor screenplay."
+Movie 36,Horror,Director D,61566241,5264257,7.7,Terrible plot and boring scenes.
+Movie 37,Romance,Director C,71538495,90402645,8.1,Loved the characters and the storyline.
+Movie 38,Action,Director C,91076381,34400759,3.8,Amazing movie with great visuals and acting.
+Movie 39,Drama,Director B,39184821,107885201,6.6,A decent movie with good direction.
+Movie 40,Drama,Director C,89802770,186025643,8.3,Terrible plot and boring scenes.
+Movie 41,Horror,Director B,13636419,177007076,4.2,"Not worth the time, poor screenplay."
+Movie 42,Horror,Director B,69964935,185065800,6.2,Amazing movie with great visuals and acting.
+Movie 43,Comedy,Director B,49958475,94400963,5.4,A decent movie with good direction.
+Movie 44,Drama,Director C,77647525,235459755,3.9,A decent movie with good direction.
+Movie 45,Comedy,Director C,62315230,32670141,4.9,Loved the characters and the storyline.
+Movie 46,Comedy,Director D,10835987,243911929,8.5,Terrible plot and boring scenes.
+Movie 47,Horror,Director C,70450080,161778140,3.5,Loved the characters and the storyline.
+Movie 48,Horror,Director D,10321102,298866096,4.1,Terrible plot and boring scenes.
+Movie 49,Thriller,Director C,72390469,79025552,7.2,Terrible plot and boring scenes.
+Movie 50,Horror,Director B,76928402,33656353,8.1,Terrible plot and boring scenes.
+Movie 51,Romance,Director D,8885210,121083080,3.6,"Not worth the time, poor screenplay."
+Movie 52,Action,Director D,3020122,239195531,8.9,Amazing movie with great visuals and acting.
+Movie 53,Romance,Director A,58057014,94963084,4.5,Terrible plot and boring scenes.
+Movie 54,Horror,Director C,63653539,78553664,8.6,Terrible plot and boring scenes.
+Movie 55,Horror,Director B,4700527,13517840,7.1,Terrible plot and boring scenes.
+Movie 56,Horror,Director D,32795659,285450075,7.2,Amazing movie with great visuals and acting.
+Movie 57,Drama,Director B,1392573,45591404,8,Terrible plot and boring scenes.
+Movie 58,Comedy,Director B,41479887,240587376,9.1,Amazing movie with great visuals and acting.
+Movie 59,Thriller,Director D,68095075,185521600,4.5,A decent movie with good direction.
+Movie 60,Romance,Director B,18697479,131373054,6.2,Amazing movie with great visuals and acting.
+Movie 61,Drama,Director A,56230646,49104339,8.8,Loved the characters and the storyline.
+Movie 62,Comedy,Director D,24518417,138150209,9.1,Terrible plot and boring scenes.
+Movie 63,Drama,Director B,94968901,9119718,4,Loved the characters and the storyline.
+Movie 64,Thriller,Director C,27783993,200225386,4.1,Amazing movie with great visuals and acting.
+Movie 65,Comedy,Director A,61002143,247880152,8.9,Amazing movie with great visuals and acting.
+Movie 66,Horror,Director A,10658264,260305092,7.9,"Not worth the time, poor screenplay."
+Movie 67,Thriller,Director A,61511677,191022160,8.8,Amazing movie with great visuals and acting.
+Movie 68,Romance,Director C,90449607,170164833,8.1,Terrible plot and boring scenes.
+Movie 69,Drama,Director A,24405330,253243579,5,A decent movie with good direction.
+Movie 70,Comedy,Director A,81288463,240156214,5.9,"Not worth the time, poor screenplay."
+Movie 71,Action,Director A,84811669,193571083,4,A decent movie with good direction.
+Movie 72,Thriller,Director D,83813572,250745175,7.7,A decent movie with good direction.
+Movie 73,Thriller,Director B,82209647,274945160,6.4,Loved the characters and the storyline.
+Movie 74,Thriller,Director C,86755289,148195577,4.9,Terrible plot and boring scenes.
+Movie 75,Drama,Director C,52605744,195752637,5.6,Loved the characters and the storyline.
+Movie 76,Comedy,Director D,68430092,67820166,4.9,Loved the characters and the storyline.
+Movie 77,Horror,Director A,78341201,256413911,6.5,A decent movie with good direction.
+Movie 78,Horror,Director B,36341385,241238527,4,Amazing movie with great visuals and acting.
+Movie 79,Drama,Director A,36498585,278502603,8.4,Amazing movie with great visuals and acting.
+Movie 80,Horror,Director C,79826914,179376779,6.8,Terrible plot and boring scenes.
+Movie 81,Horror,Director A,94584832,268279257,5,Amazing movie with great visuals and acting.
+Movie 82,Horror,Director A,28315160,163848232,5.9,Amazing movie with great visuals and acting.
+Movie 83,Comedy,Director A,94274406,21834768,9.2,Terrible plot and boring scenes.
+Movie 84,Comedy,Director C,48561544,293618886,5.3,A decent movie with good direction.
+Movie 85,Thriller,Director B,97512760,61591927,8.3,Amazing movie with great visuals and acting.
+Movie 86,Action,Director A,57995137,135316804,3.9,Terrible plot and boring scenes.
+Movie 87,Action,Director C,21174324,262894609,4.4,Amazing movie with great visuals and acting.
+Movie 88,Action,Director A,37137453,202032650,7.9,Terrible plot and boring scenes.
+Movie 89,Comedy,Director D,33197238,98680398,6.5,Terrible plot and boring scenes.
+Movie 90,Action,Director D,81455134,152605026,7.4,A decent movie with good direction.
+Movie 91,Comedy,Director A,21502927,31388523,4.1,"Not worth the time, poor screenplay."
+Movie 92,Action,Director A,63180089,108727436,6.6,Terrible plot and boring scenes.
+Movie 93,Horror,Director C,18300062,92025616,5.3,"Not worth the time, poor screenplay."
+Movie 94,Action,Director B,33855283,183828808,7.4,Amazing movie with great visuals and acting.
+Movie 95,Thriller,Director D,48855982,281181101,4.6,Terrible plot and boring scenes.
+Movie 96,Romance,Director D,36164897,189997204,8.8,Amazing movie with great visuals and acting.
+Movie 97,Comedy,Director A,9493937,234090490,7.8,Terrible plot and boring scenes.
+Movie 98,Horror,Director A,21335838,279045007,4.1,Amazing movie with great visuals and acting.
+Movie 99,Romance,Director C,24989269,49600521,3.5,Amazing movie with great visuals and acting.
+Movie 100,Comedy,Director C,45963211,201973490,9,"Not worth the time, poor screenplay."
+Movie 101,Thriller,Director C,9099947,79493403,9.4,Loved the characters and the storyline.
+Movie 102,Drama,Director C,93264256,214080043,6.1,"Not worth the time, poor screenplay."
+Movie 103,Thriller,Director C,84046195,229320693,9.5,"Not worth the time, poor screenplay."
+Movie 104,Horror,Director A,99537885,113949183,7,"Not worth the time, poor screenplay."
+Movie 105,Horror,Director D,59207517,71494628,6,Loved the characters and the storyline.
+Movie 106,Action,Director B,81839512,169641542,9.3,Terrible plot and boring scenes.
+Movie 107,Drama,Director C,45716117,241971333,6.3,Terrible plot and boring scenes.
+Movie 108,Comedy,Director A,92579437,58979999,4.2,Loved the characters and the storyline.
+Movie 109,Thriller,Director D,80713560,93313595,8.8,Loved the characters and the storyline.
+Movie 110,Romance,Director D,11859113,222786855,9.5,Amazing movie with great visuals and acting.
+Movie 111,Comedy,Director B,8485354,261114001,7.4,A decent movie with good direction.
+Movie 112,Romance,Director D,73656657,283961856,7.3,A decent movie with good direction.
+Movie 113,Thriller,Director B,32049722,99629790,8.2,Loved the characters and the storyline.
+Movie 114,Comedy,Director D,81298730,66581477,5.7,"Not worth the time, poor screenplay."
+Movie 115,Action,Director D,4032219,237247926,5.2,A decent movie with good direction.
+Movie 116,Action,Director B,43344857,162270645,5.1,Loved the characters and the storyline.
+Movie 117,Comedy,Director B,22910666,134681450,7.3,A decent movie with good direction.
+Movie 118,Horror,Director D,73199989,181892274,8.8,Loved the characters and the storyline.
+Movie 119,Romance,Director D,5637941,79873094,6.6,"Not worth the time, poor screenplay."
+Movie 120,Thriller,Director D,81874928,143253309,8.5,"Not worth the time, poor screenplay."
+Movie 121,Horror,Director B,46677791,294595135,5.3,Terrible plot and boring scenes.
+Movie 122,Comedy,Director C,2441442,298333085,5.5,Loved the characters and the storyline.
+Movie 123,Drama,Director A,38027682,201399272,6.5,Loved the characters and the storyline.
+Movie 124,Action,Director C,55440765,80469489,4.5,Terrible plot and boring scenes.
+Movie 125,Drama,Director D,47399172,80305936,7.4,Terrible plot and boring scenes.
+Movie 126,Thriller,Director C,8573185,251708977,7.4,"Not worth the time, poor screenplay."
+Movie 127,Drama,Director C,90898952,53478040,4.3,Loved the characters and the storyline.
+Movie 128,Thriller,Director D,55838962,298095213,9,A decent movie with good direction.
+Movie 129,Comedy,Director A,24304845,179678293,9.5,Terrible plot and boring scenes.
+Movie 130,Drama,Director C,21994025,64230508,4.9,"Not worth the time, poor screenplay."
+Movie 131,Comedy,Director A,20067895,290156637,5,Loved the characters and the storyline.
+Movie 132,Action,Director C,87684567,250511679,8.4,Loved the characters and the storyline.
+Movie 133,Thriller,Director C,17320451,291883640,3.9,Terrible plot and boring scenes.
+Movie 134,Drama,Director D,86380420,165383518,4.2,Terrible plot and boring scenes.
+Movie 135,Horror,Director A,16228247,26949177,8.9,"Not worth the time, poor screenplay."
+Movie 136,Horror,Director A,78470204,177325122,8.6,Amazing movie with great visuals and acting.
+Movie 137,Comedy,Director A,11663852,10112775,6.3,Terrible plot and boring scenes.
+Movie 138,Horror,Director A,62948256,58362589,7.1,Terrible plot and boring scenes.
+Movie 139,Horror,Director B,80296555,64797957,8.2,Amazing movie with great visuals and acting.
+Movie 140,Comedy,Director A,52618777,175795366,5.1,Amazing movie with great visuals and acting.
+Movie 141,Thriller,Director C,21590376,14753093,8.7,Amazing movie with great visuals and acting.
+Movie 142,Horror,Director D,95904493,128447361,5.5,A decent movie with good direction.
+Movie 143,Action,Director B,85047437,216722925,3.7,Amazing movie with great visuals and acting.
+Movie 144,Thriller,Director C,44345119,76655261,8.7,Terrible plot and boring scenes.
+Movie 145,Romance,Director B,14594963,169349003,6.7,Amazing movie with great visuals and acting.
+Movie 146,Comedy,Director B,96704696,164040133,3.6,A decent movie with good direction.
+Movie 147,Comedy,Director C,35823717,71763876,5.1,Loved the characters and the storyline.
+Movie 148,Horror,Director D,86226602,54589562,6.2,Amazing movie with great visuals and acting.
+Movie 149,Thriller,Director D,82572897,208642037,4.6,Loved the characters and the storyline.
+Movie 150,Romance,Director A,98859658,95518664,3.6,Terrible plot and boring scenes.
+Movie 151,Horror,Director C,70370870,298336345,9.3,"Not worth the time, poor screenplay."
+Movie 152,Comedy,Director B,48311559,8579772,5.4,Loved the characters and the storyline.
+Movie 153,Thriller,Director B,40835242,258084886,3.7,"Not worth the time, poor screenplay."
+Movie 154,Horror,Director D,67252730,215326568,7.1,A decent movie with good direction.
+Movie 155,Comedy,Director A,54491805,49294244,6,"Not worth the time, poor screenplay."
+Movie 156,Drama,Director A,22362074,39487596,5.5,"Not worth the time, poor screenplay."
+Movie 157,Drama,Director D,58312438,58806184,5.1,Loved the characters and the storyline.
+Movie 158,Comedy,Director C,84033495,172490353,6.5,A decent movie with good direction.
+Movie 159,Drama,Director C,99760456,42477295,7.2,"Not worth the time, poor screenplay."
+Movie 160,Horror,Director C,97651954,290313122,5.4,Loved the characters and the storyline.
+Movie 161,Thriller,Director B,66987796,277613771,8.8,Amazing movie with great visuals and acting.
+Movie 162,Thriller,Director B,52024768,264760171,3.7,Amazing movie with great visuals and acting.
+Movie 163,Comedy,Director D,77768307,13408434,6.2,Amazing movie with great visuals and acting.
+Movie 164,Comedy,Director C,16951866,219586171,5.2,"Not worth the time, poor screenplay."
+Movie 165,Thriller,Director B,44846867,39067749,3.5,Amazing movie with great visuals and acting.
+Movie 166,Comedy,Director D,66894259,222734224,7,A decent movie with good direction.
+Movie 167,Comedy,Director A,35698124,246362333,5.1,Loved the characters and the storyline.
+Movie 168,Horror,Director C,99230605,81147007,9.4,"Not worth the time, poor screenplay."
+Movie 169,Horror,Director A,42477124,234047664,4.8,A decent movie with good direction.
+Movie 170,Romance,Director D,15823672,34771610,6.5,Loved the characters and the storyline.
+Movie 171,Romance,Director C,19140598,165106531,7.6,Terrible plot and boring scenes.
+Movie 172,Thriller,Director C,43655621,239133362,4,"Not worth the time, poor screenplay."
+Movie 173,Romance,Director C,65907441,153000876,3.6,A decent movie with good direction.
+Movie 174,Action,Director A,15502426,113016527,9.1,"Not worth the time, poor screenplay."
+Movie 175,Horror,Director A,67507101,231683423,8.7,Amazing movie with great visuals and acting.
+Movie 176,Thriller,Director C,36166056,181816601,7.1,"Not worth the time, poor screenplay."
+Movie 177,Comedy,Director C,2969292,25875072,7.1,Amazing movie with great visuals and acting.
+Movie 178,Horror,Director B,72879894,189381061,6,Loved the characters and the storyline.
+Movie 179,Drama,Director D,88917174,19128274,8.9,Loved the characters and the storyline.
+Movie 180,Action,Director D,8084253,217655320,7.3,"Not worth the time, poor screenplay."
+Movie 181,Drama,Director C,28620005,109927670,6.9,"Not worth the time, poor screenplay."
+Movie 182,Action,Director D,8938112,40143345,4.5,A decent movie with good direction.
+Movie 183,Thriller,Director B,34220277,72717972,4.1,"Not worth the time, poor screenplay."
+Movie 184,Romance,Director B,4259911,18070329,8.4,Terrible plot and boring scenes.
+Movie 185,Thriller,Director D,70559309,8046663,4.7,"Not worth the time, poor screenplay."
+Movie 186,Action,Director B,59993305,35647987,6,Amazing movie with great visuals and acting.
+Movie 187,Drama,Director B,98154380,151563214,6.1,Loved the characters and the storyline.
+Movie 188,Thriller,Director B,8268554,105032512,7.5,"Not worth the time, poor screenplay."
+Movie 189,Thriller,Director B,17134146,132228056,7.7,Amazing movie with great visuals and acting.
+Movie 190,Action,Director B,63054067,117231190,4.1,A decent movie with good direction.
+Movie 191,Thriller,Director A,95326740,4518111,5.3,Amazing movie with great visuals and acting.
+Movie 192,Action,Director D,44866791,135419204,6,Terrible plot and boring scenes.
+Movie 193,Thriller,Director C,65027120,90890929,4.1,Amazing movie with great visuals and acting.
+Movie 194,Comedy,Director C,22129822,250233341,8.2,A decent movie with good direction.
+Movie 195,Action,Director C,40410384,182360602,4.1,Amazing movie with great visuals and acting.
+Movie 196,Thriller,Director A,70374030,294127882,4,Amazing movie with great visuals and acting.
+Movie 197,Thriller,Director A,20906697,10350757,7.8,Terrible plot and boring scenes.
+Movie 198,Thriller,Director B,55542094,139651815,4.8,"Not worth the time, poor screenplay."
+Movie 199,Action,Director C,37459008,72588854,4.2,Amazing movie with great visuals and acting.
+Movie 200,Drama,Director B,22223393,69927257,5.6,A decent movie with good direction.
+Movie 201,Thriller,Director A,31345436,10485298,8.2,A decent movie with good direction.
+Movie 202,Thriller,Director C,51650163,89801919,6.5,Loved the characters and the storyline.
+Movie 203,Comedy,Director C,57303097,222833508,6.8,A decent movie with good direction.
+Movie 204,Action,Director B,5902089,87844935,9,Amazing movie with great visuals and acting.
+Movie 205,Drama,Director D,10990741,68905142,6.9,A decent movie with good direction.
+Movie 206,Horror,Director B,83892414,295907351,6.4,Loved the characters and the storyline.
+Movie 207,Drama,Director B,14356450,251391003,8.5,A decent movie with good direction.
+Movie 208,Action,Director C,73002375,150731282,6.7,A decent movie with good direction.
+Movie 209,Thriller,Director C,28691411,47056424,4.4,Terrible plot and boring scenes.
+Movie 210,Comedy,Director A,75503222,163086152,6.3,Amazing movie with great visuals and acting.
+Movie 211,Drama,Director C,26537782,110861308,9.2,Amazing movie with great visuals and acting.
+Movie 212,Action,Director D,96809483,133411404,6.8,"Not worth the time, poor screenplay."
+Movie 213,Action,Director C,46176463,167396503,9.5,Terrible plot and boring scenes.
+Movie 214,Romance,Director B,59534021,150233157,4.1,Amazing movie with great visuals and acting.
+Movie 215,Drama,Director B,10759413,165828218,4.5,"Not worth the time, poor screenplay."
+Movie 216,Romance,Director B,22643069,63786442,5,Loved the characters and the storyline.
+Movie 217,Horror,Director B,48511031,233297143,8.9,"Not worth the time, poor screenplay."
+Movie 218,Comedy,Director D,6163974,276814469,7.7,Terrible plot and boring scenes.
+Movie 219,Comedy,Director C,33857226,56613653,9,Terrible plot and boring scenes.
+Movie 220,Drama,Director D,23382274,280613425,5.8,Loved the characters and the storyline.
+Movie 221,Drama,Director B,84161202,251948929,6.1,"Not worth the time, poor screenplay."
+Movie 222,Thriller,Director C,33662697,18841593,8.7,A decent movie with good direction.
+Movie 223,Action,Director C,12610752,83164495,8.2,Amazing movie with great visuals and acting.
+Movie 224,Comedy,Director B,65265943,228569151,6.7,A decent movie with good direction.
+Movie 225,Comedy,Director A,50954050,121139714,8.8,Loved the characters and the storyline.
+Movie 226,Comedy,Director A,28774337,229348639,9.4,Loved the characters and the storyline.
+Movie 227,Action,Director C,84876272,134115687,7.7,"Not worth the time, poor screenplay."
+Movie 228,Comedy,Director A,88675818,139427222,4.1,Terrible plot and boring scenes.
+Movie 229,Drama,Director A,29765432,251591636,9.2,Terrible plot and boring scenes.
+Movie 230,Drama,Director C,68515948,40000550,7.3,Loved the characters and the storyline.
+Movie 231,Drama,Director C,82464368,150808019,7.9,Amazing movie with great visuals and acting.
+Movie 232,Thriller,Director B,27744574,148814137,9,Amazing movie with great visuals and acting.
+Movie 233,Horror,Director C,65917113,83752831,5.4,Loved the characters and the storyline.
+Movie 234,Comedy,Director A,31297977,234118932,3.6,A decent movie with good direction.
+Movie 235,Thriller,Director C,32858962,106645194,5.6,"Not worth the time, poor screenplay."
+Movie 236,Comedy,Director B,93197323,46216556,8.2,Terrible plot and boring scenes.
+Movie 237,Horror,Director D,32680328,141885208,4,A decent movie with good direction.
+Movie 238,Drama,Director B,73882520,262824894,7.5,"Not worth the time, poor screenplay."
+Movie 239,Horror,Director C,85338752,231627823,8,Amazing movie with great visuals and acting.
+Movie 240,Drama,Director D,90010922,93632073,4.8,Terrible plot and boring scenes.
+Movie 241,Action,Director D,79758992,259730539,4.6,A decent movie with good direction.
+Movie 242,Drama,Director B,65280979,36791582,7.6,"Not worth the time, poor screenplay."
+Movie 243,Action,Director A,96656612,3934201,7.1,Amazing movie with great visuals and acting.
+Movie 244,Action,Director B,27145109,220783071,4.3,Loved the characters and the storyline.
+Movie 245,Horror,Director D,58066472,158781651,9.1,Terrible plot and boring scenes.
+Movie 246,Horror,Director C,78566131,127118438,4.9,Terrible plot and boring scenes.
+Movie 247,Romance,Director A,28396972,79546733,6.5,Amazing movie with great visuals and acting.
+Movie 248,Drama,Director B,43469384,89852929,5,Loved the characters and the storyline.
+Movie 249,Action,Director A,80251376,211953035,7.1,Loved the characters and the storyline.
+Movie 250,Romance,Director C,45653662,95576871,6.5,"Not worth the time, poor screenplay."
+Movie 251,Romance,Director D,38169141,63477234,7.7,A decent movie with good direction.
+Movie 252,Thriller,Director C,4499630,100051043,8.9,Loved the characters and the storyline.
+Movie 253,Drama,Director D,23669614,13133079,3.6,Amazing movie with great visuals and acting.
+Movie 254,Drama,Director C,38910176,8488678,5.8,Amazing movie with great visuals and acting.
+Movie 255,Drama,Director C,75603163,114282066,4,Amazing movie with great visuals and acting.
+Movie 256,Drama,Director B,8901316,81315755,5.4,Loved the characters and the storyline.
+Movie 257,Action,Director B,93012472,256780060,7.1,"Not worth the time, poor screenplay."
+Movie 258,Thriller,Director B,13576637,229122089,6.7,Amazing movie with great visuals and acting.
+Movie 259,Romance,Director D,23019395,173761456,3.8,Amazing movie with great visuals and acting.
+Movie 260,Action,Director D,29252128,130812962,6.5,"Not worth the time, poor screenplay."
+Movie 261,Romance,Director C,99882104,48606738,7.5,Amazing movie with great visuals and acting.
+Movie 262,Action,Director B,58582457,228992125,6.4,Loved the characters and the storyline.
+Movie 263,Romance,Director A,2606291,163518055,4.6,"Not worth the time, poor screenplay."
+Movie 264,Romance,Director B,72239597,51681779,8.3,"Not worth the time, poor screenplay."
+Movie 265,Action,Director C,13675371,224311471,4,Loved the characters and the storyline.
+Movie 266,Action,Director A,79467724,104523356,4.8,Loved the characters and the storyline.
+Movie 267,Comedy,Director A,22688427,292151737,7.3,Loved the characters and the storyline.
+Movie 268,Comedy,Director B,77325230,46115879,7,Amazing movie with great visuals and acting.
+Movie 269,Horror,Director A,76900362,50408548,8.8,Amazing movie with great visuals and acting.
+Movie 270,Action,Director A,41138403,13594103,5.4,Terrible plot and boring scenes.
+Movie 271,Comedy,Director D,84121140,188132393,7.8,Amazing movie with great visuals and acting.
+Movie 272,Horror,Director D,66014114,211261928,5.1,Loved the characters and the storyline.
+Movie 273,Drama,Director A,99646843,40443148,8,A decent movie with good direction.
+Movie 274,Romance,Director A,25967097,188571107,8.4,Loved the characters and the storyline.
+Movie 275,Romance,Director D,9187654,181766000,7.3,A decent movie with good direction.
+Movie 276,Romance,Director D,86957867,103630981,8,Amazing movie with great visuals and acting.
+Movie 277,Action,Director D,89666215,271458319,7.8,Loved the characters and the storyline.
+Movie 278,Action,Director D,5802487,86564039,7.5,A decent movie with good direction.
+Movie 279,Action,Director A,71376449,175258752,8.5,Terrible plot and boring scenes.
+Movie 280,Horror,Director D,69199430,250992060,8,Terrible plot and boring scenes.
+Movie 281,Thriller,Director D,61766876,129205841,7.7,Loved the characters and the storyline.
+Movie 282,Romance,Director B,35763113,282637666,7.8,Terrible plot and boring scenes.
+Movie 283,Romance,Director D,88719178,106037606,7,Terrible plot and boring scenes.
+Movie 284,Horror,Director C,26036356,289382077,4.3,Loved the characters and the storyline.
+Movie 285,Horror,Director D,22604461,271984989,3.9,Terrible plot and boring scenes.
+Movie 286,Horror,Director B,8352404,260767140,6.7,"Not worth the time, poor screenplay."
+Movie 287,Horror,Director B,58086213,46945240,8,A decent movie with good direction.
+Movie 288,Romance,Director C,39741073,120802727,7.5,A decent movie with good direction.
+Movie 289,Horror,Director C,24400512,136689328,4.7,Loved the characters and the storyline.
+Movie 290,Action,Director B,77298449,25888227,9.5,"Not worth the time, poor screenplay."
+Movie 291,Thriller,Director A,78806582,25269597,7.6,Terrible plot and boring scenes.
+Movie 292,Comedy,Director A,56481799,7339633,7.8,Loved the characters and the storyline.
+Movie 293,Thriller,Director B,10462525,175934433,4.1,Amazing movie with great visuals and acting.
+Movie 294,Comedy,Director D,65636927,115175155,6.3,Terrible plot and boring scenes.
+Movie 295,Thriller,Director D,36448339,249970467,7,Terrible plot and boring scenes.
+Movie 296,Romance,Director B,32465378,112539604,4.6,Terrible plot and boring scenes.
+Movie 297,Comedy,Director A,65373519,165140655,6.6,"Not worth the time, poor screenplay."
+Movie 298,Comedy,Director B,20318178,258896356,5.3,Terrible plot and boring scenes.
+Movie 299,Romance,Director B,32075512,159314477,6.4,Terrible plot and boring scenes.
+Movie 300,Romance,Director C,49759429,230735877,4.3,A decent movie with good direction.
+Movie 301,Comedy,Director D,69509976,213222188,3.6,A decent movie with good direction.
+Movie 302,Romance,Director A,20349380,293455748,4,Amazing movie with great visuals and acting.
+Movie 303,Romance,Director B,81147815,56899807,8,Amazing movie with great visuals and acting.
+Movie 304,Drama,Director B,14871149,286791473,5.9,Loved the characters and the storyline.
+Movie 305,Drama,Director D,37060592,108875719,6.6,Loved the characters and the storyline.
+Movie 306,Horror,Director C,80170180,26933280,8.8,Loved the characters and the storyline.
+Movie 307,Thriller,Director B,13523456,191726088,8.7,Terrible plot and boring scenes.
+Movie 308,Comedy,Director A,41445474,140491294,5.8,Loved the characters and the storyline.
+Movie 309,Horror,Director C,97141791,175053692,9.5,"Not worth the time, poor screenplay."
+Movie 310,Horror,Director B,72324630,35840355,8.2,Loved the characters and the storyline.
+Movie 311,Comedy,Director A,78152045,25817374,7.4,"Not worth the time, poor screenplay."
+Movie 312,Romance,Director D,88718290,181243664,6.4,Amazing movie with great visuals and acting.
+Movie 313,Comedy,Director D,69002659,94693542,6.8,A decent movie with good direction.
+Movie 314,Romance,Director C,78934872,68389300,5,Amazing movie with great visuals and acting.
+Movie 315,Action,Director B,24293417,53928951,4.9,A decent movie with good direction.
+Movie 316,Drama,Director D,20640549,273836559,4.9,Loved the characters and the storyline.
+Movie 317,Drama,Director B,59164407,139925933,7.6,"Not worth the time, poor screenplay."
+Movie 318,Thriller,Director D,86205723,233214602,8.4,A decent movie with good direction.
+Movie 319,Action,Director C,19719605,275246333,3.8,"Not worth the time, poor screenplay."
+Movie 320,Thriller,Director D,35563341,134656386,5.9,Amazing movie with great visuals and acting.
+Movie 321,Romance,Director D,13819081,13568913,5,Loved the characters and the storyline.
+Movie 322,Horror,Director B,25553231,286461023,4.1,Amazing movie with great visuals and acting.
+Movie 323,Comedy,Director B,50362866,87275656,6.6,"Not worth the time, poor screenplay."
+Movie 324,Drama,Director C,32355163,239181266,5.4,Loved the characters and the storyline.
+Movie 325,Romance,Director D,3813401,240466452,7.6,Terrible plot and boring scenes.
+Movie 326,Horror,Director C,63587201,128797895,9.3,Terrible plot and boring scenes.
+Movie 327,Thriller,Director B,68890291,42730408,8.2,A decent movie with good direction.
+Movie 328,Horror,Director C,1983425,126098106,8.1,A decent movie with good direction.
+Movie 329,Romance,Director C,15974865,96298321,4.4,"Not worth the time, poor screenplay."
+Movie 330,Horror,Director C,27923671,149432450,8.6,Terrible plot and boring scenes.
+Movie 331,Comedy,Director D,87865964,74823359,9.5,A decent movie with good direction.
+Movie 332,Action,Director D,39269198,232574636,5.8,Terrible plot and boring scenes.
+Movie 333,Drama,Director C,98599710,59473265,9.3,Amazing movie with great visuals and acting.
+Movie 334,Drama,Director D,62015392,95527875,6.6,Loved the characters and the storyline.
+Movie 335,Action,Director D,17647367,204885020,7.3,Amazing movie with great visuals and acting.
+Movie 336,Comedy,Director B,21419559,65467162,4.4,"Not worth the time, poor screenplay."
+Movie 337,Romance,Director C,5755625,237460759,4.4,Terrible plot and boring scenes.
+Movie 338,Thriller,Director B,83075338,7874830,7,Amazing movie with great visuals and acting.
+Movie 339,Horror,Director A,83289105,202637174,3.6,"Not worth the time, poor screenplay."
+Movie 340,Comedy,Director A,80898239,107148948,5.1,A decent movie with good direction.
+Movie 341,Horror,Director C,77852305,74825539,8.1,Loved the characters and the storyline.
+Movie 342,Comedy,Director B,23316159,270635100,9.3,"Not worth the time, poor screenplay."
+Movie 343,Drama,Director C,73827171,127979811,4.3,"Not worth the time, poor screenplay."
+Movie 344,Romance,Director B,61250116,128366135,7.8,"Not worth the time, poor screenplay."
+Movie 345,Romance,Director D,73108245,55489628,4.2,"Not worth the time, poor screenplay."
+Movie 346,Horror,Director A,51127824,153304842,6.5,Amazing movie with great visuals and acting.
+Movie 347,Romance,Director B,41828811,294328383,6,"Not worth the time, poor screenplay."
+Movie 348,Comedy,Director B,18185542,48177101,8.8,Amazing movie with great visuals and acting.
+Movie 349,Action,Director D,94700040,291173218,6,Amazing movie with great visuals and acting.
+Movie 350,Horror,Director C,68245570,19933736,7.9,"Not worth the time, poor screenplay."
+Movie 351,Action,Director B,68014198,25031726,7.7,Loved the characters and the storyline.
+Movie 352,Romance,Director C,97575718,105810074,7,"Not worth the time, poor screenplay."
+Movie 353,Action,Director C,38926630,86025367,6,Terrible plot and boring scenes.
+Movie 354,Romance,Director B,69037227,86722372,7.5,Amazing movie with great visuals and acting.
+Movie 355,Thriller,Director C,18047503,232021461,5.9,Loved the characters and the storyline.
+Movie 356,Romance,Director A,41576035,256395693,9.3,Terrible plot and boring scenes.
+Movie 357,Thriller,Director D,68635922,243737331,8.6,Loved the characters and the storyline.
+Movie 358,Thriller,Director A,38837591,181792473,4.4,Amazing movie with great visuals and acting.
+Movie 359,Comedy,Director C,97955466,223824276,8.2,Amazing movie with great visuals and acting.
+Movie 360,Comedy,Director B,14332348,87240009,7.5,Terrible plot and boring scenes.
+Movie 361,Action,Director A,19998592,264253337,7,Amazing movie with great visuals and acting.
+Movie 362,Thriller,Director C,28396153,111153567,3.6,Terrible plot and boring scenes.
+Movie 363,Thriller,Director C,74846415,182782223,6.7,"Not worth the time, poor screenplay."
+Movie 364,Romance,Director B,67281398,4390263,8.6,Amazing movie with great visuals and acting.
+Movie 365,Romance,Director D,94507138,194730898,6.7,A decent movie with good direction.
+Movie 366,Comedy,Director D,98172308,72813452,9,Loved the characters and the storyline.
+Movie 367,Horror,Director C,67658997,61838312,6.7,"Not worth the time, poor screenplay."
+Movie 368,Drama,Director C,66300863,215854732,4.1,A decent movie with good direction.
+Movie 369,Thriller,Director C,15284542,94088414,8.9,A decent movie with good direction.
+Movie 370,Action,Director B,31065585,157403757,7.8,Loved the characters and the storyline.
+Movie 371,Romance,Director B,11308051,88755019,8.4,"Not worth the time, poor screenplay."
+Movie 372,Romance,Director A,76325622,161805227,4,Loved the characters and the storyline.
+Movie 373,Thriller,Director B,79022022,95108852,8.6,A decent movie with good direction.
+Movie 374,Thriller,Director B,30274391,236781096,7.9,Amazing movie with great visuals and acting.
+Movie 375,Horror,Director C,8677230,188815795,7.7,A decent movie with good direction.
+Movie 376,Action,Director A,12466589,264790505,4.7,A decent movie with good direction.
+Movie 377,Romance,Director C,59703691,246944466,5.7,Amazing movie with great visuals and acting.
+Movie 378,Action,Director D,42295125,150897203,9.5,A decent movie with good direction.
+Movie 379,Action,Director A,25192433,57545380,3.7,Amazing movie with great visuals and acting.
+Movie 380,Romance,Director D,51926279,83286380,7.9,Loved the characters and the storyline.
+Movie 381,Action,Director A,20581161,98314732,4.9,"Not worth the time, poor screenplay."
+Movie 382,Drama,Director C,88003447,190045472,9,Amazing movie with great visuals and acting.
+Movie 383,Drama,Director C,54741458,9061093,4.4,A decent movie with good direction.
+Movie 384,Thriller,Director B,56888483,145790569,5.5,Terrible plot and boring scenes.
+Movie 385,Thriller,Director D,30312781,250145091,6,"Not worth the time, poor screenplay."
+Movie 386,Romance,Director A,79997310,161766801,7.4,Terrible plot and boring scenes.
+Movie 387,Romance,Director D,58371458,144669519,5,"Not worth the time, poor screenplay."
+Movie 388,Romance,Director D,1912625,171931611,5.1,Terrible plot and boring scenes.
+Movie 389,Horror,Director B,50427232,70653983,6.4,Terrible plot and boring scenes.
+Movie 390,Thriller,Director D,32444696,66796626,7.2,Terrible plot and boring scenes.
+Movie 391,Drama,Director A,94039702,153681579,5.2,A decent movie with good direction.
+Movie 392,Drama,Director D,4517177,67445043,8.2,"Not worth the time, poor screenplay."
+Movie 393,Action,Director B,39973130,198551444,8.3,Amazing movie with great visuals and acting.
+Movie 394,Horror,Director A,44604546,58887504,8.6,A decent movie with good direction.
+Movie 395,Horror,Director D,79286507,12061776,6.5,Loved the characters and the storyline.
+Movie 396,Thriller,Director D,60300402,113709405,8.1,Amazing movie with great visuals and acting.
+Movie 397,Action,Director D,6675569,107928446,8,A decent movie with good direction.
+Movie 398,Horror,Director B,75552673,48925791,8.6,A decent movie with good direction.
+Movie 399,Action,Director D,49050795,48653748,6.4,A decent movie with good direction.
+Movie 400,Comedy,Director A,38596809,174296117,5.4,Terrible plot and boring scenes.
+Movie 401,Action,Director D,21650836,280838383,8.1,"Not worth the time, poor screenplay."
+Movie 402,Horror,Director C,88188874,156613432,7.7,Amazing movie with great visuals and acting.
+Movie 403,Drama,Director D,82080550,11114710,7,"Not worth the time, poor screenplay."
+Movie 404,Action,Director A,93221838,157581385,4.8,A decent movie with good direction.
+Movie 405,Romance,Director C,31599202,255281641,8.5,Amazing movie with great visuals and acting.
+Movie 406,Horror,Director A,71915689,271935747,4.9,A decent movie with good direction.
+Movie 407,Romance,Director D,74850051,160119144,3.6,Terrible plot and boring scenes.
+Movie 408,Action,Director C,86125032,201653675,8.5,A decent movie with good direction.
+Movie 409,Horror,Director D,79388942,267235304,6.8,"Not worth the time, poor screenplay."
+Movie 410,Horror,Director C,16694552,168596565,9,Amazing movie with great visuals and acting.
+Movie 411,Romance,Director D,54699247,174097240,7.6,"Not worth the time, poor screenplay."
+Movie 412,Comedy,Director D,28987361,21755387,4.2,"Not worth the time, poor screenplay."
+Movie 413,Comedy,Director D,90468042,42486185,7,Amazing movie with great visuals and acting.
+Movie 414,Horror,Director A,48945196,107953687,8.6,"Not worth the time, poor screenplay."
+Movie 415,Horror,Director B,46807351,209447595,4.9,Loved the characters and the storyline.
+Movie 416,Comedy,Director B,52840094,55477275,9.4,"Not worth the time, poor screenplay."
+Movie 417,Horror,Director C,54164386,95784035,5,Loved the characters and the storyline.
+Movie 418,Thriller,Director B,24277752,25255965,8.9,Amazing movie with great visuals and acting.
+Movie 419,Drama,Director C,20458675,124504190,8.9,Amazing movie with great visuals and acting.
+Movie 420,Thriller,Director D,18203180,156776476,6.3,A decent movie with good direction.
+Movie 421,Comedy,Director A,21172236,201348354,5,Amazing movie with great visuals and acting.
+Movie 422,Horror,Director A,9611172,136087677,6.2,Loved the characters and the storyline.
+Movie 423,Comedy,Director B,89226724,197139317,5.9,Loved the characters and the storyline.
+Movie 424,Comedy,Director B,51268135,262836900,7.2,Amazing movie with great visuals and acting.
+Movie 425,Horror,Director C,32699471,35385495,9,A decent movie with good direction.
+Movie 426,Horror,Director C,6501681,156562769,9.2,"Not worth the time, poor screenplay."
+Movie 427,Romance,Director A,98103248,299812745,4.7,Amazing movie with great visuals and acting.
+Movie 428,Comedy,Director B,68158662,251358442,8.2,Terrible plot and boring scenes.
+Movie 429,Romance,Director D,46072971,194808147,4.8,Terrible plot and boring scenes.
+Movie 430,Drama,Director D,45878262,36934383,4.5,Amazing movie with great visuals and acting.
+Movie 431,Horror,Director A,11117586,74095393,9,Loved the characters and the storyline.
+Movie 432,Comedy,Director B,27908813,268355075,7.9,Amazing movie with great visuals and acting.
+Movie 433,Horror,Director D,67741995,64533301,8.1,"Not worth the time, poor screenplay."
+Movie 434,Thriller,Director B,11410308,174517703,9.3,Terrible plot and boring scenes.
+Movie 435,Drama,Director D,26920249,289213358,6,A decent movie with good direction.
+Movie 436,Action,Director C,82803141,287735912,4.3,A decent movie with good direction.
+Movie 437,Horror,Director D,45585403,84581937,4.9,"Not worth the time, poor screenplay."
+Movie 438,Thriller,Director D,4154523,8774452,5.3,Amazing movie with great visuals and acting.
+Movie 439,Romance,Director B,22336856,133845245,4.8,Terrible plot and boring scenes.
+Movie 440,Horror,Director B,94401168,271303470,4.5,Amazing movie with great visuals and acting.
+Movie 441,Action,Director C,77273197,179519563,7.6,Terrible plot and boring scenes.
+Movie 442,Horror,Director A,19548312,49335582,8.5,A decent movie with good direction.
+Movie 443,Action,Director D,76286079,165079728,5.1,A decent movie with good direction.
+Movie 444,Thriller,Director A,22907327,226361858,5.4,Loved the characters and the storyline.
+Movie 445,Comedy,Director D,64148805,232203254,9.4,A decent movie with good direction.
+Movie 446,Thriller,Director C,6335620,63745093,8.3,A decent movie with good direction.
+Movie 447,Action,Director C,67105688,27757698,5.3,Amazing movie with great visuals and acting.
+Movie 448,Action,Director D,34730534,259426067,7.3,Loved the characters and the storyline.
+Movie 449,Action,Director C,37873525,48084273,8.1,Terrible plot and boring scenes.
+Movie 450,Drama,Director A,78398830,138696259,4.5,Amazing movie with great visuals and acting.
+Movie 451,Drama,Director D,85727566,78599697,8.1,Terrible plot and boring scenes.
+Movie 452,Comedy,Director B,90921963,275885753,9.3,Terrible plot and boring scenes.
+Movie 453,Romance,Director C,13866822,201026450,6.7,"Not worth the time, poor screenplay."
+Movie 454,Thriller,Director A,56678444,130544961,5.8,"Not worth the time, poor screenplay."
+Movie 455,Romance,Director C,61513762,171518078,5.1,A decent movie with good direction.
+Movie 456,Action,Director A,17702082,37290815,4,Terrible plot and boring scenes.
+Movie 457,Action,Director B,20409916,22070978,7.7,"Not worth the time, poor screenplay."
+Movie 458,Drama,Director B,25124468,239402808,9,Amazing movie with great visuals and acting.
+Movie 459,Comedy,Director B,37253690,176226547,6.6,Amazing movie with great visuals and acting.
+Movie 460,Comedy,Director D,54221356,145223498,8.7,Loved the characters and the storyline.
+Movie 461,Drama,Director B,63553917,148847956,9.5,Amazing movie with great visuals and acting.
+Movie 462,Thriller,Director B,84199284,290494659,6,Amazing movie with great visuals and acting.
+Movie 463,Action,Director C,3969487,228221747,4.5,Loved the characters and the storyline.
+Movie 464,Drama,Director C,10595394,155525845,5.4,A decent movie with good direction.
+Movie 465,Romance,Director B,68731501,104285624,5,Terrible plot and boring scenes.
+Movie 466,Horror,Director D,88798040,152387579,3.8,A decent movie with good direction.
+Movie 467,Romance,Director A,37902034,221378796,5.5,Loved the characters and the storyline.
+Movie 468,Comedy,Director A,34636493,266334396,7.9,Loved the characters and the storyline.
+Movie 469,Action,Director C,93152607,105882900,4.4,Loved the characters and the storyline.
+Movie 470,Drama,Director B,69977294,245633170,9.4,"Not worth the time, poor screenplay."
+Movie 471,Romance,Director D,44009414,240694995,4.5,Loved the characters and the storyline.
+Movie 472,Romance,Director A,99888848,269085996,5.9,Terrible plot and boring scenes.
+Movie 473,Comedy,Director D,33806691,91853890,6.2,Terrible plot and boring scenes.
+Movie 474,Action,Director D,41153003,90226207,9.2,A decent movie with good direction.
+Movie 475,Romance,Director C,30543142,120713310,6.9,Terrible plot and boring scenes.
+Movie 476,Horror,Director A,84529040,20352010,8.5,A decent movie with good direction.
+Movie 477,Thriller,Director B,33167363,128023297,4.4,Amazing movie with great visuals and acting.
+Movie 478,Romance,Director C,33101962,294007576,6.5,"Not worth the time, poor screenplay."
+Movie 479,Drama,Director B,76996665,262746323,3.7,A decent movie with good direction.
+Movie 480,Horror,Director C,97685681,68424918,6.4,"Not worth the time, poor screenplay."
+Movie 481,Comedy,Director C,10306380,47887185,5.7,Amazing movie with great visuals and acting.
+Movie 482,Comedy,Director A,55746766,259532425,6.1,A decent movie with good direction.
+Movie 483,Comedy,Director C,22217093,7412073,9.3,"Not worth the time, poor screenplay."
+Movie 484,Thriller,Director B,45296565,215947010,4.3,A decent movie with good direction.
+Movie 485,Action,Director B,35944762,132679793,8.6,Terrible plot and boring scenes.
+Movie 486,Thriller,Director A,56955309,54328417,4.3,Amazing movie with great visuals and acting.
+Movie 487,Romance,Director C,7270873,73723447,7.8,Loved the characters and the storyline.
+Movie 488,Comedy,Director B,30701094,134295877,4.9,Amazing movie with great visuals and acting.
+Movie 489,Romance,Director D,24248044,268427988,6.4,Terrible plot and boring scenes.
+Movie 490,Horror,Director C,26756436,57237307,5,Terrible plot and boring scenes.
+Movie 491,Romance,Director C,41110443,262003842,9.3,A decent movie with good direction.
+Movie 492,Action,Director D,15118279,12040360,4.9,Terrible plot and boring scenes.
+Movie 493,Romance,Director A,45182426,31260930,9,A decent movie with good direction.
+Movie 494,Action,Director C,20877899,167907861,6.5,Loved the characters and the storyline.
+Movie 495,Drama,Director D,51753401,226052914,5.3,Terrible plot and boring scenes.
+Movie 496,Romance,Director D,25849076,165873866,5.3,"Not worth the time, poor screenplay."
+Movie 497,Action,Director A,89947820,106026905,8.1,Loved the characters and the storyline.
+Movie 498,Horror,Director A,50724384,14631878,5.3,A decent movie with good direction.
+Movie 499,Action,Director D,75597087,99660427,8.5,Terrible plot and boring scenes.
+Movie 500,Comedy,Director C,68197038,247792626,6.9,Terrible plot and boring scenes.
+Movie 501,Romance,Director B,23713875,266990117,8.9,"Not worth the time, poor screenplay."
+Movie 502,Romance,Director D,67225554,284107597,4.7,Loved the characters and the storyline.
+Movie 503,Action,Director A,80616445,139350901,8,Loved the characters and the storyline.
+Movie 504,Comedy,Director B,14669046,129857805,8.4,A decent movie with good direction.
+Movie 505,Action,Director A,40662796,209741606,5.2,Terrible plot and boring scenes.
+Movie 506,Thriller,Director B,60466559,4399700,4,A decent movie with good direction.
+Movie 507,Horror,Director D,46141102,21542079,8.5,"Not worth the time, poor screenplay."
+Movie 508,Horror,Director C,96820813,95231212,6.5,A decent movie with good direction.
+Movie 509,Romance,Director A,49551488,53753853,8.4,Terrible plot and boring scenes.
+Movie 510,Drama,Director D,30268379,150854184,3.6,Amazing movie with great visuals and acting.
+Movie 511,Action,Director B,3385825,28730756,9,Terrible plot and boring scenes.
+Movie 512,Drama,Director D,12077047,296080076,7.3,Amazing movie with great visuals and acting.
+Movie 513,Drama,Director A,49701103,57055520,5.3,A decent movie with good direction.
+Movie 514,Horror,Director D,7730692,193090056,9.4,Loved the characters and the storyline.
+Movie 515,Action,Director A,79796450,93420123,9,Loved the characters and the storyline.
+Movie 516,Thriller,Director A,4141741,268949324,5.8,Terrible plot and boring scenes.
+Movie 517,Thriller,Director C,69170006,41058175,8.6,A decent movie with good direction.
+Movie 518,Action,Director D,47111261,216971822,3.9,Loved the characters and the storyline.
+Movie 519,Comedy,Director A,46905951,231945886,7.9,Terrible plot and boring scenes.
+Movie 520,Thriller,Director A,15298685,33471510,8.4,Loved the characters and the storyline.
+Movie 521,Comedy,Director B,37525602,196264493,9,"Not worth the time, poor screenplay."
+Movie 522,Drama,Director C,74656047,168499298,6.3,"Not worth the time, poor screenplay."
+Movie 523,Romance,Director D,24037673,252390003,5.7,"Not worth the time, poor screenplay."
+Movie 524,Action,Director B,5179704,155917600,5.8,Amazing movie with great visuals and acting.
+Movie 525,Drama,Director D,82918141,224165792,8.4,Loved the characters and the storyline.
+Movie 526,Horror,Director B,64679959,191258799,5.6,Loved the characters and the storyline.
+Movie 527,Drama,Director C,68978917,17074750,8.6,Loved the characters and the storyline.
+Movie 528,Drama,Director A,2861515,145848116,5.1,Loved the characters and the storyline.
+Movie 529,Thriller,Director A,1355572,138060167,7.7,Terrible plot and boring scenes.
+Movie 530,Romance,Director B,42992748,181833750,6.1,"Not worth the time, poor screenplay."
+Movie 531,Horror,Director D,54434596,20304710,8.3,A decent movie with good direction.
+Movie 532,Thriller,Director D,81191919,223718890,4.2,Loved the characters and the storyline.
+Movie 533,Drama,Director C,32756067,27362662,6.6,Terrible plot and boring scenes.
+Movie 534,Action,Director C,38301286,115512816,4.7,Terrible plot and boring scenes.
+Movie 535,Action,Director B,97641518,269179440,5.8,A decent movie with good direction.
+Movie 536,Romance,Director A,39563199,28423130,7.2,Amazing movie with great visuals and acting.
+Movie 537,Drama,Director A,72571656,163298817,5.6,Amazing movie with great visuals and acting.
+Movie 538,Romance,Director A,65095416,161058921,3.8,Loved the characters and the storyline.
+Movie 539,Drama,Director C,47649665,102829047,7.3,A decent movie with good direction.
+Movie 540,Romance,Director D,24427420,244966825,4.5,Terrible plot and boring scenes.
+Movie 541,Drama,Director A,44343781,9173572,7.6,"Not worth the time, poor screenplay."
+Movie 542,Horror,Director C,26668562,5851988,3.9,Loved the characters and the storyline.
+Movie 543,Romance,Director D,13247221,292017153,3.8,A decent movie with good direction.
+Movie 544,Romance,Director A,93213747,73288976,7.3,Terrible plot and boring scenes.
+Movie 545,Comedy,Director A,92629482,76908328,8.4,Loved the characters and the storyline.
+Movie 546,Romance,Director D,6739151,149176722,8,"Not worth the time, poor screenplay."
+Movie 547,Romance,Director B,15849143,121655296,6.2,"Not worth the time, poor screenplay."
+Movie 548,Drama,Director C,16083541,103588032,8.1,"Not worth the time, poor screenplay."
+Movie 549,Comedy,Director B,57879266,140198179,3.7,A decent movie with good direction.
+Movie 550,Action,Director A,75664067,58581942,7,Amazing movie with great visuals and acting.
+Movie 551,Comedy,Director A,33880738,210064459,8.4,A decent movie with good direction.
+Movie 552,Horror,Director C,1953104,48088502,5.1,A decent movie with good direction.
+Movie 553,Horror,Director A,7345804,25494513,3.7,Amazing movie with great visuals and acting.
+Movie 554,Action,Director D,76129460,159436772,4.7,Terrible plot and boring scenes.
+Movie 555,Thriller,Director B,78509760,7536397,5.7,Terrible plot and boring scenes.
+Movie 556,Horror,Director B,92180043,63970031,8.4,A decent movie with good direction.
+Movie 557,Thriller,Director A,15966309,116419865,3.9,Loved the characters and the storyline.
+Movie 558,Action,Director B,53744005,147618337,4.7,Loved the characters and the storyline.
+Movie 559,Comedy,Director B,5170195,144842377,4.2,Amazing movie with great visuals and acting.
+Movie 560,Comedy,Director C,47820534,252525172,4.5,A decent movie with good direction.
+Movie 561,Drama,Director A,18459984,14736357,4.6,Loved the characters and the storyline.
+Movie 562,Horror,Director C,82226949,98219800,4,"Not worth the time, poor screenplay."
+Movie 563,Comedy,Director A,76696347,7114210,8,"Not worth the time, poor screenplay."
+Movie 564,Action,Director A,52314495,110609586,8.4,Terrible plot and boring scenes.
+Movie 565,Romance,Director C,13406634,247961746,6.7,Loved the characters and the storyline.
+Movie 566,Thriller,Director A,61908238,46933017,4.6,"Not worth the time, poor screenplay."
+Movie 567,Comedy,Director C,97644533,264428464,6.9,Loved the characters and the storyline.
+Movie 568,Horror,Director B,9033363,165473851,6.9,Loved the characters and the storyline.
+Movie 569,Comedy,Director B,35512773,18749864,9,Amazing movie with great visuals and acting.
+Movie 570,Comedy,Director C,40138453,229156239,4,Amazing movie with great visuals and acting.
+Movie 571,Thriller,Director A,81993173,192211385,6.4,A decent movie with good direction.
+Movie 572,Romance,Director C,6787060,72810401,6.5,"Not worth the time, poor screenplay."
+Movie 573,Thriller,Director A,48487231,204673074,9.1,Terrible plot and boring scenes.
+Movie 574,Drama,Director A,13851671,144156214,4,Amazing movie with great visuals and acting.
+Movie 575,Action,Director D,56426722,198194836,8.9,Loved the characters and the storyline.
+Movie 576,Comedy,Director D,28908565,5363353,6.8,Terrible plot and boring scenes.
+Movie 577,Action,Director A,31055146,108474381,6.2,Amazing movie with great visuals and acting.
+Movie 578,Romance,Director B,28597185,17174913,7.2,A decent movie with good direction.
+Movie 579,Action,Director D,67611065,283422253,6.2,A decent movie with good direction.
+Movie 580,Action,Director C,94366159,104129570,5.5,"Not worth the time, poor screenplay."
+Movie 581,Thriller,Director B,36615592,203360857,9.3,Loved the characters and the storyline.
+Movie 582,Romance,Director D,20062096,49295760,7.8,Loved the characters and the storyline.
+Movie 583,Drama,Director C,52931469,162256401,8.4,"Not worth the time, poor screenplay."
+Movie 584,Horror,Director A,32600428,23750290,8.5,A decent movie with good direction.
+Movie 585,Action,Director D,97095984,179509640,7.7,"Not worth the time, poor screenplay."
+Movie 586,Romance,Director C,29694567,4756512,5.8,Amazing movie with great visuals and acting.
+Movie 587,Horror,Director D,53216898,235661960,8.9,"Not worth the time, poor screenplay."
+Movie 588,Romance,Director C,11478699,124687873,6,Loved the characters and the storyline.
+Movie 589,Comedy,Director D,18815529,24753815,4.6,Loved the characters and the storyline.
+Movie 590,Thriller,Director A,47684663,35163071,9,Amazing movie with great visuals and acting.
+Movie 591,Action,Director A,81780666,65519169,4,Terrible plot and boring scenes.
+Movie 592,Thriller,Director B,74639395,204230132,3.7,Amazing movie with great visuals and acting.
+Movie 593,Comedy,Director C,34681778,33075616,5,Amazing movie with great visuals and acting.
+Movie 594,Action,Director B,26147334,155903305,7.3,"Not worth the time, poor screenplay."
+Movie 595,Action,Director C,81787388,263413252,8.2,Loved the characters and the storyline.
+Movie 596,Horror,Director B,44779436,153282676,5,Loved the characters and the storyline.
+Movie 597,Horror,Director A,84410115,182192157,8.4,Amazing movie with great visuals and acting.
+Movie 598,Drama,Director D,8070152,93582352,7.7,A decent movie with good direction.
+Movie 599,Horror,Director A,45734439,158131551,5.9,Amazing movie with great visuals and acting.
+Movie 600,Thriller,Director B,60843726,32717000,7.6,"Not worth the time, poor screenplay."
+Movie 601,Horror,Director C,84201043,178145337,6.8,"Not worth the time, poor screenplay."
+Movie 602,Drama,Director B,21031131,225283385,4.1,Terrible plot and boring scenes.
+Movie 603,Drama,Director C,48604582,37960539,5.8,A decent movie with good direction.
+Movie 604,Action,Director B,87691430,109694729,9.4,Loved the characters and the storyline.
+Movie 605,Romance,Director C,25550924,206945403,5.6,Amazing movie with great visuals and acting.
+Movie 606,Thriller,Director C,74566740,169807464,6.7,Terrible plot and boring scenes.
+Movie 607,Horror,Director D,72564160,206863579,6.7,Terrible plot and boring scenes.
+Movie 608,Comedy,Director C,33346821,73763865,6.2,Loved the characters and the storyline.
+Movie 609,Comedy,Director B,22520324,111886558,6.5,Loved the characters and the storyline.
+Movie 610,Horror,Director B,26069597,49448222,5.5,A decent movie with good direction.
+Movie 611,Comedy,Director A,26631170,263053144,7.7,Terrible plot and boring scenes.
+Movie 612,Thriller,Director B,1410460,194551632,9,Terrible plot and boring scenes.
+Movie 613,Thriller,Director A,59565553,10735439,7.7,Amazing movie with great visuals and acting.
+Movie 614,Drama,Director A,43932221,29070042,5.6,Amazing movie with great visuals and acting.
+Movie 615,Action,Director B,96843134,131722030,8.7,Amazing movie with great visuals and acting.
+Movie 616,Drama,Director C,86181640,83462113,5.3,Terrible plot and boring scenes.
+Movie 617,Thriller,Director D,83362896,128575481,3.9,A decent movie with good direction.
+Movie 618,Drama,Director C,26919058,17035298,4.8,"Not worth the time, poor screenplay."
+Movie 619,Drama,Director A,3703376,244834522,3.9,Amazing movie with great visuals and acting.
+Movie 620,Horror,Director C,86027434,52410592,9.2,Terrible plot and boring scenes.
+Movie 621,Romance,Director D,48543353,28929935,6,Terrible plot and boring scenes.
+Movie 622,Horror,Director C,99596092,130337902,8.2,Terrible plot and boring scenes.
+Movie 623,Thriller,Director C,79251440,78903488,5.5,Terrible plot and boring scenes.
+Movie 624,Comedy,Director A,73847649,299136349,4,A decent movie with good direction.
+Movie 625,Comedy,Director A,43421724,289074074,7,Loved the characters and the storyline.
+Movie 626,Action,Director A,34085258,242262527,5,"Not worth the time, poor screenplay."
+Movie 627,Thriller,Director D,63106255,243978924,5.7,A decent movie with good direction.
+Movie 628,Comedy,Director A,3163906,177056903,6.9,"Not worth the time, poor screenplay."
+Movie 629,Action,Director A,25469969,93108480,5.2,"Not worth the time, poor screenplay."
+Movie 630,Horror,Director D,42217841,53240172,6.2,"Not worth the time, poor screenplay."
+Movie 631,Romance,Director B,66731862,55228133,8.9,Loved the characters and the storyline.
+Movie 632,Comedy,Director B,38431219,134576229,5.7,A decent movie with good direction.
+Movie 633,Horror,Director C,88213061,246523029,7.2,Terrible plot and boring scenes.
+Movie 634,Drama,Director B,50498308,293042936,6.5,Amazing movie with great visuals and acting.
+Movie 635,Drama,Director B,79748313,144622530,6.4,A decent movie with good direction.
+Movie 636,Romance,Director D,13057901,95112800,8.7,"Not worth the time, poor screenplay."
+Movie 637,Horror,Director A,58296770,142616448,9,Loved the characters and the storyline.
+Movie 638,Romance,Director B,12675995,127408181,7.9,Terrible plot and boring scenes.
+Movie 639,Action,Director D,41374243,260528021,5,"Not worth the time, poor screenplay."
+Movie 640,Romance,Director D,82289818,207831369,4.4,Terrible plot and boring scenes.
+Movie 641,Thriller,Director C,96203461,76671306,8.5,Terrible plot and boring scenes.
+Movie 642,Horror,Director B,88955674,294215015,6.8,Terrible plot and boring scenes.
+Movie 643,Comedy,Director B,81049374,204167340,5.7,Terrible plot and boring scenes.
+Movie 644,Comedy,Director A,85012225,27962022,3.6,"Not worth the time, poor screenplay."
+Movie 645,Drama,Director C,79331591,147766324,7.6,A decent movie with good direction.
+Movie 646,Romance,Director A,84014278,196408890,6.4,"Not worth the time, poor screenplay."
+Movie 647,Horror,Director C,99941488,94709861,6.9,"Not worth the time, poor screenplay."
+Movie 648,Comedy,Director D,97868825,249497760,6.6,"Not worth the time, poor screenplay."
+Movie 649,Romance,Director D,29697681,291569581,5,Terrible plot and boring scenes.
+Movie 650,Thriller,Director D,83714361,21081230,9.2,"Not worth the time, poor screenplay."
+Movie 651,Thriller,Director A,58350529,139571919,4,Amazing movie with great visuals and acting.
+Movie 652,Horror,Director A,41381573,297701919,7,"Not worth the time, poor screenplay."
+Movie 653,Action,Director B,86617048,256502363,4,Terrible plot and boring scenes.
+Movie 654,Horror,Director C,62327233,110091754,6.5,Loved the characters and the storyline.
+Movie 655,Horror,Director C,58437000,103195158,8.6,Loved the characters and the storyline.
+Movie 656,Action,Director D,8191126,248123558,7.5,Amazing movie with great visuals and acting.
+Movie 657,Comedy,Director D,22812172,37436575,5,A decent movie with good direction.
+Movie 658,Action,Director B,7691305,4115831,9.4,A decent movie with good direction.
+Movie 659,Drama,Director D,66228216,73593840,8.7,A decent movie with good direction.
+Movie 660,Drama,Director A,98892624,25982998,3.6,Terrible plot and boring scenes.
+Movie 661,Drama,Director A,94639080,75930409,4.8,A decent movie with good direction.
+Movie 662,Horror,Director C,75836046,46219800,7.8,A decent movie with good direction.
+Movie 663,Action,Director D,12541195,157319165,6.9,Terrible plot and boring scenes.
+Movie 664,Drama,Director C,40471397,32771190,7.6,Amazing movie with great visuals and acting.
+Movie 665,Action,Director D,30250198,193362966,5.3,"Not worth the time, poor screenplay."
+Movie 666,Comedy,Director B,51363784,100028461,5.8,A decent movie with good direction.
+Movie 667,Romance,Director C,86289005,265586204,5.4,A decent movie with good direction.
+Movie 668,Horror,Director D,13661012,153530676,3.7,Loved the characters and the storyline.
+Movie 669,Thriller,Director C,22807454,242152999,5.7,Terrible plot and boring scenes.
+Movie 670,Action,Director A,81061763,20516229,4.7,Amazing movie with great visuals and acting.
+Movie 671,Comedy,Director D,60665763,228183684,3.6,"Not worth the time, poor screenplay."
+Movie 672,Thriller,Director B,77372593,72368831,7.9,Loved the characters and the storyline.
+Movie 673,Drama,Director A,30217578,4194678,3.8,Amazing movie with great visuals and acting.
+Movie 674,Horror,Director B,5270795,107827683,4.9,Loved the characters and the storyline.
+Movie 675,Comedy,Director A,69049123,265742727,6.3,"Not worth the time, poor screenplay."
+Movie 676,Action,Director C,81985599,222903473,6,A decent movie with good direction.
+Movie 677,Drama,Director B,54141204,130780796,6.9,A decent movie with good direction.
+Movie 678,Romance,Director B,9569540,226079116,5,Loved the characters and the storyline.
+Movie 679,Thriller,Director B,63937884,246424246,6.5,A decent movie with good direction.
+Movie 680,Drama,Director D,9127851,114141500,8.2,A decent movie with good direction.
+Movie 681,Comedy,Director C,40093422,34820893,9.3,Terrible plot and boring scenes.
+Movie 682,Comedy,Director D,46028472,203439511,7.3,A decent movie with good direction.
+Movie 683,Horror,Director C,16762786,23221577,5.2,A decent movie with good direction.
+Movie 684,Comedy,Director A,95789286,53006049,7.1,Terrible plot and boring scenes.
+Movie 685,Action,Director D,5056120,72382964,6.5,Amazing movie with great visuals and acting.
+Movie 686,Action,Director C,54289376,34196636,7.3,Loved the characters and the storyline.
+Movie 687,Comedy,Director A,77126699,233321606,7.2,Amazing movie with great visuals and acting.
+Movie 688,Romance,Director D,45103443,50937771,4.7,"Not worth the time, poor screenplay."
+Movie 689,Comedy,Director C,3549184,160096624,5,"Not worth the time, poor screenplay."
+Movie 690,Horror,Director D,17141497,269013496,9,Terrible plot and boring scenes.
+Movie 691,Thriller,Director D,41068377,64234798,4.9,A decent movie with good direction.
+Movie 692,Romance,Director B,75354665,48013581,5.9,A decent movie with good direction.
+Movie 693,Comedy,Director A,21023051,281778205,8.7,"Not worth the time, poor screenplay."
+Movie 694,Romance,Director A,54312192,204289986,8.5,Loved the characters and the storyline.
+Movie 695,Horror,Director D,82498546,269997330,8.1,Amazing movie with great visuals and acting.
+Movie 696,Thriller,Director D,34180173,250672580,5.2,Loved the characters and the storyline.
+Movie 697,Romance,Director C,83052811,215045684,7.1,Amazing movie with great visuals and acting.
+Movie 698,Horror,Director C,47599123,215018960,6.6,Terrible plot and boring scenes.
+Movie 699,Horror,Director D,12861798,29058195,4,"Not worth the time, poor screenplay."
+Movie 700,Thriller,Director A,4497037,215226652,5.4,Terrible plot and boring scenes.
+Movie 701,Romance,Director A,83933020,198471962,4.6,Loved the characters and the storyline.
+Movie 702,Comedy,Director A,73916053,17996962,8.3,A decent movie with good direction.
+Movie 703,Drama,Director D,58626331,29659920,4.5,Terrible plot and boring scenes.
+Movie 704,Drama,Director A,23963783,263433757,7.2,Loved the characters and the storyline.
+Movie 705,Drama,Director B,66495112,254294251,8.8,Amazing movie with great visuals and acting.
+Movie 706,Thriller,Director C,69530439,62525808,4.2,A decent movie with good direction.
+Movie 707,Horror,Director D,73905441,212692881,8.3,Amazing movie with great visuals and acting.
+Movie 708,Comedy,Director D,56566493,104397511,5.4,Loved the characters and the storyline.
+Movie 709,Thriller,Director D,80969287,169782870,4.4,Terrible plot and boring scenes.
+Movie 710,Horror,Director D,62720760,45133865,7.7,Amazing movie with great visuals and acting.
+Movie 711,Comedy,Director A,29620713,90151584,5.1,Terrible plot and boring scenes.
+Movie 712,Action,Director C,27515981,82266609,3.8,Amazing movie with great visuals and acting.
+Movie 713,Romance,Director C,54922508,109733121,6.6,Terrible plot and boring scenes.
+Movie 714,Thriller,Director D,17149651,265474885,4.9,A decent movie with good direction.
+Movie 715,Drama,Director C,85194621,52196297,3.7,Loved the characters and the storyline.
+Movie 716,Horror,Director D,94577043,20370563,6.4,"Not worth the time, poor screenplay."
+Movie 717,Drama,Director D,13563206,126846732,6.4,"Not worth the time, poor screenplay."
+Movie 718,Comedy,Director D,35693263,188978388,7.8,"Not worth the time, poor screenplay."
+Movie 719,Action,Director D,54645977,140436962,4.7,Amazing movie with great visuals and acting.
+Movie 720,Romance,Director A,90045451,26542827,4.8,"Not worth the time, poor screenplay."
+Movie 721,Romance,Director D,83739246,276114577,8,"Not worth the time, poor screenplay."
+Movie 722,Comedy,Director B,66870820,280357980,4,"Not worth the time, poor screenplay."
+Movie 723,Action,Director C,8155810,187266790,5.6,"Not worth the time, poor screenplay."
+Movie 724,Action,Director B,44439596,204597873,5.9,A decent movie with good direction.
+Movie 725,Horror,Director A,64338218,88251529,8.4,A decent movie with good direction.
+Movie 726,Comedy,Director C,98919362,44976170,4.6,Loved the characters and the storyline.
+Movie 727,Action,Director B,53197813,272970694,7.5,Loved the characters and the storyline.
+Movie 728,Horror,Director C,93137764,268027085,7.9,"Not worth the time, poor screenplay."
+Movie 729,Romance,Director D,67486177,195671599,8.7,"Not worth the time, poor screenplay."
+Movie 730,Action,Director B,86051590,217390397,5.4,A decent movie with good direction.
+Movie 731,Romance,Director C,91611924,257579196,4.8,A decent movie with good direction.
+Movie 732,Romance,Director A,31144460,78700743,9.3,"Not worth the time, poor screenplay."
+Movie 733,Comedy,Director B,90653140,198386262,3.8,Amazing movie with great visuals and acting.
+Movie 734,Comedy,Director B,96198552,237031819,5.5,"Not worth the time, poor screenplay."
+Movie 735,Comedy,Director A,4417904,187379438,4.5,Loved the characters and the storyline.
+Movie 736,Romance,Director D,82339342,119776644,6,Terrible plot and boring scenes.
+Movie 737,Drama,Director B,4521745,99441939,5.5,Amazing movie with great visuals and acting.
+Movie 738,Action,Director B,59270995,251876003,8.8,Loved the characters and the storyline.
+Movie 739,Comedy,Director C,26869967,174041033,5.8,Amazing movie with great visuals and acting.
+Movie 740,Drama,Director B,7601260,75993131,4.8,Amazing movie with great visuals and acting.
+Movie 741,Romance,Director B,85512076,269256747,5.5,Loved the characters and the storyline.
+Movie 742,Action,Director B,23211707,77261295,8,Amazing movie with great visuals and acting.
+Movie 743,Thriller,Director C,97512031,47602994,7.2,Loved the characters and the storyline.
+Movie 744,Thriller,Director C,63173673,217377840,8.6,Loved the characters and the storyline.
+Movie 745,Romance,Director C,43282874,126789398,6.3,A decent movie with good direction.
+Movie 746,Horror,Director A,55215652,242934070,5.2,Terrible plot and boring scenes.
+Movie 747,Drama,Director C,21178813,212414621,7.8,"Not worth the time, poor screenplay."
+Movie 748,Action,Director D,26374238,179499759,6.3,Terrible plot and boring scenes.
+Movie 749,Horror,Director A,28162829,299416877,8.3,Loved the characters and the storyline.
+Movie 750,Thriller,Director A,92432960,127066529,4.5,Loved the characters and the storyline.
+Movie 751,Action,Director D,9718915,67223613,6.1,A decent movie with good direction.
+Movie 752,Romance,Director D,74660861,12308749,5.2,Amazing movie with great visuals and acting.
+Movie 753,Thriller,Director D,61255505,244856928,5.1,"Not worth the time, poor screenplay."
+Movie 754,Thriller,Director D,19369052,216482847,3.5,Amazing movie with great visuals and acting.
+Movie 755,Thriller,Director B,71473096,31935709,8,Terrible plot and boring scenes.
+Movie 756,Thriller,Director D,30400149,19419883,3.7,"Not worth the time, poor screenplay."
+Movie 757,Drama,Director B,59087135,243221035,7.7,Amazing movie with great visuals and acting.
+Movie 758,Comedy,Director C,20649258,296033311,4.1,Amazing movie with great visuals and acting.
+Movie 759,Romance,Director D,41122472,175066891,3.9,Terrible plot and boring scenes.
+Movie 760,Romance,Director C,39405590,276930791,9.1,Terrible plot and boring scenes.
+Movie 761,Comedy,Director C,21879050,298195831,5.8,"Not worth the time, poor screenplay."
+Movie 762,Horror,Director B,3655184,48198055,3.9,Terrible plot and boring scenes.
+Movie 763,Horror,Director D,68591968,22391403,6.1,Loved the characters and the storyline.
+Movie 764,Thriller,Director B,6199615,102612386,8.5,Terrible plot and boring scenes.
+Movie 765,Comedy,Director B,85333582,120071605,5,A decent movie with good direction.
+Movie 766,Thriller,Director B,96692535,282720599,8,Loved the characters and the storyline.
+Movie 767,Comedy,Director D,55218211,69686139,8.4,Loved the characters and the storyline.
+Movie 768,Horror,Director C,68621364,292518104,9.2,A decent movie with good direction.
+Movie 769,Romance,Director A,20412488,261911951,9.3,Terrible plot and boring scenes.
+Movie 770,Action,Director D,37467575,29210902,6.5,Terrible plot and boring scenes.
+Movie 771,Horror,Director D,37390702,101793236,6.3,"Not worth the time, poor screenplay."
+Movie 772,Comedy,Director D,53370546,236723806,4.5,Amazing movie with great visuals and acting.
+Movie 773,Thriller,Director D,33799399,110250967,5.7,Loved the characters and the storyline.
+Movie 774,Thriller,Director A,89255683,10984007,7.1,"Not worth the time, poor screenplay."
+Movie 775,Action,Director C,86893722,73250909,8.4,A decent movie with good direction.
+Movie 776,Action,Director A,30518136,38286846,5.1,Amazing movie with great visuals and acting.
+Movie 777,Horror,Director B,96677705,84272624,4.5,A decent movie with good direction.
+Movie 778,Comedy,Director C,41418969,7273909,9.4,Terrible plot and boring scenes.
+Movie 779,Romance,Director A,32132384,171579367,5.1,Amazing movie with great visuals and acting.
+Movie 780,Horror,Director C,24557537,271253483,6.8,Loved the characters and the storyline.
+Movie 781,Thriller,Director B,84903067,31659216,6.1,A decent movie with good direction.
+Movie 782,Action,Director D,67281854,211500114,9.2,Loved the characters and the storyline.
+Movie 783,Action,Director C,34230635,76420946,6.5,A decent movie with good direction.
+Movie 784,Horror,Director C,90889479,262528534,6.3,Amazing movie with great visuals and acting.
+Movie 785,Drama,Director A,8448273,137202961,8.7,Terrible plot and boring scenes.
+Movie 786,Romance,Director A,56585535,111854796,6.7,Amazing movie with great visuals and acting.
+Movie 787,Romance,Director D,60547192,271968922,4.5,"Not worth the time, poor screenplay."
+Movie 788,Action,Director C,34088313,65826048,7.6,A decent movie with good direction.
+Movie 789,Comedy,Director C,59211567,116753633,3.6,Loved the characters and the storyline.
+Movie 790,Horror,Director C,68218922,298594207,6.7,A decent movie with good direction.
+Movie 791,Horror,Director D,81542622,143727851,4.7,Amazing movie with great visuals and acting.
+Movie 792,Comedy,Director D,37046633,78138850,6.2,A decent movie with good direction.
+Movie 793,Horror,Director C,45917320,85371662,7.3,A decent movie with good direction.
+Movie 794,Comedy,Director A,49920488,19223378,4.4,Terrible plot and boring scenes.
+Movie 795,Thriller,Director D,48631217,109957071,3.7,Loved the characters and the storyline.
+Movie 796,Thriller,Director C,85113322,276008827,4.6,Loved the characters and the storyline.
+Movie 797,Romance,Director B,35424191,149593031,8.1,A decent movie with good direction.
+Movie 798,Thriller,Director D,43725559,215792450,5.8,A decent movie with good direction.
+Movie 799,Comedy,Director B,1667159,110116349,8,"Not worth the time, poor screenplay."
+Movie 800,Romance,Director C,77409237,81018993,6,Terrible plot and boring scenes.
+Movie 801,Comedy,Director B,1712901,133853805,3.7,A decent movie with good direction.
+Movie 802,Thriller,Director D,90578480,59522695,5.5,Terrible plot and boring scenes.
+Movie 803,Horror,Director A,23839138,125208993,9.2,"Not worth the time, poor screenplay."
+Movie 804,Romance,Director D,41372251,94579775,6.4,"Not worth the time, poor screenplay."
+Movie 805,Romance,Director B,46134823,218321561,7.4,A decent movie with good direction.
+Movie 806,Comedy,Director D,82502611,287205672,8,Loved the characters and the storyline.
+Movie 807,Romance,Director D,44222996,172329608,6.9,A decent movie with good direction.
+Movie 808,Action,Director A,45536052,175159428,9.5,A decent movie with good direction.
+Movie 809,Action,Director D,17751578,49447230,7.8,"Not worth the time, poor screenplay."
+Movie 810,Romance,Director A,53845679,9400730,6.5,Terrible plot and boring scenes.
+Movie 811,Romance,Director C,53225008,242113095,8.4,Amazing movie with great visuals and acting.
+Movie 812,Romance,Director D,65980748,163495207,6.6,Loved the characters and the storyline.
+Movie 813,Comedy,Director D,14077682,283837754,5.2,Amazing movie with great visuals and acting.
+Movie 814,Romance,Director D,29824247,198327656,6.6,Terrible plot and boring scenes.
+Movie 815,Drama,Director B,57472527,50896974,4.9,"Not worth the time, poor screenplay."
+Movie 816,Action,Director D,17372329,51863230,4.6,A decent movie with good direction.
+Movie 817,Comedy,Director D,82678304,229257940,8.8,Terrible plot and boring scenes.
+Movie 818,Horror,Director B,40019187,190835751,5.9,Terrible plot and boring scenes.
+Movie 819,Romance,Director D,51804154,247528714,4.4,Loved the characters and the storyline.
+Movie 820,Romance,Director A,79889618,208694308,6.3,Loved the characters and the storyline.
+Movie 821,Action,Director A,72968665,228003011,4,Loved the characters and the storyline.
+Movie 822,Comedy,Director B,43806599,77209142,7.5,Amazing movie with great visuals and acting.
+Movie 823,Action,Director A,31112682,134553188,8.3,Amazing movie with great visuals and acting.
+Movie 824,Romance,Director C,59451976,8945766,6.4,Loved the characters and the storyline.
+Movie 825,Comedy,Director B,52659155,137924838,8.6,Loved the characters and the storyline.
+Movie 826,Drama,Director A,18837436,290239258,6,Amazing movie with great visuals and acting.
+Movie 827,Action,Director B,77249401,56787790,6.8,Amazing movie with great visuals and acting.
+Movie 828,Thriller,Director D,62462996,165989141,6.4,A decent movie with good direction.
+Movie 829,Romance,Director B,1785163,76163866,5,Terrible plot and boring scenes.
+Movie 830,Horror,Director C,50393126,116609453,5.9,"Not worth the time, poor screenplay."
+Movie 831,Horror,Director A,79763354,19142386,7.6,A decent movie with good direction.
+Movie 832,Romance,Director D,95792673,227771101,8.9,Terrible plot and boring scenes.
+Movie 833,Action,Director A,86384910,12803611,4.7,Amazing movie with great visuals and acting.
+Movie 834,Drama,Director A,14560081,108073669,7.3,"Not worth the time, poor screenplay."
+Movie 835,Comedy,Director B,30554641,35187316,3.8,Terrible plot and boring scenes.
+Movie 836,Comedy,Director A,67704429,70409091,7.2,Amazing movie with great visuals and acting.
+Movie 837,Thriller,Director D,60866670,239619247,5.3,Terrible plot and boring scenes.
+Movie 838,Action,Director D,56817039,72306973,9,Loved the characters and the storyline.
+Movie 839,Drama,Director A,39417966,196171768,7.5,"Not worth the time, poor screenplay."
+Movie 840,Comedy,Director D,57363927,204651436,6.1,"Not worth the time, poor screenplay."
+Movie 841,Romance,Director B,81521902,21366421,4.3,"Not worth the time, poor screenplay."
+Movie 842,Horror,Director D,88876297,240863474,5,"Not worth the time, poor screenplay."
+Movie 843,Thriller,Director D,74477036,54443255,9.3,A decent movie with good direction.
+Movie 844,Thriller,Director A,25679921,35459754,6.9,A decent movie with good direction.
+Movie 845,Drama,Director D,81814897,233449486,9.3,Terrible plot and boring scenes.
+Movie 846,Action,Director D,5555016,265489275,7.8,A decent movie with good direction.
+Movie 847,Thriller,Director B,20868680,57255345,6.6,"Not worth the time, poor screenplay."
+Movie 848,Drama,Director D,39574206,116330940,7.4,"Not worth the time, poor screenplay."
+Movie 849,Drama,Director D,18676398,267396331,8.9,Loved the characters and the storyline.
+Movie 850,Action,Director A,51440697,94335090,9.1,Loved the characters and the storyline.
+Movie 851,Horror,Director D,61056295,80789424,5.1,A decent movie with good direction.
+Movie 852,Thriller,Director A,44643894,102518447,7.6,Loved the characters and the storyline.
+Movie 853,Romance,Director B,12066287,44135996,8.6,"Not worth the time, poor screenplay."
+Movie 854,Romance,Director C,14816453,68937463,6.4,A decent movie with good direction.
+Movie 855,Comedy,Director D,65078697,24744124,6.3,Terrible plot and boring scenes.
+Movie 856,Comedy,Director A,41566344,72340004,3.8,"Not worth the time, poor screenplay."
+Movie 857,Horror,Director D,46979372,123506529,7.1,Terrible plot and boring scenes.
+Movie 858,Thriller,Director D,36435774,175168804,5.3,"Not worth the time, poor screenplay."
+Movie 859,Drama,Director B,24508494,269390594,8.1,Terrible plot and boring scenes.
+Movie 860,Horror,Director B,90150634,34292338,7,Amazing movie with great visuals and acting.
+Movie 861,Comedy,Director C,88609397,194967689,7.7,Amazing movie with great visuals and acting.
+Movie 862,Drama,Director B,81632420,118072342,8.6,Amazing movie with great visuals and acting.
+Movie 863,Action,Director D,77445817,280957242,3.6,"Not worth the time, poor screenplay."
+Movie 864,Thriller,Director C,38579810,108117338,7.2,Amazing movie with great visuals and acting.
+Movie 865,Comedy,Director C,56720779,48948033,5.5,Amazing movie with great visuals and acting.
+Movie 866,Romance,Director C,83499356,37178622,7.3,Terrible plot and boring scenes.
+Movie 867,Comedy,Director B,17078317,30102016,6.7,Terrible plot and boring scenes.
+Movie 868,Drama,Director A,91942536,4348745,8.1,Loved the characters and the storyline.
+Movie 869,Romance,Director B,66420620,188572371,5.2,A decent movie with good direction.
+Movie 870,Drama,Director C,33051537,108811982,5.9,Loved the characters and the storyline.
+Movie 871,Action,Director A,82833986,181032126,8.9,"Not worth the time, poor screenplay."
+Movie 872,Action,Director C,26679436,78674456,3.8,Amazing movie with great visuals and acting.
+Movie 873,Action,Director A,1692934,280623204,8.7,"Not worth the time, poor screenplay."
+Movie 874,Action,Director A,54307421,272450351,7.4,"Not worth the time, poor screenplay."
+Movie 875,Romance,Director A,93507973,216846243,4.6,Terrible plot and boring scenes.
+Movie 876,Romance,Director B,91935370,232892031,5.8,Amazing movie with great visuals and acting.
+Movie 877,Thriller,Director B,49829783,129635561,7.4,"Not worth the time, poor screenplay."
+Movie 878,Comedy,Director D,25092554,216036417,7.3,Terrible plot and boring scenes.
+Movie 879,Action,Director A,81975152,117702112,8.8,A decent movie with good direction.
+Movie 880,Drama,Director C,49548485,76282477,4.7,Loved the characters and the storyline.
+Movie 881,Action,Director C,62518687,126133176,9.3,Terrible plot and boring scenes.
+Movie 882,Thriller,Director C,73136102,257172949,6.7,Loved the characters and the storyline.
+Movie 883,Drama,Director C,80905673,108096971,4,Terrible plot and boring scenes.
+Movie 884,Romance,Director D,55171693,234868197,4.7,Amazing movie with great visuals and acting.
+Movie 885,Drama,Director A,12343578,191411123,7.8,Amazing movie with great visuals and acting.
+Movie 886,Drama,Director D,80589312,179898810,5.9,A decent movie with good direction.
+Movie 887,Horror,Director A,94563562,293172498,5.1,Loved the characters and the storyline.
+Movie 888,Comedy,Director B,15408485,197499003,3.9,Loved the characters and the storyline.
+Movie 889,Thriller,Director B,63512989,103790972,5.2,A decent movie with good direction.
+Movie 890,Horror,Director C,62132537,16525354,4.7,Terrible plot and boring scenes.
+Movie 891,Thriller,Director D,62257056,96094337,7.8,Amazing movie with great visuals and acting.
+Movie 892,Thriller,Director D,72393380,200721001,4.8,Terrible plot and boring scenes.
+Movie 893,Action,Director D,24345793,122845395,5.1,Loved the characters and the storyline.
+Movie 894,Action,Director A,70208820,152649676,5,Terrible plot and boring scenes.
+Movie 895,Romance,Director B,84326898,183080210,7.7,A decent movie with good direction.
+Movie 896,Horror,Director B,57712805,54816326,5.3,"Not worth the time, poor screenplay."
+Movie 897,Horror,Director C,13583381,146789193,8.5,Terrible plot and boring scenes.
+Movie 898,Horror,Director B,31873303,28188618,7,A decent movie with good direction.
+Movie 899,Romance,Director B,91366420,207828189,8.3,A decent movie with good direction.
+Movie 900,Drama,Director B,62724734,109310391,5,Loved the characters and the storyline.
+Movie 901,Thriller,Director A,41830548,89622357,6.9,Terrible plot and boring scenes.
+Movie 902,Horror,Director C,9939607,136348339,4,"Not worth the time, poor screenplay."
+Movie 903,Drama,Director D,91920633,88088855,7.6,Amazing movie with great visuals and acting.
+Movie 904,Comedy,Director A,99383567,121393670,4.4,"Not worth the time, poor screenplay."
+Movie 905,Romance,Director B,69855721,20085050,6.9,Amazing movie with great visuals and acting.
+Movie 906,Thriller,Director A,46693545,12631425,5.7,Terrible plot and boring scenes.
+Movie 907,Thriller,Director A,94475309,47309740,7.9,Amazing movie with great visuals and acting.
+Movie 908,Drama,Director A,52208496,229707856,6.6,"Not worth the time, poor screenplay."
+Movie 909,Action,Director A,23938170,229060132,4,"Not worth the time, poor screenplay."
+Movie 910,Comedy,Director C,67815754,149071427,5.5,Loved the characters and the storyline.
+Movie 911,Drama,Director A,64811150,232191075,8.2,Loved the characters and the storyline.
+Movie 912,Comedy,Director D,28032067,152665917,4.7,Loved the characters and the storyline.
+Movie 913,Comedy,Director A,31977202,34328632,4.6,A decent movie with good direction.
+Movie 914,Thriller,Director C,39385294,170331403,7.9,A decent movie with good direction.
+Movie 915,Drama,Director D,97651471,78936892,4,A decent movie with good direction.
+Movie 916,Horror,Director D,35436822,6392661,6.9,"Not worth the time, poor screenplay."
+Movie 917,Action,Director B,14268072,95535594,9,Terrible plot and boring scenes.
+Movie 918,Romance,Director A,37697064,276668587,6.1,Loved the characters and the storyline.
+Movie 919,Comedy,Director B,12567395,32255914,9.4,Loved the characters and the storyline.
+Movie 920,Action,Director B,1144136,10697213,7.2,Terrible plot and boring scenes.
+Movie 921,Comedy,Director C,46059124,96326566,3.8,Loved the characters and the storyline.
+Movie 922,Action,Director D,56980750,140262948,3.6,Loved the characters and the storyline.
+Movie 923,Romance,Director B,75954918,60695990,9,A decent movie with good direction.
+Movie 924,Action,Director C,94859655,39404752,4.2,Amazing movie with great visuals and acting.
+Movie 925,Romance,Director B,43528107,116683338,8.2,"Not worth the time, poor screenplay."
+Movie 926,Romance,Director B,24174998,208254662,9.5,"Not worth the time, poor screenplay."
+Movie 927,Action,Director A,95491648,280574536,6.9,Terrible plot and boring scenes.
+Movie 928,Drama,Director C,57384017,272697051,3.8,A decent movie with good direction.
+Movie 929,Comedy,Director B,67971494,183345307,6.7,Terrible plot and boring scenes.
+Movie 930,Horror,Director C,48011249,59784787,9.2,A decent movie with good direction.
+Movie 931,Thriller,Director D,8344240,51606420,5.8,Terrible plot and boring scenes.
+Movie 932,Romance,Director C,20403459,5616332,6.2,A decent movie with good direction.
+Movie 933,Thriller,Director B,21014853,32337339,6,Terrible plot and boring scenes.
+Movie 934,Action,Director B,85125554,193958678,3.8,"Not worth the time, poor screenplay."
+Movie 935,Horror,Director B,33797550,133437085,3.8,"Not worth the time, poor screenplay."
+Movie 936,Thriller,Director B,58246965,69665854,8.6,"Not worth the time, poor screenplay."
+Movie 937,Horror,Director B,75518358,16379356,8.5,Amazing movie with great visuals and acting.
+Movie 938,Comedy,Director C,25238770,296418568,7,"Not worth the time, poor screenplay."
+Movie 939,Thriller,Director C,88182375,104589974,7.9,A decent movie with good direction.
+Movie 940,Comedy,Director B,16818411,212510995,4.4,Terrible plot and boring scenes.
+Movie 941,Comedy,Director D,36377960,237959502,4.6,Amazing movie with great visuals and acting.
+Movie 942,Horror,Director B,95729640,124834225,9,Loved the characters and the storyline.
+Movie 943,Drama,Director D,37701575,53631293,7.8,Loved the characters and the storyline.
+Movie 944,Thriller,Director D,29761568,80837859,9.4,"Not worth the time, poor screenplay."
+Movie 945,Action,Director A,82945859,129701952,5.3,Amazing movie with great visuals and acting.
+Movie 946,Horror,Director D,36015845,21071956,7,Amazing movie with great visuals and acting.
+Movie 947,Thriller,Director A,35325542,179429966,6.1,"Not worth the time, poor screenplay."
+Movie 948,Drama,Director B,88401012,165644417,7.3,Loved the characters and the storyline.
+Movie 949,Drama,Director D,49713491,100334420,3.6,"Not worth the time, poor screenplay."
+Movie 950,Action,Director D,63022730,226431200,4.7,Terrible plot and boring scenes.
+Movie 951,Romance,Director D,88484936,5775527,5.3,Terrible plot and boring scenes.
+Movie 952,Thriller,Director B,28549992,187141142,7.5,A decent movie with good direction.
+Movie 953,Comedy,Director A,42828834,48497278,4.8,Terrible plot and boring scenes.
+Movie 954,Action,Director B,79254633,20714011,5.8,Loved the characters and the storyline.
+Movie 955,Romance,Director C,91303592,178294193,7.4,Loved the characters and the storyline.
+Movie 956,Romance,Director B,42602255,181130212,7.8,Amazing movie with great visuals and acting.
+Movie 957,Romance,Director A,18585678,22414617,4.7,Loved the characters and the storyline.
+Movie 958,Action,Director B,9139465,235976817,6.6,A decent movie with good direction.
+Movie 959,Comedy,Director C,42479541,171996735,8,Amazing movie with great visuals and acting.
+Movie 960,Comedy,Director A,28245094,126172773,5.8,Terrible plot and boring scenes.
+Movie 961,Thriller,Director A,26262353,88358182,3.7,Terrible plot and boring scenes.
+Movie 962,Thriller,Director A,41290438,187502750,9.3,Amazing movie with great visuals and acting.
+Movie 963,Thriller,Director D,34135262,172220619,8,Loved the characters and the storyline.
+Movie 964,Comedy,Director C,15530798,20922104,7.7,Amazing movie with great visuals and acting.
+Movie 965,Action,Director C,35618565,245135710,7.8,A decent movie with good direction.
+Movie 966,Action,Director D,59954141,15660335,5,Loved the characters and the storyline.
+Movie 967,Thriller,Director A,50431775,284709854,7.4,Terrible plot and boring scenes.
+Movie 968,Comedy,Director B,46111586,112811085,4.8,Amazing movie with great visuals and acting.
+Movie 969,Action,Director A,77773980,183482260,4.9,Terrible plot and boring scenes.
+Movie 970,Romance,Director A,77888697,219733681,8.4,"Not worth the time, poor screenplay."
+Movie 971,Romance,Director D,89704846,160465645,8.2,Amazing movie with great visuals and acting.
+Movie 972,Comedy,Director A,88186920,65503701,6.5,Terrible plot and boring scenes.
+Movie 973,Action,Director A,40448517,216980510,4.1,Terrible plot and boring scenes.
+Movie 974,Comedy,Director C,7449977,240987104,6.9,Terrible plot and boring scenes.
+Movie 975,Romance,Director D,74107181,189651130,6,A decent movie with good direction.
+Movie 976,Romance,Director B,6831505,52839016,8.7,Loved the characters and the storyline.
+Movie 977,Action,Director C,63971245,174623911,6.5,Loved the characters and the storyline.
+Movie 978,Romance,Director C,22484566,184666332,6.4,Terrible plot and boring scenes.
+Movie 979,Romance,Director B,65176395,260883376,4,Amazing movie with great visuals and acting.
+Movie 980,Romance,Director C,8766418,41783197,3.8,Loved the characters and the storyline.
+Movie 981,Thriller,Director D,72241703,101713320,5.1,Amazing movie with great visuals and acting.
+Movie 982,Romance,Director C,70783662,139538255,8.6,"Not worth the time, poor screenplay."
+Movie 983,Thriller,Director B,30175505,285990601,6,Amazing movie with great visuals and acting.
+Movie 984,Comedy,Director C,20955940,135519564,6.7,"Not worth the time, poor screenplay."
+Movie 985,Horror,Director D,32561870,100888176,6.2,A decent movie with good direction.
+Movie 986,Action,Director B,33934459,41422809,9,Terrible plot and boring scenes.
+Movie 987,Comedy,Director A,97380541,299600525,5.7,"Not worth the time, poor screenplay."
+Movie 988,Drama,Director A,66360094,109605945,9.2,A decent movie with good direction.
+Movie 989,Action,Director D,23774192,81744148,9.1,Amazing movie with great visuals and acting.
+Movie 990,Drama,Director D,99629160,96059904,8.5,A decent movie with good direction.
+Movie 991,Thriller,Director C,86894224,64062294,6.7,A decent movie with good direction.
+Movie 992,Drama,Director C,20773728,34723533,5.3,Amazing movie with great visuals and acting.
+Movie 993,Drama,Director A,91846940,220064082,5,Loved the characters and the storyline.
+Movie 994,Comedy,Director C,45423218,279094471,8.6,Terrible plot and boring scenes.
+Movie 995,Comedy,Director D,34609813,152915623,3.9,Amazing movie with great visuals and acting.
+Movie 996,Comedy,Director A,84401776,55602455,3.9,Terrible plot and boring scenes.
+Movie 997,Romance,Director C,54318172,3836477,5.5,Loved the characters and the storyline.
+Movie 998,Horror,Director B,24926912,141455986,6.3,A decent movie with good direction.
+Movie 999,Action,Director B,94591489,211490348,9.3,Terrible plot and boring scenes.
+Movie 1000,Horror,Director B,24931409,54550865,3.7,Loved the characters and the storyline.

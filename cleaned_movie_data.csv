@@ -1,0 +1,1001 @@
+Title,Director,Budget,Revenue,IMDB_Rating,Review,Profit,ROI,Genre_Action,Genre_Comedy,Genre_Drama,Genre_Horror,Genre_Romance,Genre_Thriller,compound,sentiment
+Movie 1,Director B,61775559,262819013,7.7,A decent movie with good direction.,201043454,3.2544173983111992,True,False,False,False,False,False,0.4404,positive
+Movie 2,Director A,60131327,7150684,5.3,Amazing movie with great visuals and acting.,-52980643,-0.8810822185913176,True,False,False,False,False,False,0.836,positive
+Movie 3,Director B,70203550,67974054,9.4,Loved the characters and the storyline.,-2229496,-0.03175759630389061,False,False,True,False,False,False,0.5994,positive
+Movie 4,Director C,77732425,292278101,6.9,Amazing movie with great visuals and acting.,214545676,2.760053812807204,False,False,False,False,True,False,0.836,positive
+Movie 5,Director A,82511221,270168521,3.6,Loved the characters and the storyline.,187657300,2.274324603680268,False,False,False,False,True,False,0.5994,positive
+Movie 6,Director B,87908845,192688820,7.8,A decent movie with good direction.,104779975,1.1919161831781546,False,False,False,False,True,False,0.4404,positive
+Movie 7,Director D,81779347,83189947,7.3,"Not worth the time, poor screenplay.",1410600,0.017248853796790527,False,False,True,False,False,False,-0.5812,negative
+Movie 8,Director C,1565411,123990430,6.7,Loved the characters and the storyline.,122425019,78.20631067496012,False,False,True,False,False,False,0.5994,positive
+Movie 9,Director C,56191486,95067744,8.3,Terrible plot and boring scenes.,38876258,0.6918531750521778,True,False,False,False,False,False,-0.6597,negative
+Movie 10,Director B,1327297,198816372,7.7,Amazing movie with great visuals and acting.,197489075,148.7904176683892,True,False,False,False,False,False,0.836,positive
+Movie 11,Director C,29503964,108424665,6.9,Loved the characters and the storyline.,78920701,2.674918563485232,False,False,False,True,False,False,0.5994,positive
+Movie 12,Director C,69985200,108544331,7.5,A decent movie with good direction.,38559131,0.5509612175145602,False,True,False,False,False,False,0.4404,positive
+Movie 13,Director A,6061831,124550838,6.1,Terrible plot and boring scenes.,118489007,19.546735466561177,False,False,True,False,False,False,-0.6597,negative
+Movie 14,Director C,97126764,151617786,5.5,"Not worth the time, poor screenplay.",54491022,0.5610299340354837,False,False,False,False,True,False,-0.5812,negative
+Movie 15,Director B,77549261,29263037,7.5,"Not worth the time, poor screenplay.",-48286224,-0.6226522777567152,False,False,False,True,False,False,-0.5812,negative
+Movie 16,Director B,42885694,55790649,7.4,Loved the characters and the storyline.,12904955,0.30091514900050353,False,False,False,False,False,True,0.5994,positive
+Movie 17,Director B,28071870,277873720,3.9,"Not worth the time, poor screenplay.",249801850,8.898653705649107,False,True,False,False,False,False,-0.5812,negative
+Movie 18,Director A,73278814,46844537,3.8,Amazing movie with great visuals and acting.,-26434277,-0.3607356008791299,False,False,True,False,False,False,0.836,positive
+Movie 19,Director A,86262673,126896225,8.5,Loved the characters and the storyline.,40633552,0.4710444342479394,False,False,False,False,True,False,0.5994,positive
+Movie 20,Director C,92188484,246700537,8.3,A decent movie with good direction.,154512053,1.6760450578621078,False,False,True,False,False,False,0.4404,positive
+Movie 21,Director C,89649368,25489382,8.8,Loved the characters and the storyline.,-64159986,-0.71567694710352,True,False,False,False,False,False,0.5994,positive
+Movie 22,Director B,67978998,105643892,4.7,A decent movie with good direction.,37664894,0.554066625106772,False,False,False,False,False,True,0.4404,positive
+Movie 23,Director C,46104336,215179979,8.2,"Not worth the time, poor screenplay.",169075643,3.667239519510703,False,False,False,True,False,False,-0.5812,negative
+Movie 24,Director B,67682663,69328806,4.8,A decent movie with good direction.,1646143,0.024321486877666148,False,False,False,False,False,True,0.4404,positive
+Movie 25,Director A,98910816,54355386,3.5,Amazing movie with great visuals and acting.,-44555430,-0.450460645274628,False,True,False,False,False,False,0.836,positive
+Movie 26,Director A,12006840,61746751,6.3,A decent movie with good direction.,49739911,4.142631283501737,True,False,False,False,False,False,0.4404,positive
+Movie 27,Director C,62765671,285670973,8.9,Terrible plot and boring scenes.,222905302,3.55138881571106,False,False,False,False,False,True,-0.6597,negative
+Movie 28,Director B,79617457,221322439,8.0,Terrible plot and boring scenes.,141704982,1.7798230104234551,False,True,False,False,False,False,-0.6597,negative
+Movie 29,Director C,14800639,116584502,7.3,Terrible plot and boring scenes.,101783863,6.8769911218022415,False,True,False,False,False,False,-0.6597,negative
+Movie 30,Director A,51965480,157546604,5.3,Terrible plot and boring scenes.,105581124,2.031755003513871,True,False,False,False,False,False,-0.6597,negative
+Movie 31,Director B,18598570,208991579,4.7,A decent movie with good direction.,190393009,10.236970315459738,False,False,False,True,False,False,0.4404,positive
+Movie 32,Director C,88673873,264708051,7.6,Amazing movie with great visuals and acting.,176034178,1.9851865272649138,False,False,False,False,False,True,0.836,positive
+Movie 33,Director C,54654395,180582928,7.5,Amazing movie with great visuals and acting.,125928533,2.3040879512068515,False,False,False,False,True,False,0.836,positive
+Movie 34,Director C,4981242,101373419,5.4,Amazing movie with great visuals and acting.,96392177,19.3510327344064,False,True,False,False,False,False,0.836,positive
+Movie 35,Director C,62964531,258839640,3.7,"Not worth the time, poor screenplay.",195875109,3.1108801398044243,False,False,False,False,True,False,-0.5812,negative
+Movie 36,Director D,61566241,5264257,7.7,Terrible plot and boring scenes.,-56301984,-0.9144944223572136,False,False,False,True,False,False,-0.6597,negative
+Movie 37,Director C,71538495,90402645,8.1,Loved the characters and the storyline.,18864150,0.2636922960148938,False,False,False,False,True,False,0.5994,positive
+Movie 38,Director C,91076381,34400759,3.8,Amazing movie with great visuals and acting.,-56675622,-0.622286715586558,True,False,False,False,False,False,0.836,positive
+Movie 39,Director B,39184821,107885201,6.6,A decent movie with good direction.,68700380,1.753239602651241,False,False,True,False,False,False,0.4404,positive
+Movie 40,Director C,89802770,186025643,8.3,Terrible plot and boring scenes.,96222873,1.0714911466539394,False,False,True,False,False,False,-0.6597,negative
+Movie 41,Director B,13636419,177007076,4.2,"Not worth the time, poor screenplay.",163370657,11.98046620597387,False,False,False,True,False,False,-0.5812,negative
+Movie 42,Director B,69964935,185065800,6.2,Amazing movie with great visuals and acting.,115100865,1.645122160122067,False,False,False,True,False,False,0.836,positive
+Movie 43,Director B,49958475,94400963,5.4,A decent movie with good direction.,44442488,0.8895885633018221,False,True,False,False,False,False,0.4404,positive
+Movie 44,Director C,77647525,235459755,3.9,A decent movie with good direction.,157812230,2.032418032641736,False,False,True,False,False,False,0.4404,positive
+Movie 45,Director C,62315230,32670141,4.9,Loved the characters and the storyline.,-29645089,-0.47572782769156113,False,True,False,False,False,False,0.5994,positive
+Movie 46,Director D,10835987,243911929,8.5,Terrible plot and boring scenes.,233075942,21.509433519992225,False,True,False,False,False,False,-0.6597,negative
+Movie 47,Director C,70450080,161778140,3.5,Loved the characters and the storyline.,91328060,1.2963514022979108,False,False,False,True,False,False,0.5994,positive
+Movie 48,Director D,10321102,298866096,4.1,Terrible plot and boring scenes.,288544994,27.956800930753325,False,False,False,True,False,False,-0.6597,negative
+Movie 49,Director C,72390469,79025552,7.2,Terrible plot and boring scenes.,6635083,0.09165685886079837,False,False,False,False,False,True,-0.6597,negative
+Movie 50,Director B,76928402,33656353,8.1,Terrible plot and boring scenes.,-43272049,-0.5624976975343905,False,False,False,True,False,False,-0.6597,negative
+Movie 51,Director D,8885210,121083080,3.6,"Not worth the time, poor screenplay.",112197870,12.627486576006644,False,False,False,False,True,False,-0.5812,negative
+Movie 52,Director D,3020122,239195531,8.9,Amazing movie with great visuals and acting.,236175409,78.20061871672733,True,False,False,False,False,False,0.836,positive
+Movie 53,Director A,58057014,94963084,4.5,Terrible plot and boring scenes.,36906070,0.6356866717258315,False,False,False,False,True,False,-0.6597,negative
+Movie 54,Director C,63653539,78553664,8.6,Terrible plot and boring scenes.,14900125,0.23408164312749366,False,False,False,True,False,False,-0.6597,negative
+Movie 55,Director B,4700527,13517840,7.1,Terrible plot and boring scenes.,8817313,1.8758137119518725,False,False,False,True,False,False,-0.6597,negative
+Movie 56,Director D,32795659,285450075,7.2,Amazing movie with great visuals and acting.,252654416,7.703898128712706,False,False,False,True,False,False,0.836,positive
+Movie 57,Director B,1392573,45591404,8.0,Terrible plot and boring scenes.,44198831,31.738968800917437,False,False,True,False,False,False,-0.6597,negative
+Movie 58,Director B,41479887,240587376,9.1,Amazing movie with great visuals and acting.,199107489,4.800097189271514,False,True,False,False,False,False,0.836,positive
+Movie 59,Director D,68095075,185521600,4.5,A decent movie with good direction.,117426525,1.7244496022656557,False,False,False,False,False,True,0.4404,positive
+Movie 60,Director B,18697479,131373054,6.2,Amazing movie with great visuals and acting.,112675575,6.026244233246632,False,False,False,False,True,False,0.836,positive
+Movie 61,Director A,56230646,49104339,8.8,Loved the characters and the storyline.,-7126307,-0.12673350756098373,False,False,True,False,False,False,0.5994,positive
+Movie 62,Director D,24518417,138150209,9.1,Terrible plot and boring scenes.,113631792,4.634548470237699,False,True,False,False,False,False,-0.6597,negative
+Movie 63,Director B,94968901,9119718,4.0,Loved the characters and the storyline.,-85849183,-0.903971532744177,False,False,True,False,False,False,0.5994,positive
+Movie 64,Director C,27783993,200225386,4.1,Amazing movie with great visuals and acting.,172441393,6.206501455712288,False,False,False,False,False,True,0.836,positive
+Movie 65,Director A,61002143,247880152,8.9,Amazing movie with great visuals and acting.,186878009,3.063466294946392,False,True,False,False,False,False,0.836,positive
+Movie 66,Director A,10658264,260305092,7.9,"Not worth the time, poor screenplay.",249646828,23.422841468366705,False,False,False,True,False,False,-0.5812,negative
+Movie 67,Director A,61511677,191022160,8.8,Amazing movie with great visuals and acting.,129510483,2.1054617483441396,False,False,False,False,False,True,0.836,positive
+Movie 68,Director C,90449607,170164833,8.1,Terrible plot and boring scenes.,79715226,0.8813219719130455,False,False,False,False,True,False,-0.6597,negative
+Movie 69,Director A,24405330,253243579,5.0,A decent movie with good direction.,228838249,9.37656852007328,False,False,True,False,False,False,0.4404,positive
+Movie 70,Director A,81288463,240156214,5.9,"Not worth the time, poor screenplay.",158867751,1.9543702161031142,False,True,False,False,False,False,-0.5812,negative
+Movie 71,Director A,84811669,193571083,4.0,A decent movie with good direction.,108759414,1.282363798311763,True,False,False,False,False,False,0.4404,positive
+Movie 72,Director D,83813572,250745175,7.7,A decent movie with good direction.,166931603,1.9917013320945205,False,False,False,False,False,True,0.4404,positive
+Movie 73,Director B,82209647,274945160,6.4,Loved the characters and the storyline.,192735513,2.344439126468941,False,False,False,False,False,True,0.5994,positive
+Movie 74,Director C,86755289,148195577,4.9,Terrible plot and boring scenes.,61440288,0.7082022169276619,False,False,False,False,False,True,-0.6597,negative
+Movie 75,Director C,52605744,195752637,5.6,Loved the characters and the storyline.,143146893,2.721126670121803,False,False,True,False,False,False,0.5994,positive
+Movie 76,Director D,68430092,67820166,4.9,Loved the characters and the storyline.,-609926,-0.008913125529628106,False,True,False,False,False,False,0.5994,positive
+Movie 77,Director A,78341201,256413911,6.5,A decent movie with good direction.,178072710,2.273040337995329,False,False,False,True,False,False,0.4404,positive
+Movie 78,Director B,36341385,241238527,4.0,Amazing movie with great visuals and acting.,204897142,5.63812144198687,False,False,False,True,False,False,0.836,positive
+Movie 79,Director A,36498585,278502603,8.4,Amazing movie with great visuals and acting.,242004018,6.6305041140636,False,False,True,False,False,False,0.836,positive
+Movie 80,Director C,79826914,179376779,6.8,Terrible plot and boring scenes.,99549865,1.247071445101836,False,False,False,True,False,False,-0.6597,negative
+Movie 81,Director A,94584832,268279257,5.0,Amazing movie with great visuals and acting.,173694425,1.8363877307515861,False,False,False,True,False,False,0.836,positive
+Movie 82,Director A,28315160,163848232,5.9,Amazing movie with great visuals and acting.,135533072,4.786590363607339,False,False,False,True,False,False,0.836,positive
+Movie 83,Director A,94274406,21834768,9.2,Terrible plot and boring scenes.,-72439638,-0.7683913489733364,False,True,False,False,False,False,-0.6597,negative
+Movie 84,Director C,48561544,293618886,5.3,A decent movie with good direction.,245057342,5.046325174504336,False,True,False,False,False,False,0.4404,positive
+Movie 85,Director B,97512760,61591927,8.3,Amazing movie with great visuals and acting.,-35920833,-0.3683705906796198,False,False,False,False,False,True,0.836,positive
+Movie 86,Director A,57995137,135316804,3.9,Terrible plot and boring scenes.,77321667,1.333243975266409,True,False,False,False,False,False,-0.6597,negative
+Movie 87,Director C,21174324,262894609,4.4,Amazing movie with great visuals and acting.,241720285,11.415726188000146,True,False,False,False,False,False,0.836,positive
+Movie 88,Director A,37137453,202032650,7.9,Terrible plot and boring scenes.,164895197,4.440132095219346,True,False,False,False,False,False,-0.6597,negative
+Movie 89,Director D,33197238,98680398,6.5,Terrible plot and boring scenes.,65483160,1.972548439120146,False,True,False,False,False,False,-0.6597,negative
+Movie 90,Director D,81455134,152605026,7.4,A decent movie with good direction.,71149892,0.873485666354683,True,False,False,False,False,False,0.4404,positive
+Movie 91,Director A,21502927,31388523,4.1,"Not worth the time, poor screenplay.",9885596,0.4597325750117647,False,True,False,False,False,False,-0.5812,negative
+Movie 92,Director A,63180089,108727436,6.6,Terrible plot and boring scenes.,45547347,0.7209129920662188,True,False,False,False,False,False,-0.6597,negative
+Movie 93,Director C,18300062,92025616,5.3,"Not worth the time, poor screenplay.",73725554,4.028705148649223,False,False,False,True,False,False,-0.5812,negative
+Movie 94,Director B,33855283,183828808,7.4,Amazing movie with great visuals and acting.,149973525,4.429841127011108,True,False,False,False,False,False,0.836,positive
+Movie 95,Director D,48855982,281181101,4.6,Terrible plot and boring scenes.,232325119,4.755305481322635,False,False,False,False,False,True,-0.6597,negative
+Movie 96,Director D,36164897,189997204,8.8,Amazing movie with great visuals and acting.,153832307,4.253635977450731,False,False,False,False,True,False,0.836,positive
+Movie 97,Director A,9493937,234090490,7.8,Terrible plot and boring scenes.,224596553,23.656840465657186,False,True,False,False,False,False,-0.6597,negative
+Movie 98,Director A,21335838,279045007,4.1,Amazing movie with great visuals and acting.,257709169,12.078699182099152,False,False,False,True,False,False,0.836,positive
+Movie 99,Director C,24989269,49600521,3.5,Amazing movie with great visuals and acting.,24611252,0.9848728268121809,False,False,False,False,True,False,0.836,positive
+Movie 100,Director C,45963211,201973490,9.0,"Not worth the time, poor screenplay.",156010279,3.3942423865904408,False,True,False,False,False,False,-0.5812,negative
+Movie 101,Director C,9099947,79493403,9.4,Loved the characters and the storyline.,70393456,7.7355896688189505,False,False,False,False,False,True,0.5994,positive
+Movie 102,Director C,93264256,214080043,6.1,"Not worth the time, poor screenplay.",120815787,1.295413614836535,False,False,True,False,False,False,-0.5812,negative
+Movie 103,Director C,84046195,229320693,9.5,"Not worth the time, poor screenplay.",145274498,1.7285077331579377,False,False,False,False,False,True,-0.5812,negative
+Movie 104,Director A,99537885,113949183,7.0,"Not worth the time, poor screenplay.",14411298,0.1447820395219368,False,False,False,True,False,False,-0.5812,negative
+Movie 105,Director D,59207517,71494628,6.0,Loved the characters and the storyline.,12287111,0.20752619975602085,False,False,False,True,False,False,0.5994,positive
+Movie 106,Director B,81839512,169641542,9.3,Terrible plot and boring scenes.,87802030,1.0728562262199217,True,False,False,False,False,False,-0.6597,negative
+Movie 107,Director C,45716117,241971333,6.3,Terrible plot and boring scenes.,196255216,4.292910878673269,False,False,True,False,False,False,-0.6597,negative
+Movie 108,Director A,92579437,58979999,4.2,Loved the characters and the storyline.,-33599438,-0.3629254949994997,False,True,False,False,False,False,0.5994,positive
+Movie 109,Director D,80713560,93313595,8.8,Loved the characters and the storyline.,12600035,0.15610803190938424,False,False,False,False,False,True,0.5994,positive
+Movie 110,Director D,11859113,222786855,9.5,Amazing movie with great visuals and acting.,210927742,17.786131391108256,False,False,False,False,True,False,0.836,positive
+Movie 111,Director B,8485354,261114001,7.4,A decent movie with good direction.,252628647,29.772316747185798,False,True,False,False,False,False,0.4404,positive
+Movie 112,Director D,73656657,283961856,7.3,A decent movie with good direction.,210305199,2.8552096655703503,False,False,False,False,True,False,0.4404,positive
+Movie 113,Director B,32049722,99629790,8.2,Loved the characters and the storyline.,67580068,2.1086007547896983,False,False,False,False,False,True,0.5994,positive
+Movie 114,Director D,81298730,66581477,5.7,"Not worth the time, poor screenplay.",-14717253,-0.18102684998892357,False,True,False,False,False,False,-0.5812,negative
+Movie 115,Director D,4032219,237247926,5.2,A decent movie with good direction.,233215707,57.83805567108334,True,False,False,False,False,False,0.4404,positive
+Movie 116,Director B,43344857,162270645,5.1,Loved the characters and the storyline.,118925788,2.743711624195692,True,False,False,False,False,False,0.5994,positive
+Movie 117,Director B,22910666,134681450,7.3,A decent movie with good direction.,111770784,4.87854800903649,False,True,False,False,False,False,0.4404,positive
+Movie 118,Director D,73199989,181892274,8.8,Loved the characters and the storyline.,108692285,1.4848675045565922,False,False,False,True,False,False,0.5994,positive
+Movie 119,Director D,5637941,79873094,6.6,"Not worth the time, poor screenplay.",74235153,13.167068083898005,False,False,False,False,True,False,-0.5812,negative
+Movie 120,Director D,81874928,143253309,8.5,"Not worth the time, poor screenplay.",61378381,0.7496602745104093,False,False,False,False,False,True,-0.5812,negative
+Movie 121,Director B,46677791,294595135,5.3,Terrible plot and boring scenes.,247917344,5.311248426473309,False,False,False,True,False,False,-0.6597,negative
+Movie 122,Director C,2441442,298333085,5.5,Loved the characters and the storyline.,295891643,121.19544228369955,False,True,False,False,False,False,0.5994,positive
+Movie 123,Director A,38027682,201399272,6.5,Loved the characters and the storyline.,163371590,4.296122756049133,False,False,True,False,False,False,0.5994,positive
+Movie 124,Director C,55440765,80469489,4.5,Terrible plot and boring scenes.,25028724,0.45144983118468873,True,False,False,False,False,False,-0.6597,negative
+Movie 125,Director D,47399172,80305936,7.4,Terrible plot and boring scenes.,32906764,0.6942476547902566,False,False,True,False,False,False,-0.6597,negative
+Movie 126,Director C,8573185,251708977,7.4,"Not worth the time, poor screenplay.",243135792,28.36003095698973,False,False,False,False,False,True,-0.5812,negative
+Movie 127,Director C,90898952,53478040,4.3,Loved the characters and the storyline.,-37420912,-0.411675945394838,False,False,True,False,False,False,0.5994,positive
+Movie 128,Director D,55838962,298095213,9.0,A decent movie with good direction.,242256251,4.338480557715238,False,False,False,False,False,True,0.4404,positive
+Movie 129,Director A,24304845,179678293,9.5,Terrible plot and boring scenes.,155373448,6.392694460713492,False,True,False,False,False,False,-0.6597,negative
+Movie 130,Director C,21994025,64230508,4.9,"Not worth the time, poor screenplay.",42236483,1.9203616891405735,False,False,True,False,False,False,-0.5812,negative
+Movie 131,Director A,20067895,290156637,5.0,Loved the characters and the storyline.,270088742,13.458748015175484,False,True,False,False,False,False,0.5994,positive
+Movie 132,Director C,87684567,250511679,8.4,Loved the characters and the storyline.,162827112,1.8569643161948899,True,False,False,False,False,False,0.5994,positive
+Movie 133,Director C,17320451,291883640,3.9,Terrible plot and boring scenes.,274563189,15.851965344320423,False,False,False,False,False,True,-0.6597,negative
+Movie 134,Director D,86380420,165383518,4.2,Terrible plot and boring scenes.,79003098,0.914594974185122,False,False,True,False,False,False,-0.6597,negative
+Movie 135,Director A,16228247,26949177,8.9,"Not worth the time, poor screenplay.",10720930,0.6606338934821487,False,False,False,True,False,False,-0.5812,negative
+Movie 136,Director A,78470204,177325122,8.6,Amazing movie with great visuals and acting.,98854918,1.2597764879010638,False,False,False,True,False,False,0.836,positive
+Movie 137,Director A,11663852,10112775,6.3,Terrible plot and boring scenes.,-1551077,-0.13298153988922357,False,True,False,False,False,False,-0.6597,negative
+Movie 138,Director A,62948256,58362589,7.1,Terrible plot and boring scenes.,-4585667,-0.07284819773243599,False,False,False,True,False,False,-0.6597,negative
+Movie 139,Director B,80296555,64797957,8.2,Amazing movie with great visuals and acting.,-15498598,-0.1930169731441156,False,False,False,True,False,False,0.836,positive
+Movie 140,Director A,52618777,175795366,5.1,Amazing movie with great visuals and acting.,123176589,2.3409245904746134,False,True,False,False,False,False,0.836,positive
+Movie 141,Director C,21590376,14753093,8.7,Amazing movie with great visuals and acting.,-6837283,-0.3166819790447373,False,False,False,False,False,True,0.836,positive
+Movie 142,Director D,95904493,128447361,5.5,A decent movie with good direction.,32542868,0.33932579154555353,False,False,False,True,False,False,0.4404,positive
+Movie 143,Director B,85047437,216722925,3.7,Amazing movie with great visuals and acting.,131675488,1.5482593320243148,True,False,False,False,False,False,0.836,positive
+Movie 144,Director C,44345119,76655261,8.7,Terrible plot and boring scenes.,32310142,0.7286065012025337,False,False,False,False,False,True,-0.6597,negative
+Movie 145,Director B,14594963,169349003,6.7,Amazing movie with great visuals and acting.,154754040,10.60324990203812,False,False,False,False,True,False,0.836,positive
+Movie 146,Director B,96704696,164040133,3.6,A decent movie with good direction.,67335437,0.6962995571590442,False,True,False,False,False,False,0.4404,positive
+Movie 147,Director C,35823717,71763876,5.1,Loved the characters and the storyline.,35940159,1.0032504164768832,False,True,False,False,False,False,0.5994,positive
+Movie 148,Director D,86226602,54589562,6.2,Amazing movie with great visuals and acting.,-31637040,-0.36690579549916624,False,False,False,True,False,False,0.836,positive
+Movie 149,Director D,82572897,208642037,4.6,Loved the characters and the storyline.,126069140,1.5267617412042598,False,False,False,False,False,True,0.5994,positive
+Movie 150,Director A,98859658,95518664,3.6,Terrible plot and boring scenes.,-3340994,-0.03379532225369422,False,False,False,False,True,False,-0.6597,negative
+Movie 151,Director C,70370870,298336345,9.3,"Not worth the time, poor screenplay.",227965475,3.2394863812256407,False,False,False,True,False,False,-0.5812,negative
+Movie 152,Director B,48311559,8579772,5.4,Loved the characters and the storyline.,-39731787,-0.8224074698148325,False,True,False,False,False,False,0.5994,positive
+Movie 153,Director B,40835242,258084886,3.7,"Not worth the time, poor screenplay.",217249644,5.320150765850733,False,False,False,False,False,True,-0.5812,negative
+Movie 154,Director D,67252730,215326568,7.1,A decent movie with good direction.,148073838,2.201752077573654,False,False,False,True,False,False,0.4404,positive
+Movie 155,Director A,54491805,49294244,6.0,"Not worth the time, poor screenplay.",-5197561,-0.09538243411096403,False,True,False,False,False,False,-0.5812,negative
+Movie 156,Director A,22362074,39487596,5.5,"Not worth the time, poor screenplay.",17125522,0.7658288761588035,False,False,True,False,False,False,-0.5812,negative
+Movie 157,Director D,58312438,58806184,5.1,Loved the characters and the storyline.,493746,0.00846725016024883,False,False,True,False,False,False,0.5994,positive
+Movie 158,Director C,84033495,172490353,6.5,A decent movie with good direction.,88456858,1.0526380938933932,False,True,False,False,False,False,0.4404,positive
+Movie 159,Director C,99760456,42477295,7.2,"Not worth the time, poor screenplay.",-57283161,-0.574207088628384,False,False,True,False,False,False,-0.5812,negative
+Movie 160,Director C,97651954,290313122,5.4,Loved the characters and the storyline.,192661168,1.9729371518771657,False,False,False,True,False,False,0.5994,positive
+Movie 161,Director B,66987796,277613771,8.8,Amazing movie with great visuals and acting.,210625975,3.1442439903531083,False,False,False,False,False,True,0.836,positive
+Movie 162,Director B,52024768,264760171,3.7,Amazing movie with great visuals and acting.,212735403,4.089117764061918,False,False,False,False,False,True,0.836,positive
+Movie 163,Director D,77768307,13408434,6.2,Amazing movie with great visuals and acting.,-64359873,-0.8275848540717236,False,True,False,False,False,False,0.836,positive
+Movie 164,Director C,16951866,219586171,5.2,"Not worth the time, poor screenplay.",202634305,11.953510309720476,False,True,False,False,False,False,-0.5812,negative
+Movie 165,Director B,44846867,39067749,3.5,Amazing movie with great visuals and acting.,-5779118,-0.12886336073376095,False,False,False,False,False,True,0.836,positive
+Movie 166,Director D,66894259,222734224,7.0,A decent movie with good direction.,155839965,2.3296463303375554,False,True,False,False,False,False,0.4404,positive
+Movie 167,Director A,35698124,246362333,5.1,Loved the characters and the storyline.,210664209,5.901268341159889,False,True,False,False,False,False,0.5994,positive
+Movie 168,Director C,99230605,81147007,9.4,"Not worth the time, poor screenplay.",-18083598,-0.18223811091346265,False,False,False,True,False,False,-0.5812,negative
+Movie 169,Director A,42477124,234047664,4.8,A decent movie with good direction.,191570540,4.50996964860427,False,False,False,True,False,False,0.4404,positive
+Movie 170,Director D,15823672,34771610,6.5,Loved the characters and the storyline.,18947938,1.1974425405177762,False,False,False,False,True,False,0.5994,positive
+Movie 171,Director C,19140598,165106531,7.6,Terrible plot and boring scenes.,145965933,7.625986032411317,False,False,False,False,True,False,-0.6597,negative
+Movie 172,Director C,43655621,239133362,4.0,"Not worth the time, poor screenplay.",195477741,4.47772214716634,False,False,False,False,False,True,-0.5812,negative
+Movie 173,Director C,65907441,153000876,3.6,A decent movie with good direction.,87093435,1.3214507144951964,False,False,False,False,True,False,0.4404,positive
+Movie 174,Director A,15502426,113016527,9.1,"Not worth the time, poor screenplay.",97514101,6.290247797344751,True,False,False,False,False,False,-0.5812,negative
+Movie 175,Director A,67507101,231683423,8.7,Amazing movie with great visuals and acting.,164176322,2.431985962484154,False,False,False,True,False,False,0.836,positive
+Movie 176,Director C,36166056,181816601,7.1,"Not worth the time, poor screenplay.",145650545,4.0272720088693115,False,False,False,False,False,True,-0.5812,negative
+Movie 177,Director C,2969292,25875072,7.1,Amazing movie with great visuals and acting.,22905780,7.714222784421337,False,True,False,False,False,False,0.836,positive
+Movie 178,Director B,72879894,189381061,6.0,Loved the characters and the storyline.,116501167,1.5985364495727725,False,False,False,True,False,False,0.5994,positive
+Movie 179,Director D,88917174,19128274,8.9,Loved the characters and the storyline.,-69788900,-0.7848753717701374,False,False,True,False,False,False,0.5994,positive
+Movie 180,Director D,8084253,217655320,7.3,"Not worth the time, poor screenplay.",209571067,25.9233681825643,True,False,False,False,False,False,-0.5812,negative
+Movie 181,Director C,28620005,109927670,6.9,"Not worth the time, poor screenplay.",81307665,2.840938182924846,False,False,True,False,False,False,-0.5812,negative
+Movie 182,Director D,8938112,40143345,4.5,A decent movie with good direction.,31205233,3.491255535844706,True,False,False,False,False,False,0.4404,positive
+Movie 183,Director B,34220277,72717972,4.1,"Not worth the time, poor screenplay.",38497695,1.1249965919329057,False,False,False,False,False,True,-0.5812,negative
+Movie 184,Director B,4259911,18070329,8.4,Terrible plot and boring scenes.,13810418,3.2419498905024073,False,False,False,False,True,False,-0.6597,negative
+Movie 185,Director D,70559309,8046663,4.7,"Not worth the time, poor screenplay.",-62512646,-0.8859588746822903,False,False,False,False,False,True,-0.5812,negative
+Movie 186,Director B,59993305,35647987,6.0,Amazing movie with great visuals and acting.,-24345318,-0.40580058058144985,True,False,False,False,False,False,0.836,positive
+Movie 187,Director B,98154380,151563214,6.1,Loved the characters and the storyline.,53408834,0.5441309292565446,False,False,True,False,False,False,0.5994,positive
+Movie 188,Director B,8268554,105032512,7.5,"Not worth the time, poor screenplay.",96763958,11.702645710483356,False,False,False,False,False,True,-0.5812,negative
+Movie 189,Director B,17134146,132228056,7.7,Amazing movie with great visuals and acting.,115093910,6.717224774435796,False,False,False,False,False,True,0.836,positive
+Movie 190,Director B,63054067,117231190,4.1,A decent movie with good direction.,54177123,0.8592169478933056,True,False,False,False,False,False,0.4404,positive
+Movie 191,Director A,95326740,4518111,5.3,Amazing movie with great visuals and acting.,-90808629,-0.9526039493220895,False,False,False,False,False,True,0.836,positive
+Movie 192,Director D,44866791,135419204,6.0,Terrible plot and boring scenes.,90552413,2.018250268890414,True,False,False,False,False,False,-0.6597,negative
+Movie 193,Director C,65027120,90890929,4.1,Amazing movie with great visuals and acting.,25863809,0.3977388049785997,False,False,False,False,False,True,0.836,positive
+Movie 194,Director C,22129822,250233341,8.2,A decent movie with good direction.,228103519,10.307517114236164,False,True,False,False,False,False,0.4404,positive
+Movie 195,Director C,40410384,182360602,4.1,Amazing movie with great visuals and acting.,141950218,3.512716384976693,True,False,False,False,False,False,0.836,positive
+Movie 196,Director A,70374030,294127882,4.0,Amazing movie with great visuals and acting.,223753852,3.179494651649195,False,False,False,False,False,True,0.836,positive
+Movie 197,Director A,20906697,10350757,7.8,Terrible plot and boring scenes.,-10555940,-0.5049071118216331,False,False,False,False,False,True,-0.6597,negative
+Movie 198,Director B,55542094,139651815,4.8,"Not worth the time, poor screenplay.",84109721,1.5143419151607789,False,False,False,False,False,True,-0.5812,negative
+Movie 199,Director C,37459008,72588854,4.2,Amazing movie with great visuals and acting.,35129846,0.9378210442732493,True,False,False,False,False,False,0.836,positive
+Movie 200,Director B,22223393,69927257,5.6,A decent movie with good direction.,47703864,2.146560788444861,False,False,True,False,False,False,0.4404,positive
+Movie 201,Director A,31345436,10485298,8.2,A decent movie with good direction.,-20860138,-0.6654920352679095,False,False,False,False,False,True,0.4404,positive
+Movie 202,Director C,51650163,89801919,6.5,Loved the characters and the storyline.,38151756,0.7386570299884629,False,False,False,False,False,True,0.5994,positive
+Movie 203,Director C,57303097,222833508,6.8,A decent movie with good direction.,165530411,2.8886817583349815,False,True,False,False,False,False,0.4404,positive
+Movie 204,Director B,5902089,87844935,9.0,Amazing movie with great visuals and acting.,81942846,13.883702194256983,True,False,False,False,False,False,0.836,positive
+Movie 205,Director D,10990741,68905142,6.9,A decent movie with good direction.,57914401,5.269380927091267,False,False,True,False,False,False,0.4404,positive
+Movie 206,Director B,83892414,295907351,6.4,Loved the characters and the storyline.,212014937,2.527224177861898,False,False,False,True,False,False,0.5994,positive
+Movie 207,Director B,14356450,251391003,8.5,A decent movie with good direction.,237034553,16.510666146575232,False,False,True,False,False,False,0.4404,positive
+Movie 208,Director C,73002375,150731282,6.7,A decent movie with good direction.,77728907,1.0647449072718524,True,False,False,False,False,False,0.4404,positive
+Movie 209,Director C,28691411,47056424,4.4,Terrible plot and boring scenes.,18365013,0.6400874812326239,False,False,False,False,False,True,-0.6597,negative
+Movie 210,Director A,75503222,163086152,6.3,Amazing movie with great visuals and acting.,87582930,1.1599893048272827,False,True,False,False,False,False,0.836,positive
+Movie 211,Director C,26537782,110861308,9.2,Amazing movie with great visuals and acting.,84323526,3.177489588240645,False,False,True,False,False,False,0.836,positive
+Movie 212,Director D,96809483,133411404,6.8,"Not worth the time, poor screenplay.",36601921,0.37808197984075587,True,False,False,False,False,False,-0.5812,negative
+Movie 213,Director C,46176463,167396503,9.5,Terrible plot and boring scenes.,121220040,2.625147794451039,True,False,False,False,False,False,-0.6597,negative
+Movie 214,Director B,59534021,150233157,4.1,Amazing movie with great visuals and acting.,90699136,1.5234841268322863,False,False,False,False,True,False,0.836,positive
+Movie 215,Director B,10759413,165828218,4.5,"Not worth the time, poor screenplay.",155068805,14.412385229565963,False,False,True,False,False,False,-0.5812,negative
+Movie 216,Director B,22643069,63786442,5.0,Loved the characters and the storyline.,41143373,1.8170404815707624,False,False,False,False,True,False,0.5994,positive
+Movie 217,Director B,48511031,233297143,8.9,"Not worth the time, poor screenplay.",184786112,3.809156560700596,False,False,False,True,False,False,-0.5812,negative
+Movie 218,Director D,6163974,276814469,7.7,Terrible plot and boring scenes.,270650495,43.90844202133234,False,True,False,False,False,False,-0.6597,negative
+Movie 219,Director C,33857226,56613653,9.0,Terrible plot and boring scenes.,22756427,0.6721291047293715,False,True,False,False,False,False,-0.6597,negative
+Movie 220,Director D,23382274,280613425,5.8,Loved the characters and the storyline.,257231151,11.00111781257888,False,False,True,False,False,False,0.5994,positive
+Movie 221,Director B,84161202,251948929,6.1,"Not worth the time, poor screenplay.",167787727,1.9936469894999835,False,False,True,False,False,False,-0.5812,negative
+Movie 222,Director C,33662697,18841593,8.7,A decent movie with good direction.,-14821104,-0.44028272600974305,False,False,False,False,False,True,0.4404,positive
+Movie 223,Director C,12610752,83164495,8.2,Amazing movie with great visuals and acting.,70553743,5.5947292437437515,True,False,False,False,False,False,0.836,positive
+Movie 224,Director B,65265943,228569151,6.7,A decent movie with good direction.,163303208,2.502119796231244,False,True,False,False,False,False,0.4404,positive
+Movie 225,Director A,50954050,121139714,8.8,Loved the characters and the storyline.,70185664,1.377430528093449,False,True,False,False,False,False,0.5994,positive
+Movie 226,Director A,28774337,229348639,9.4,Loved the characters and the storyline.,200574302,6.970596820354193,False,True,False,False,False,False,0.5994,positive
+Movie 227,Director C,84876272,134115687,7.7,"Not worth the time, poor screenplay.",49239415,0.5801316886302452,True,False,False,False,False,False,-0.5812,negative
+Movie 228,Director A,88675818,139427222,4.1,Terrible plot and boring scenes.,50751404,0.5723251856554624,False,True,False,False,False,False,-0.6597,negative
+Movie 229,Director A,29765432,251591636,9.2,Terrible plot and boring scenes.,221826204,7.4524772225714715,False,False,True,False,False,False,-0.6597,negative
+Movie 230,Director C,68515948,40000550,7.3,Loved the characters and the storyline.,-28515398,-0.41618628702327815,False,False,True,False,False,False,0.5994,positive
+Movie 231,Director C,82464368,150808019,7.9,Amazing movie with great visuals and acting.,68343651,0.8287658373856694,False,False,True,False,False,False,0.836,positive
+Movie 232,Director B,27744574,148814137,9.0,Amazing movie with great visuals and acting.,121069563,4.363720380064224,False,False,False,False,False,True,0.836,positive
+Movie 233,Director C,65917113,83752831,5.4,Loved the characters and the storyline.,17835718,0.27057796053659083,False,False,False,True,False,False,0.5994,positive
+Movie 234,Director A,31297977,234118932,3.6,A decent movie with good direction.,202820955,6.480321555607252,False,True,False,False,False,False,0.4404,positive
+Movie 235,Director C,32858962,106645194,5.6,"Not worth the time, poor screenplay.",73786232,2.2455436054249067,False,False,False,False,False,True,-0.5812,negative
+Movie 236,Director B,93197323,46216556,8.2,Terrible plot and boring scenes.,-46980767,-0.5040999621845361,False,True,False,False,False,False,-0.6597,negative
+Movie 237,Director D,32680328,141885208,4.0,A decent movie with good direction.,109204880,3.3416090560657774,False,False,False,True,False,False,0.4404,positive
+Movie 238,Director B,73882520,262824894,7.5,"Not worth the time, poor screenplay.",188942374,2.5573352668533773,False,False,True,False,False,False,-0.5812,negative
+Movie 239,Director C,85338752,231627823,8.0,Amazing movie with great visuals and acting.,146289071,1.7142161980526736,False,False,False,True,False,False,0.836,positive
+Movie 240,Director D,90010922,93632073,4.8,Terrible plot and boring scenes.,3621151,0.04023012896146092,False,False,True,False,False,False,-0.6597,negative
+Movie 241,Director D,79758992,259730539,4.6,A decent movie with good direction.,179971547,2.256442094955262,True,False,False,False,False,False,0.4404,positive
+Movie 242,Director B,65280979,36791582,7.6,"Not worth the time, poor screenplay.",-28489397,-0.43641191410441316,False,False,True,False,False,False,-0.5812,negative
+Movie 243,Director A,96656612,3934201,7.1,Amazing movie with great visuals and acting.,-92722411,-0.9592971353061702,True,False,False,False,False,False,0.836,positive
+Movie 244,Director B,27145109,220783071,4.3,Loved the characters and the storyline.,193637962,7.133438366373847,True,False,False,False,False,False,0.5994,positive
+Movie 245,Director D,58066472,158781651,9.1,Terrible plot and boring scenes.,100715179,1.73448076886779,False,False,False,True,False,False,-0.6597,negative
+Movie 246,Director C,78566131,127118438,4.9,Terrible plot and boring scenes.,48552307,0.6179801191941092,False,False,False,True,False,False,-0.6597,negative
+Movie 247,Director A,28396972,79546733,6.5,Amazing movie with great visuals and acting.,51149761,1.801239970233446,False,False,False,False,True,False,0.836,positive
+Movie 248,Director B,43469384,89852929,5.0,Loved the characters and the storyline.,46383545,1.0670393902982385,False,False,True,False,False,False,0.5994,positive
+Movie 249,Director A,80251376,211953035,7.1,Loved the characters and the storyline.,131701659,1.6411140289980821,True,False,False,False,False,False,0.5994,positive
+Movie 250,Director C,45653662,95576871,6.5,"Not worth the time, poor screenplay.",49923209,1.093520362068655,False,False,False,False,True,False,-0.5812,negative
+Movie 251,Director D,38169141,63477234,7.7,A decent movie with good direction.,25308093,0.6630511543343351,False,False,False,False,True,False,0.4404,positive
+Movie 252,Director C,4499630,100051043,8.9,Loved the characters and the storyline.,95551413,21.23539335456471,False,False,False,False,False,True,0.5994,positive
+Movie 253,Director D,23669614,13133079,3.6,Amazing movie with great visuals and acting.,-10536535,-0.44515026734276275,False,False,True,False,False,False,0.836,positive
+Movie 254,Director C,38910176,8488678,5.8,Amazing movie with great visuals and acting.,-30421498,-0.781839126093904,False,False,True,False,False,False,0.836,positive
+Movie 255,Director C,75603163,114282066,4.0,Amazing movie with great visuals and acting.,38678903,0.5116042962382408,False,False,True,False,False,False,0.836,positive
+Movie 256,Director B,8901316,81315755,5.4,Loved the characters and the storyline.,72414439,8.135250899979283,False,False,True,False,False,False,0.5994,positive
+Movie 257,Director B,93012472,256780060,7.1,"Not worth the time, poor screenplay.",163767588,1.7607056825669574,True,False,False,False,False,False,-0.5812,negative
+Movie 258,Director B,13576637,229122089,6.7,Amazing movie with great visuals and acting.,215545452,15.876203510486434,False,False,False,False,False,True,0.836,positive
+Movie 259,Director D,23019395,173761456,3.8,Amazing movie with great visuals and acting.,150742061,6.548480574750118,False,False,False,False,True,False,0.836,positive
+Movie 260,Director D,29252128,130812962,6.5,"Not worth the time, poor screenplay.",101560834,3.471912675891477,True,False,False,False,False,False,-0.5812,negative
+Movie 261,Director C,99882104,48606738,7.5,Amazing movie with great visuals and acting.,-51275366,-0.5133588895964787,False,False,False,False,True,False,0.836,positive
+Movie 262,Director B,58582457,228992125,6.4,Loved the characters and the storyline.,170409668,2.9088856413106745,True,False,False,False,False,False,0.5994,positive
+Movie 263,Director A,2606291,163518055,4.6,"Not worth the time, poor screenplay.",160911764,61.73975354248624,False,False,False,False,True,False,-0.5812,negative
+Movie 264,Director B,72239597,51681779,8.3,"Not worth the time, poor screenplay.",-20557818,-0.2845782486854128,False,False,False,False,True,False,-0.5812,negative
+Movie 265,Director C,13675371,224311471,4.0,Loved the characters and the storyline.,210636100,15.402587615356103,True,False,False,False,False,False,0.5994,positive
+Movie 266,Director A,79467724,104523356,4.8,Loved the characters and the storyline.,25055632,0.31529318745809304,True,False,False,False,False,False,0.5994,positive
+Movie 267,Director A,22688427,292151737,7.3,Loved the characters and the storyline.,269463310,11.876685413228515,False,True,False,False,False,False,0.5994,positive
+Movie 268,Director B,77325230,46115879,7.0,Amazing movie with great visuals and acting.,-31209351,-0.4036114861863327,False,True,False,False,False,False,0.836,positive
+Movie 269,Director A,76900362,50408548,8.8,Amazing movie with great visuals and acting.,-26491814,-0.34449530939789336,False,False,False,True,False,False,0.836,positive
+Movie 270,Director A,41138403,13594103,5.4,Terrible plot and boring scenes.,-27544300,-0.6695519998673746,True,False,False,False,False,False,-0.6597,negative
+Movie 271,Director D,84121140,188132393,7.8,Amazing movie with great visuals and acting.,104011253,1.236446070512121,False,True,False,False,False,False,0.836,positive
+Movie 272,Director D,66014114,211261928,5.1,Loved the characters and the storyline.,145247814,2.2002539335754774,False,False,False,True,False,False,0.5994,positive
+Movie 273,Director A,99646843,40443148,8.0,A decent movie with good direction.,-59203695,-0.5941351799775533,False,False,True,False,False,False,0.4404,positive
+Movie 274,Director A,25967097,188571107,8.4,Loved the characters and the storyline.,162604010,6.26192485051371,False,False,False,False,True,False,0.5994,positive
+Movie 275,Director D,9187654,181766000,7.3,A decent movie with good direction.,172578346,18.78372280889115,False,False,False,False,True,False,0.4404,positive
+Movie 276,Director D,86957867,103630981,8.0,Amazing movie with great visuals and acting.,16673114,0.19173784471967326,False,False,False,False,True,False,0.836,positive
+Movie 277,Director D,89666215,271458319,7.8,Loved the characters and the storyline.,181792104,2.0274314467271757,True,False,False,False,False,False,0.5994,positive
+Movie 278,Director D,5802487,86564039,7.5,A decent movie with good direction.,80761552,13.918437387278937,True,False,False,False,False,False,0.4404,positive
+Movie 279,Director A,71376449,175258752,8.5,Terrible plot and boring scenes.,103882303,1.4554142781745838,True,False,False,False,False,False,-0.6597,negative
+Movie 280,Director D,69199430,250992060,8.0,Terrible plot and boring scenes.,181792630,2.6270827664331917,False,False,False,True,False,False,-0.6597,negative
+Movie 281,Director D,61766876,129205841,7.7,Loved the characters and the storyline.,67438965,1.0918305954149277,False,False,False,False,False,True,0.5994,positive
+Movie 282,Director B,35763113,282637666,7.8,Terrible plot and boring scenes.,246874553,6.903049882710154,False,False,False,False,True,False,-0.6597,negative
+Movie 283,Director D,88719178,106037606,7.0,Terrible plot and boring scenes.,17318428,0.19520500967671273,False,False,False,False,True,False,-0.6597,negative
+Movie 284,Director C,26036356,289382077,4.3,Loved the characters and the storyline.,263345721,10.114538340157893,False,False,False,True,False,False,0.5994,positive
+Movie 285,Director D,22604461,271984989,3.9,Terrible plot and boring scenes.,249380528,11.032358966665916,False,False,False,True,False,False,-0.6597,negative
+Movie 286,Director B,8352404,260767140,6.7,"Not worth the time, poor screenplay.",252414736,30.22060906057705,False,False,False,True,False,False,-0.5812,negative
+Movie 287,Director B,58086213,46945240,8.0,A decent movie with good direction.,-11140973,-0.19180064295119395,False,False,False,True,False,False,0.4404,positive
+Movie 288,Director C,39741073,120802727,7.5,A decent movie with good direction.,81061654,2.039744976186224,False,False,False,False,True,False,0.4404,positive
+Movie 289,Director C,24400512,136689328,4.7,Loved the characters and the storyline.,112288816,4.60190409119284,False,False,False,True,False,False,0.5994,positive
+Movie 290,Director B,77298449,25888227,9.5,"Not worth the time, poor screenplay.",-51410222,-0.6650873680531416,True,False,False,False,False,False,-0.5812,negative
+Movie 291,Director A,78806582,25269597,7.6,Terrible plot and boring scenes.,-53536985,-0.6793466185349848,False,False,False,False,False,True,-0.6597,negative
+Movie 292,Director A,56481799,7339633,7.8,Loved the characters and the storyline.,-49142166,-0.8700531298587001,False,True,False,False,False,False,0.5994,positive
+Movie 293,Director B,10462525,175934433,4.1,Amazing movie with great visuals and acting.,165471908,15.815676234943286,False,False,False,False,False,True,0.836,positive
+Movie 294,Director D,65636927,115175155,6.3,Terrible plot and boring scenes.,49538228,0.7547310677722618,False,True,False,False,False,False,-0.6597,negative
+Movie 295,Director D,36448339,249970467,7.0,Terrible plot and boring scenes.,213522128,5.858212852991737,False,False,False,False,False,True,-0.6597,negative
+Movie 296,Director B,32465378,112539604,4.6,Terrible plot and boring scenes.,80074226,2.466449828491139,False,False,False,False,True,False,-0.6597,negative
+Movie 297,Director A,65373519,165140655,6.6,"Not worth the time, poor screenplay.",99767136,1.5261093104074754,False,True,False,False,False,False,-0.5812,negative
+Movie 298,Director B,20318178,258896356,5.3,Terrible plot and boring scenes.,238578178,11.742104926927995,False,True,False,False,False,False,-0.6597,negative
+Movie 299,Director B,32075512,159314477,6.4,Terrible plot and boring scenes.,127238965,3.9668568657610206,False,False,False,False,True,False,-0.6597,negative
+Movie 300,Director C,49759429,230735877,4.3,A decent movie with good direction.,180976448,3.637028230368158,False,False,False,False,True,False,0.4404,positive
+Movie 301,Director D,69509976,213222188,3.6,A decent movie with good direction.,143712212,2.06750484275811,False,True,False,False,False,False,0.4404,positive
+Movie 302,Director A,20349380,293455748,4.0,Amazing movie with great visuals and acting.,273106368,13.420869235328054,False,False,False,False,True,False,0.836,positive
+Movie 303,Director B,81147815,56899807,8.0,Amazing movie with great visuals and acting.,-24248008,-0.2988128269381006,False,False,False,False,True,False,0.836,positive
+Movie 304,Director B,14871149,286791473,5.9,Loved the characters and the storyline.,271920324,18.28509175720047,False,False,True,False,False,False,0.5994,positive
+Movie 305,Director D,37060592,108875719,6.6,Loved the characters and the storyline.,71815127,1.9377760344465085,False,False,True,False,False,False,0.5994,positive
+Movie 306,Director C,80170180,26933280,8.8,Loved the characters and the storyline.,-53236900,-0.664048652503961,False,False,False,True,False,False,0.5994,positive
+Movie 307,Director B,13523456,191726088,8.7,Terrible plot and boring scenes.,178202632,13.177299648847159,False,False,False,False,False,True,-0.6597,negative
+Movie 308,Director A,41445474,140491294,5.8,Loved the characters and the storyline.,99045820,2.3897861561433706,False,True,False,False,False,False,0.5994,positive
+Movie 309,Director C,97141791,175053692,9.5,"Not worth the time, poor screenplay.",77911901,0.8020430774227747,False,False,False,True,False,False,-0.5812,negative
+Movie 310,Director B,72324630,35840355,8.2,Loved the characters and the storyline.,-36484275,-0.504451595535297,False,False,False,True,False,False,0.5994,positive
+Movie 311,Director A,78152045,25817374,7.4,"Not worth the time, poor screenplay.",-52334671,-0.6696519713591628,False,True,False,False,False,False,-0.5812,negative
+Movie 312,Director D,88718290,181243664,6.4,Amazing movie with great visuals and acting.,92525374,1.0429120534221297,False,False,False,False,True,False,0.836,positive
+Movie 313,Director D,69002659,94693542,6.8,A decent movie with good direction.,25690883,0.3723172899757385,False,True,False,False,False,False,0.4404,positive
+Movie 314,Director C,78934872,68389300,5.0,Amazing movie with great visuals and acting.,-10545572,-0.13359839235566254,False,False,False,False,True,False,0.836,positive
+Movie 315,Director B,24293417,53928951,4.9,A decent movie with good direction.,29635534,1.219899777787538,True,False,False,False,False,False,0.4404,positive
+Movie 316,Director D,20640549,273836559,4.9,Loved the characters and the storyline.,253196010,12.266922260643359,False,False,True,False,False,False,0.5994,positive
+Movie 317,Director B,59164407,139925933,7.6,"Not worth the time, poor screenplay.",80761526,1.3650356708552829,False,False,True,False,False,False,-0.5812,negative
+Movie 318,Director D,86205723,233214602,8.4,A decent movie with good direction.,147008879,1.7053262113467802,False,False,False,False,False,True,0.4404,positive
+Movie 319,Director C,19719605,275246333,3.8,"Not worth the time, poor screenplay.",255526728,12.958004381933614,True,False,False,False,False,False,-0.5812,negative
+Movie 320,Director D,35563341,134656386,5.9,Amazing movie with great visuals and acting.,99093045,2.7863817687995063,False,False,False,False,False,True,0.836,positive
+Movie 321,Director D,13819081,13568913,5.0,Loved the characters and the storyline.,-250168,-0.018103085147268477,False,False,False,False,True,False,0.5994,positive
+Movie 322,Director B,25553231,286461023,4.1,Amazing movie with great visuals and acting.,260907792,10.210364082725977,False,False,False,True,False,False,0.836,positive
+Movie 323,Director B,50362866,87275656,6.6,"Not worth the time, poor screenplay.",36912790,0.7329366442330745,False,True,False,False,False,False,-0.5812,negative
+Movie 324,Director C,32355163,239181266,5.4,Loved the characters and the storyline.,206826103,6.392367827045099,False,False,True,False,False,False,0.5994,positive
+Movie 325,Director D,3813401,240466452,7.6,Terrible plot and boring scenes.,236653051,62.05826531225014,False,False,False,False,True,False,-0.6597,negative
+Movie 326,Director C,63587201,128797895,9.3,Terrible plot and boring scenes.,65210694,1.0255317575623435,False,False,False,True,False,False,-0.6597,negative
+Movie 327,Director B,68890291,42730408,8.2,A decent movie with good direction.,-26159883,-0.3797325083152864,False,False,False,False,False,True,0.4404,positive
+Movie 328,Director C,1983425,126098106,8.1,A decent movie with good direction.,124114681,62.57593859107352,False,False,False,True,False,False,0.4404,positive
+Movie 329,Director C,15974865,96298321,4.4,"Not worth the time, poor screenplay.",80323456,5.028114854178736,False,False,False,False,True,False,-0.5812,negative
+Movie 330,Director C,27923671,149432450,8.6,Terrible plot and boring scenes.,121508779,4.351461489429524,False,False,False,True,False,False,-0.6597,negative
+Movie 331,Director D,87865964,74823359,9.5,A decent movie with good direction.,-13042605,-0.1484375110253158,False,True,False,False,False,False,0.4404,positive
+Movie 332,Director D,39269198,232574636,5.8,Terrible plot and boring scenes.,193305438,4.922571578874618,True,False,False,False,False,False,-0.6597,negative
+Movie 333,Director C,98599710,59473265,9.3,Amazing movie with great visuals and acting.,-39126445,-0.39682109612695615,False,False,True,False,False,False,0.836,positive
+Movie 334,Director D,62015392,95527875,6.6,Loved the characters and the storyline.,33512483,0.5403897632381329,False,False,True,False,False,False,0.5994,positive
+Movie 335,Director D,17647367,204885020,7.3,Amazing movie with great visuals and acting.,187237653,10.609948384934704,True,False,False,False,False,False,0.836,positive
+Movie 336,Director B,21419559,65467162,4.4,"Not worth the time, poor screenplay.",44047603,2.0564196956622682,False,True,False,False,False,False,-0.5812,negative
+Movie 337,Director C,5755625,237460759,4.4,Terrible plot and boring scenes.,231705134,40.25716303616028,False,False,False,False,True,False,-0.6597,negative
+Movie 338,Director B,83075338,7874830,7.0,Amazing movie with great visuals and acting.,-75200508,-0.9052085710442731,False,False,False,False,False,True,0.836,positive
+Movie 339,Director A,83289105,202637174,3.6,"Not worth the time, poor screenplay.",119348069,1.4329373451665737,False,False,False,True,False,False,-0.5812,negative
+Movie 340,Director A,80898239,107148948,5.1,A decent movie with good direction.,26250709,0.324490487364008,False,True,False,False,False,False,0.4404,positive
+Movie 341,Director C,77852305,74825539,8.1,Loved the characters and the storyline.,-3026766,-0.03887830938338949,False,False,False,True,False,False,0.5994,positive
+Movie 342,Director B,23316159,270635100,9.3,"Not worth the time, poor screenplay.",247318941,10.607190532540114,False,True,False,False,False,False,-0.5812,negative
+Movie 343,Director C,73827171,127979811,4.3,"Not worth the time, poor screenplay.",54152640,0.7335055544793935,False,False,True,False,False,False,-0.5812,negative
+Movie 344,Director B,61250116,128366135,7.8,"Not worth the time, poor screenplay.",67116019,1.0957696635219434,False,False,False,False,True,False,-0.5812,negative
+Movie 345,Director D,73108245,55489628,4.2,"Not worth the time, poor screenplay.",-17618617,-0.24099357056102222,False,False,False,False,True,False,-0.5812,negative
+Movie 346,Director A,51127824,153304842,6.5,Amazing movie with great visuals and acting.,102177018,1.998462089839771,False,False,False,True,False,False,0.836,positive
+Movie 347,Director B,41828811,294328383,6.0,"Not worth the time, poor screenplay.",252499572,6.036498909806449,False,False,False,False,True,False,-0.5812,negative
+Movie 348,Director B,18185542,48177101,8.8,Amazing movie with great visuals and acting.,29991559,1.6491979727631985,False,True,False,False,False,False,0.836,positive
+Movie 349,Director D,94700040,291173218,6.0,Amazing movie with great visuals and acting.,196473178,2.0746894932673734,True,False,False,False,False,False,0.836,positive
+Movie 350,Director C,68245570,19933736,7.9,"Not worth the time, poor screenplay.",-48311834,-0.7079116490638147,False,False,False,True,False,False,-0.5812,negative
+Movie 351,Director B,68014198,25031726,7.7,Loved the characters and the storyline.,-42982472,-0.6319632262663746,True,False,False,False,False,False,0.5994,positive
+Movie 352,Director C,97575718,105810074,7.0,"Not worth the time, poor screenplay.",8234356,0.08438939696042001,False,False,False,False,True,False,-0.5812,negative
+Movie 353,Director C,38926630,86025367,6.0,Terrible plot and boring scenes.,47098737,1.2099361542471054,True,False,False,False,False,False,-0.6597,negative
+Movie 354,Director B,69037227,86722372,7.5,Amazing movie with great visuals and acting.,17685145,0.2561682409405001,False,False,False,False,True,False,0.836,positive
+Movie 355,Director C,18047503,232021461,5.9,Loved the characters and the storyline.,213973958,11.856153064498729,False,False,False,False,False,True,0.5994,positive
+Movie 356,Director A,41576035,256395693,9.3,Terrible plot and boring scenes.,214819658,5.16691064936808,False,False,False,False,True,False,-0.6597,negative
+Movie 357,Director D,68635922,243737331,8.6,Loved the characters and the storyline.,175101409,2.551162771587741,False,False,False,False,False,True,0.5994,positive
+Movie 358,Director A,38837591,181792473,4.4,Amazing movie with great visuals and acting.,142954882,3.680838031380474,False,False,False,False,False,True,0.836,positive
+Movie 359,Director C,97955466,223824276,8.2,Amazing movie with great visuals and acting.,125868810,1.2849595345705365,False,True,False,False,False,False,0.836,positive
+Movie 360,Director B,14332348,87240009,7.5,Terrible plot and boring scenes.,72907661,5.086930696910234,False,True,False,False,False,False,-0.6597,negative
+Movie 361,Director A,19998592,264253337,7.0,Amazing movie with great visuals and acting.,244254745,12.213597087234941,True,False,False,False,False,False,0.836,positive
+Movie 362,Director C,28396153,111153567,3.6,Terrible plot and boring scenes.,82757414,2.914388227165842,False,False,False,False,False,True,-0.6597,negative
+Movie 363,Director C,74846415,182782223,6.7,"Not worth the time, poor screenplay.",107935808,1.4420972333811846,False,False,False,False,False,True,-0.5812,negative
+Movie 364,Director B,67281398,4390263,8.6,Amazing movie with great visuals and acting.,-62891135,-0.9347477440941403,False,False,False,False,True,False,0.836,positive
+Movie 365,Director D,94507138,194730898,6.7,A decent movie with good direction.,100223760,1.0604887855137461,False,False,False,False,True,False,0.4404,positive
+Movie 366,Director D,98172308,72813452,9.0,Loved the characters and the storyline.,-25358856,-0.25830966508396647,False,True,False,False,False,False,0.5994,positive
+Movie 367,Director C,67658997,61838312,6.7,"Not worth the time, poor screenplay.",-5820685,-0.08602972639396354,False,False,False,True,False,False,-0.5812,negative
+Movie 368,Director C,66300863,215854732,4.1,A decent movie with good direction.,149553869,2.2556851032240712,False,False,True,False,False,False,0.4404,positive
+Movie 369,Director C,15284542,94088414,8.9,A decent movie with good direction.,78803872,5.155788900969358,False,False,False,False,False,True,0.4404,positive
+Movie 370,Director B,31065585,157403757,7.8,Loved the characters and the storyline.,126338172,4.066820953154431,True,False,False,False,False,False,0.5994,positive
+Movie 371,Director B,11308051,88755019,8.4,"Not worth the time, poor screenplay.",77446968,6.848834339356976,False,False,False,False,True,False,-0.5812,negative
+Movie 372,Director A,76325622,161805227,4.0,Loved the characters and the storyline.,85479605,1.1199332905534658,False,False,False,False,True,False,0.5994,positive
+Movie 373,Director B,79022022,95108852,8.6,A decent movie with good direction.,16086830,0.20357401130535485,False,False,False,False,False,True,0.4404,positive
+Movie 374,Director B,30274391,236781096,7.9,Amazing movie with great visuals and acting.,206506705,6.8211679303474675,False,False,False,False,False,True,0.836,positive
+Movie 375,Director C,8677230,188815795,7.7,A decent movie with good direction.,180138565,20.75991589481897,False,False,False,True,False,False,0.4404,positive
+Movie 376,Director A,12466589,264790505,4.7,A decent movie with good direction.,252323916,20.240012404355355,True,False,False,False,False,False,0.4404,positive
+Movie 377,Director C,59703691,246944466,5.7,Amazing movie with great visuals and acting.,187240775,3.1361674942341504,False,False,False,False,True,False,0.836,positive
+Movie 378,Director D,42295125,150897203,9.5,A decent movie with good direction.,108602078,2.5677209371056358,True,False,False,False,False,False,0.4404,positive
+Movie 379,Director A,25192433,57545380,3.7,Amazing movie with great visuals and acting.,32352947,1.2842327297248344,True,False,False,False,False,False,0.836,positive
+Movie 380,Director D,51926279,83286380,7.9,Loved the characters and the storyline.,31360101,0.6039350711034003,False,False,False,False,True,False,0.5994,positive
+Movie 381,Director A,20581161,98314732,4.9,"Not worth the time, poor screenplay.",77733571,3.7769283763923718,True,False,False,False,False,False,-0.5812,negative
+Movie 382,Director C,88003447,190045472,9.0,Amazing movie with great visuals and acting.,102042025,1.1595230468642892,False,False,True,False,False,False,0.836,positive
+Movie 383,Director C,54741458,9061093,4.4,A decent movie with good direction.,-45680365,-0.834474759514078,False,False,True,False,False,False,0.4404,positive
+Movie 384,Director B,56888483,145790569,5.5,Terrible plot and boring scenes.,88902086,1.5627431302747166,False,False,False,False,False,True,-0.6597,negative
+Movie 385,Director D,30312781,250145091,6.0,"Not worth the time, poor screenplay.",219832310,7.252132689508099,False,False,False,False,False,True,-0.5812,negative
+Movie 386,Director A,79997310,161766801,7.4,Terrible plot and boring scenes.,81769491,1.0221530073948737,False,False,False,False,True,False,-0.6597,negative
+Movie 387,Director D,58371458,144669519,5.0,"Not worth the time, poor screenplay.",86298061,1.4784290808703116,False,False,False,False,True,False,-0.5812,negative
+Movie 388,Director D,1912625,171931611,5.1,Terrible plot and boring scenes.,170018986,88.89300620874452,False,False,False,False,True,False,-0.6597,negative
+Movie 389,Director B,50427232,70653983,6.4,Terrible plot and boring scenes.,20226751,0.40110769910987776,False,False,False,True,False,False,-0.6597,negative
+Movie 390,Director D,32444696,66796626,7.2,Terrible plot and boring scenes.,34351930,1.0587841538105334,False,False,False,False,False,True,-0.6597,negative
+Movie 391,Director A,94039702,153681579,5.2,A decent movie with good direction.,59641877,0.6342201828755263,False,False,True,False,False,False,0.4404,positive
+Movie 392,Director D,4517177,67445043,8.2,"Not worth the time, poor screenplay.",62927866,13.930794830488157,False,False,True,False,False,False,-0.5812,negative
+Movie 393,Director B,39973130,198551444,8.3,Amazing movie with great visuals and acting.,158578314,3.9671227647171987,True,False,False,False,False,False,0.836,positive
+Movie 394,Director A,44604546,58887504,8.6,A decent movie with good direction.,14282958,0.3202130563104487,False,False,False,True,False,False,0.4404,positive
+Movie 395,Director D,79286507,12061776,6.5,Loved the characters and the storyline.,-67224731,-0.8478710129076565,False,False,False,True,False,False,0.5994,positive
+Movie 396,Director D,60300402,113709405,8.1,Amazing movie with great visuals and acting.,53409003,0.8857155380158163,False,False,False,False,False,True,0.836,positive
+Movie 397,Director D,6675569,107928446,8.0,A decent movie with good direction.,101252877,15.1676773919946,True,False,False,False,False,False,0.4404,positive
+Movie 398,Director B,75552673,48925791,8.6,A decent movie with good direction.,-26626882,-0.35242806035466145,False,False,False,True,False,False,0.4404,positive
+Movie 399,Director D,49050795,48653748,6.4,A decent movie with good direction.,-397047,-0.008094608864137676,True,False,False,False,False,False,0.4404,positive
+Movie 400,Director A,38596809,174296117,5.4,Terrible plot and boring scenes.,135699308,3.5158167609140953,False,True,False,False,False,False,-0.6597,negative
+Movie 401,Director D,21650836,280838383,8.1,"Not worth the time, poor screenplay.",259187547,11.97124891620813,True,False,False,False,False,False,-0.5812,negative
+Movie 402,Director C,88188874,156613432,7.7,Amazing movie with great visuals and acting.,68424558,0.775886513756826,False,False,False,True,False,False,0.836,positive
+Movie 403,Director D,82080550,11114710,7.0,"Not worth the time, poor screenplay.",-70965840,-0.8645877738392348,False,False,True,False,False,False,-0.5812,negative
+Movie 404,Director A,93221838,157581385,4.8,A decent movie with good direction.,64359547,0.6903913115293865,True,False,False,False,False,False,0.4404,positive
+Movie 405,Director C,31599202,255281641,8.5,Amazing movie with great visuals and acting.,223682439,7.078736956711755,False,False,False,False,True,False,0.836,positive
+Movie 406,Director A,71915689,271935747,4.9,A decent movie with good direction.,200020058,2.781313240286136,False,False,False,True,False,False,0.4404,positive
+Movie 407,Director D,74850051,160119144,3.6,Terrible plot and boring scenes.,85269093,1.139198863070915,False,False,False,False,True,False,-0.6597,negative
+Movie 408,Director C,86125032,201653675,8.5,A decent movie with good direction.,115528643,1.3414060966618857,True,False,False,False,False,False,0.4404,positive
+Movie 409,Director D,79388942,267235304,6.8,"Not worth the time, poor screenplay.",187846362,2.3661527319510065,False,False,False,True,False,False,-0.5812,negative
+Movie 410,Director C,16694552,168596565,9.0,Amazing movie with great visuals and acting.,151902013,9.09889723306142,False,False,False,True,False,False,0.836,positive
+Movie 411,Director D,54699247,174097240,7.6,"Not worth the time, poor screenplay.",119397993,2.1828087139846732,False,False,False,False,True,False,-0.5812,negative
+Movie 412,Director D,28987361,21755387,4.2,"Not worth the time, poor screenplay.",-7231974,-0.24948714717424605,False,True,False,False,False,False,-0.5812,negative
+Movie 413,Director D,90468042,42486185,7.0,Amazing movie with great visuals and acting.,-47981857,-0.5303735544536269,False,True,False,False,False,False,0.836,positive
+Movie 414,Director A,48945196,107953687,8.6,"Not worth the time, poor screenplay.",59008491,1.205603324175063,False,False,False,True,False,False,-0.5812,negative
+Movie 415,Director B,46807351,209447595,4.9,Loved the characters and the storyline.,162640244,3.4746731127766664,False,False,False,True,False,False,0.5994,positive
+Movie 416,Director B,52840094,55477275,9.4,"Not worth the time, poor screenplay.",2637181,0.04990871136603201,False,True,False,False,False,False,-0.5812,negative
+Movie 417,Director C,54164386,95784035,5.0,Loved the characters and the storyline.,41619649,0.7683951037495376,False,False,False,True,False,False,0.5994,positive
+Movie 418,Director B,24277752,25255965,8.9,Amazing movie with great visuals and acting.,978213,0.040292569097830806,False,False,False,False,False,True,0.836,positive
+Movie 419,Director C,20458675,124504190,8.9,Amazing movie with great visuals and acting.,104045515,5.085642887430393,False,False,True,False,False,False,0.836,positive
+Movie 420,Director D,18203180,156776476,6.3,A decent movie with good direction.,138573296,7.61258725123852,False,False,False,False,False,True,0.4404,positive
+Movie 421,Director A,21172236,201348354,5.0,Amazing movie with great visuals and acting.,180176118,8.510018403346722,False,True,False,False,False,False,0.836,positive
+Movie 422,Director A,9611172,136087677,6.2,Loved the characters and the storyline.,126476505,13.159321776782269,False,False,False,True,False,False,0.5994,positive
+Movie 423,Director B,89226724,197139317,5.9,Loved the characters and the storyline.,107912593,1.2094200948137466,False,True,False,False,False,False,0.5994,positive
+Movie 424,Director B,51268135,262836900,7.2,Amazing movie with great visuals and acting.,211568765,4.126710772685607,False,True,False,False,False,False,0.836,positive
+Movie 425,Director C,32699471,35385495,9.0,A decent movie with good direction.,2686024,0.08214273558125756,False,False,False,True,False,False,0.4404,positive
+Movie 426,Director C,6501681,156562769,9.2,"Not worth the time, poor screenplay.",150061088,23.08035229658299,False,False,False,True,False,False,-0.5812,negative
+Movie 427,Director A,98103248,299812745,4.7,Amazing movie with great visuals and acting.,201709497,2.0560939735654826,False,False,False,False,True,False,0.836,positive
+Movie 428,Director B,68158662,251358442,8.2,Terrible plot and boring scenes.,183199780,2.687842962645012,False,True,False,False,False,False,-0.6597,negative
+Movie 429,Director D,46072971,194808147,4.8,Terrible plot and boring scenes.,148735176,3.2282523304173285,False,False,False,False,True,False,-0.6597,negative
+Movie 430,Director D,45878262,36934383,4.5,Amazing movie with great visuals and acting.,-8943879,-0.19494807802440292,False,False,True,False,False,False,0.836,positive
+Movie 431,Director A,11117586,74095393,9.0,Loved the characters and the storyline.,62977807,5.664701581800221,False,False,False,True,False,False,0.5994,positive
+Movie 432,Director B,27908813,268355075,7.9,Amazing movie with great visuals and acting.,240446262,8.615424167269314,False,True,False,False,False,False,0.836,positive
+Movie 433,Director D,67741995,64533301,8.1,"Not worth the time, poor screenplay.",-3208694,-0.047366393623335126,False,False,False,True,False,False,-0.5812,negative
+Movie 434,Director B,11410308,174517703,9.3,Terrible plot and boring scenes.,163107395,14.29474077299228,False,False,False,False,False,True,-0.6597,negative
+Movie 435,Director D,26920249,289213358,6.0,A decent movie with good direction.,262293109,9.743338889621711,False,False,True,False,False,False,0.4404,positive
+Movie 436,Director C,82803141,287735912,4.3,A decent movie with good direction.,204932771,2.474939579888642,True,False,False,False,False,False,0.4404,positive
+Movie 437,Director D,45585403,84581937,4.9,"Not worth the time, poor screenplay.",38996534,0.8554609904402951,False,False,False,True,False,False,-0.5812,negative
+Movie 438,Director D,4154523,8774452,5.3,Amazing movie with great visuals and acting.,4619929,1.1120239315079012,False,False,False,False,False,True,0.836,positive
+Movie 439,Director B,22336856,133845245,4.8,Terrible plot and boring scenes.,111508389,4.992125525633509,False,False,False,False,True,False,-0.6597,negative
+Movie 440,Director B,94401168,271303470,4.5,Amazing movie with great visuals and acting.,176902302,1.873941877498804,False,False,False,True,False,False,0.836,positive
+Movie 441,Director C,77273197,179519563,7.6,Terrible plot and boring scenes.,102246366,1.3231802225032827,True,False,False,False,False,False,-0.6597,negative
+Movie 442,Director A,19548312,49335582,8.5,A decent movie with good direction.,29787270,1.5237770913416975,False,False,False,True,False,False,0.4404,positive
+Movie 443,Director D,76286079,165079728,5.1,A decent movie with good direction.,88793649,1.1639561262546998,True,False,False,False,False,False,0.4404,positive
+Movie 444,Director A,22907327,226361858,5.4,Loved the characters and the storyline.,203454531,8.881635600696669,False,False,False,False,False,True,0.5994,positive
+Movie 445,Director D,64148805,232203254,9.4,A decent movie with good direction.,168054449,2.6197596198401514,False,True,False,False,False,False,0.4404,positive
+Movie 446,Director C,6335620,63745093,8.3,A decent movie with good direction.,57409473,9.061381995763634,False,False,False,False,False,True,0.4404,positive
+Movie 447,Director C,67105688,27757698,5.3,Amazing movie with great visuals and acting.,-39347990,-0.5863584916974549,True,False,False,False,False,False,0.836,positive
+Movie 448,Director D,34730534,259426067,7.3,Loved the characters and the storyline.,224695533,6.469682642944678,True,False,False,False,False,False,0.5994,positive
+Movie 449,Director C,37873525,48084273,8.1,Terrible plot and boring scenes.,10210748,0.2696012055915049,True,False,False,False,False,False,-0.6597,negative
+Movie 450,Director A,78398830,138696259,4.5,Amazing movie with great visuals and acting.,60297429,0.7691113375033786,False,False,True,False,False,False,0.836,positive
+Movie 451,Director D,85727566,78599697,8.1,Terrible plot and boring scenes.,-7127869,-0.08314558936620223,False,False,True,False,False,False,-0.6597,negative
+Movie 452,Director B,90921963,275885753,9.3,Terrible plot and boring scenes.,184963790,2.034313645428003,False,True,False,False,False,False,-0.6597,negative
+Movie 453,Director C,13866822,201026450,6.7,"Not worth the time, poor screenplay.",187159628,13.496937366038159,False,False,False,False,True,False,-0.5812,negative
+Movie 454,Director A,56678444,130544961,5.8,"Not worth the time, poor screenplay.",73866517,1.3032559080132828,False,False,False,False,False,True,-0.5812,negative
+Movie 455,Director C,61513762,171518078,5.1,A decent movie with good direction.,110004316,1.7882878956419541,False,False,False,False,True,False,0.4404,positive
+Movie 456,Director A,17702082,37290815,4.0,Terrible plot and boring scenes.,19588733,1.106577915524287,True,False,False,False,False,False,-0.6597,negative
+Movie 457,Director B,20409916,22070978,7.7,"Not worth the time, poor screenplay.",1661062,0.08138504832650953,True,False,False,False,False,False,-0.5812,negative
+Movie 458,Director B,25124468,239402808,9.0,Amazing movie with great visuals and acting.,214278340,8.528671731477061,False,False,True,False,False,False,0.836,positive
+Movie 459,Director B,37253690,176226547,6.6,Amazing movie with great visuals and acting.,138972857,3.7304454135952705,False,True,False,False,False,False,0.836,positive
+Movie 460,Director D,54221356,145223498,8.7,Loved the characters and the storyline.,91002142,1.67834500487225,False,True,False,False,False,False,0.5994,positive
+Movie 461,Director B,63553917,148847956,9.5,Amazing movie with great visuals and acting.,85294039,1.3420736758050649,False,False,True,False,False,False,0.836,positive
+Movie 462,Director B,84199284,290494659,6.0,Amazing movie with great visuals and acting.,206295375,2.4500846705537307,False,False,False,False,False,True,0.836,positive
+Movie 463,Director C,3969487,228221747,4.5,Loved the characters and the storyline.,224252260,56.494015473536,True,False,False,False,False,False,0.5994,positive
+Movie 464,Director C,10595394,155525845,5.4,A decent movie with good direction.,144930451,13.678627807517115,False,False,True,False,False,False,0.4404,positive
+Movie 465,Director B,68731501,104285624,5.0,Terrible plot and boring scenes.,35554123,0.5172900705311237,False,False,False,False,True,False,-0.6597,negative
+Movie 466,Director D,88798040,152387579,3.8,A decent movie with good direction.,63589539,0.7161142182868,False,False,False,True,False,False,0.4404,positive
+Movie 467,Director A,37902034,221378796,5.5,Loved the characters and the storyline.,183476762,4.84081571981071,False,False,False,False,True,False,0.5994,positive
+Movie 468,Director A,34636493,266334396,7.9,Loved the characters and the storyline.,231697903,6.689415784675429,False,True,False,False,False,False,0.5994,positive
+Movie 469,Director C,93152607,105882900,4.4,Loved the characters and the storyline.,12730293,0.13666061970761592,True,False,False,False,False,False,0.5994,positive
+Movie 470,Director B,69977294,245633170,9.4,"Not worth the time, poor screenplay.",175655876,2.510183889076934,False,False,True,False,False,False,-0.5812,negative
+Movie 471,Director D,44009414,240694995,4.5,Loved the characters and the storyline.,196685581,4.469170641535922,False,False,False,False,True,False,0.5994,positive
+Movie 472,Director A,99888848,269085996,5.9,Terrible plot and boring scenes.,169197148,1.693854232856905,False,False,False,False,True,False,-0.6597,negative
+Movie 473,Director D,33806691,91853890,6.2,Terrible plot and boring scenes.,58047199,1.717032850094675,False,True,False,False,False,False,-0.6597,negative
+Movie 474,Director D,41153003,90226207,9.2,A decent movie with good direction.,49073204,1.192457425281941,True,False,False,False,False,False,0.4404,positive
+Movie 475,Director C,30543142,120713310,6.9,Terrible plot and boring scenes.,90170168,2.952223055506208,False,False,False,False,True,False,-0.6597,negative
+Movie 476,Director A,84529040,20352010,8.5,A decent movie with good direction.,-64177030,-0.7592305555581845,False,False,False,True,False,False,0.4404,positive
+Movie 477,Director B,33167363,128023297,4.4,Amazing movie with great visuals and acting.,94855934,2.8599178656440065,False,False,False,False,False,True,0.836,positive
+Movie 478,Director C,33101962,294007576,6.5,"Not worth the time, poor screenplay.",260905614,7.881877636135284,False,False,False,False,True,False,-0.5812,negative
+Movie 479,Director B,76996665,262746323,3.7,A decent movie with good direction.,185749658,2.4124377075292807,False,False,True,False,False,False,0.4404,positive
+Movie 480,Director C,97685681,68424918,6.4,"Not worth the time, poor screenplay.",-29260763,-0.2995399397379438,False,False,False,True,False,False,-0.5812,negative
+Movie 481,Director C,10306380,47887185,5.7,Amazing movie with great visuals and acting.,37580805,3.6463632235566705,False,True,False,False,False,False,0.836,positive
+Movie 482,Director A,55746766,259532425,6.1,A decent movie with good direction.,203785659,3.65556019877458,False,True,False,False,False,False,0.4404,positive
+Movie 483,Director C,22217093,7412073,9.3,"Not worth the time, poor screenplay.",-14805020,-0.6663797104328636,False,True,False,False,False,False,-0.5812,negative
+Movie 484,Director B,45296565,215947010,4.3,A decent movie with good direction.,170650445,3.767403665156508,False,False,False,False,False,True,0.4404,positive
+Movie 485,Director B,35944762,132679793,8.6,Terrible plot and boring scenes.,96735031,2.691213562632575,True,False,False,False,False,False,-0.6597,negative
+Movie 486,Director A,56955309,54328417,4.3,Amazing movie with great visuals and acting.,-2626892,-0.04612198662639158,False,False,False,False,False,True,0.836,positive
+Movie 487,Director C,7270873,73723447,7.8,Loved the characters and the storyline.,66452574,9.139559169854843,False,False,False,False,True,False,0.5994,positive
+Movie 488,Director B,30701094,134295877,4.9,Amazing movie with great visuals and acting.,103594783,3.3743026551431683,False,True,False,False,False,False,0.836,positive
+Movie 489,Director D,24248044,268427988,6.4,Terrible plot and boring scenes.,244179944,10.070088292482477,False,False,False,False,True,False,-0.6597,negative
+Movie 490,Director C,26756436,57237307,5.0,Terrible plot and boring scenes.,30480871,1.1391977242410014,False,False,False,True,False,False,-0.6597,negative
+Movie 491,Director C,41110443,262003842,9.3,A decent movie with good direction.,220893399,5.373169999651913,False,False,False,False,True,False,0.4404,positive
+Movie 492,Director D,15118279,12040360,4.9,Terrible plot and boring scenes.,-3077919,-0.20358924451652202,True,False,False,False,False,False,-0.6597,negative
+Movie 493,Director A,45182426,31260930,9.0,A decent movie with good direction.,-13921496,-0.3081174968338353,False,False,False,False,True,False,0.4404,positive
+Movie 494,Director C,20877899,167907861,6.5,Loved the characters and the storyline.,147029962,7.042373468709663,True,False,False,False,False,False,0.5994,positive
+Movie 495,Director D,51753401,226052914,5.3,Terrible plot and boring scenes.,174299513,3.3678851946367736,False,False,True,False,False,False,-0.6597,negative
+Movie 496,Director D,25849076,165873866,5.3,"Not worth the time, poor screenplay.",140024790,5.4170133586206335,False,False,False,False,True,False,-0.5812,negative
+Movie 497,Director A,89947820,106026905,8.1,Loved the characters and the storyline.,16079085,0.17876014115739547,True,False,False,False,False,False,0.5994,positive
+Movie 498,Director A,50724384,14631878,5.3,A decent movie with good direction.,-36092506,-0.7115415339494315,False,False,False,True,False,False,0.4404,positive
+Movie 499,Director D,75597087,99660427,8.5,Terrible plot and boring scenes.,24063340,0.318310413204149,True,False,False,False,False,False,-0.6597,negative
+Movie 500,Director C,68197038,247792626,6.9,Terrible plot and boring scenes.,179595588,2.633480767889069,False,True,False,False,False,False,-0.6597,negative
+Movie 501,Director B,23713875,266990117,8.9,"Not worth the time, poor screenplay.",243276242,10.25881438609253,False,False,False,False,True,False,-0.5812,negative
+Movie 502,Director D,67225554,284107597,4.7,Loved the characters and the storyline.,216882043,3.226184539884937,False,False,False,False,True,False,0.5994,positive
+Movie 503,Director A,80616445,139350901,8.0,Loved the characters and the storyline.,58734456,0.72856668388193,True,False,False,False,False,False,0.5994,positive
+Movie 504,Director B,14669046,129857805,8.4,A decent movie with good direction.,115188759,7.852505132235593,False,True,False,False,False,False,0.4404,positive
+Movie 505,Director A,40662796,209741606,5.2,Terrible plot and boring scenes.,169078810,4.158071422338986,True,False,False,False,False,False,-0.6597,negative
+Movie 506,Director B,60466559,4399700,4.0,A decent movie with good direction.,-56066859,-0.9272374669112559,False,False,False,False,False,True,0.4404,positive
+Movie 507,Director D,46141102,21542079,8.5,"Not worth the time, poor screenplay.",-24599023,-0.5331260402059751,False,False,False,True,False,False,-0.5812,negative
+Movie 508,Director C,96820813,95231212,6.5,A decent movie with good direction.,-1589601,-0.016417967901178436,False,False,False,True,False,False,0.4404,positive
+Movie 509,Director A,49551488,53753853,8.4,Terrible plot and boring scenes.,4202365,0.08480804854941995,False,False,False,False,True,False,-0.6597,negative
+Movie 510,Director D,30268379,150854184,3.6,Amazing movie with great visuals and acting.,120585805,3.9838871120253914,False,False,True,False,False,False,0.836,positive
+Movie 511,Director B,3385825,28730756,9.0,Terrible plot and boring scenes.,25344931,7.485599816883625,True,False,False,False,False,False,-0.6597,negative
+Movie 512,Director D,12077047,296080076,7.3,Amazing movie with great visuals and acting.,284003029,23.515933075361882,False,False,True,False,False,False,0.836,positive
+Movie 513,Director A,49701103,57055520,5.3,A decent movie with good direction.,7354417,0.14797291319671518,False,False,True,False,False,False,0.4404,positive
+Movie 514,Director D,7730692,193090056,9.4,Loved the characters and the storyline.,185359364,23.97707268637788,False,False,False,True,False,False,0.5994,positive
+Movie 515,Director A,79796450,93420123,9.0,Loved the characters and the storyline.,13623673,0.17073031444381298,True,False,False,False,False,False,0.5994,positive
+Movie 516,Director A,4141741,268949324,5.8,Terrible plot and boring scenes.,264807583,63.93629707893371,False,False,False,False,False,True,-0.6597,negative
+Movie 517,Director C,69170006,41058175,8.6,A decent movie with good direction.,-28111831,-0.4064164892511358,False,False,False,False,False,True,0.4404,positive
+Movie 518,Director D,47111261,216971822,3.9,Loved the characters and the storyline.,169860561,3.605519304609571,True,False,False,False,False,False,0.5994,positive
+Movie 519,Director A,46905951,231945886,7.9,Terrible plot and boring scenes.,185039935,3.9449138340676644,False,True,False,False,False,False,-0.6597,negative
+Movie 520,Director A,15298685,33471510,8.4,Loved the characters and the storyline.,18172825,1.1878684344438755,False,False,False,False,False,True,0.5994,positive
+Movie 521,Director B,37525602,196264493,9.0,"Not worth the time, poor screenplay.",158738891,4.230149085949374,False,True,False,False,False,False,-0.5812,negative
+Movie 522,Director C,74656047,168499298,6.3,"Not worth the time, poor screenplay.",93843251,1.257008035799163,False,False,True,False,False,False,-0.5812,negative
+Movie 523,Director D,24037673,252390003,5.7,"Not worth the time, poor screenplay.",228352330,9.499768550807726,False,False,False,False,True,False,-0.5812,negative
+Movie 524,Director B,5179704,155917600,5.8,Amazing movie with great visuals and acting.,150737896,29.101642873801282,True,False,False,False,False,False,0.836,positive
+Movie 525,Director D,82918141,224165792,8.4,Loved the characters and the storyline.,141247651,1.703458969250167,False,False,True,False,False,False,0.5994,positive
+Movie 526,Director B,64679959,191258799,5.6,Loved the characters and the storyline.,126578840,1.9570024773825228,False,False,False,True,False,False,0.5994,positive
+Movie 527,Director C,68978917,17074750,8.6,Loved the characters and the storyline.,-51904167,-0.7524642203356136,False,False,True,False,False,False,0.5994,positive
+Movie 528,Director A,2861515,145848116,5.1,Loved the characters and the storyline.,142986601,49.96884552413669,False,False,True,False,False,False,0.5994,positive
+Movie 529,Director A,1355572,138060167,7.7,Terrible plot and boring scenes.,136704595,100.8464286662752,False,False,False,False,False,True,-0.6597,negative
+Movie 530,Director B,42992748,181833750,6.1,"Not worth the time, poor screenplay.",138841002,3.2294051545623463,False,False,False,False,True,False,-0.5812,negative
+Movie 531,Director D,54434596,20304710,8.3,A decent movie with good direction.,-34129886,-0.626988873032143,False,False,False,True,False,False,0.4404,positive
+Movie 532,Director D,81191919,223718890,4.2,Loved the characters and the storyline.,142526971,1.7554329637164998,False,False,False,False,False,True,0.5994,positive
+Movie 533,Director C,32756067,27362662,6.6,Terrible plot and boring scenes.,-5393405,-0.16465361974012327,False,False,True,False,False,False,-0.6597,negative
+Movie 534,Director C,38301286,115512816,4.7,Terrible plot and boring scenes.,77211530,2.0158991528378447,True,False,False,False,False,False,-0.6597,negative
+Movie 535,Director B,97641518,269179440,5.8,A decent movie with good direction.,171537922,1.7568133465520273,True,False,False,False,False,False,0.4404,positive
+Movie 536,Director A,39563199,28423130,7.2,Amazing movie with great visuals and acting.,-11140069,-0.28157654794295073,False,False,False,False,True,False,0.836,positive
+Movie 537,Director A,72571656,163298817,5.6,Amazing movie with great visuals and acting.,90727161,1.2501734974877796,False,False,True,False,False,False,0.836,positive
+Movie 538,Director A,65095416,161058921,3.8,Loved the characters and the storyline.,95963505,1.4741975840510797,False,False,False,False,True,False,0.5994,positive
+Movie 539,Director C,47649665,102829047,7.3,A decent movie with good direction.,55179382,1.1580224540928041,False,False,True,False,False,False,0.4404,positive
+Movie 540,Director D,24427420,244966825,4.5,Terrible plot and boring scenes.,220539405,9.0283544066463,False,False,False,False,True,False,-0.6597,negative
+Movie 541,Director A,44343781,9173572,7.6,"Not worth the time, poor screenplay.",-35170209,-0.7931260755595018,False,False,True,False,False,False,-0.5812,negative
+Movie 542,Director C,26668562,5851988,3.9,Loved the characters and the storyline.,-20816574,-0.7805660462682615,False,False,False,True,False,False,0.5994,positive
+Movie 543,Director D,13247221,292017153,3.8,A decent movie with good direction.,278769932,21.043653759531903,False,False,False,False,True,False,0.4404,positive
+Movie 544,Director A,93213747,73288976,7.3,Terrible plot and boring scenes.,-19924771,-0.2137535679152561,False,False,False,False,True,False,-0.6597,negative
+Movie 545,Director A,92629482,76908328,8.4,Loved the characters and the storyline.,-15721154,-0.16972084546473012,False,True,False,False,False,False,0.5994,positive
+Movie 546,Director D,6739151,149176722,8.0,"Not worth the time, poor screenplay.",142437571,21.135833133876954,False,False,False,False,True,False,-0.5812,negative
+Movie 547,Director B,15849143,121655296,6.2,"Not worth the time, poor screenplay.",105806153,6.6758280242660435,False,False,False,False,True,False,-0.5812,negative
+Movie 548,Director C,16083541,103588032,8.1,"Not worth the time, poor screenplay.",87504491,5.440623492053149,False,False,True,False,False,False,-0.5812,negative
+Movie 549,Director B,57879266,140198179,3.7,A decent movie with good direction.,82318913,1.4222521930392138,False,True,False,False,False,False,0.4404,positive
+Movie 550,Director A,75664067,58581942,7.0,Amazing movie with great visuals and acting.,-17082125,-0.22576271243786036,True,False,False,False,False,False,0.836,positive
+Movie 551,Director A,33880738,210064459,8.4,A decent movie with good direction.,176183721,5.200114619699252,False,True,False,False,False,False,0.4404,positive
+Movie 552,Director C,1953104,48088502,5.1,A decent movie with good direction.,46135398,23.621577755204022,False,False,False,True,False,False,0.4404,positive
+Movie 553,Director A,7345804,25494513,3.7,Amazing movie with great visuals and acting.,18148709,2.4706225486005344,False,False,False,True,False,False,0.836,positive
+Movie 554,Director D,76129460,159436772,4.7,Terrible plot and boring scenes.,83307312,1.094284814314984,True,False,False,False,False,False,-0.6597,negative
+Movie 555,Director B,78509760,7536397,5.7,Terrible plot and boring scenes.,-70973363,-0.9040068776162352,False,False,False,False,False,True,-0.6597,negative
+Movie 556,Director B,92180043,63970031,8.4,A decent movie with good direction.,-28210012,-0.30603166457624675,False,False,False,True,False,False,0.4404,positive
+Movie 557,Director A,15966309,116419865,3.9,Loved the characters and the storyline.,100453556,6.29159538375463,False,False,False,False,False,True,0.5994,positive
+Movie 558,Director B,53744005,147618337,4.7,Loved the characters and the storyline.,93874332,1.7466940173141172,True,False,False,False,False,False,0.5994,positive
+Movie 559,Director B,5170195,144842377,4.2,Amazing movie with great visuals and acting.,139672182,27.014877001737844,False,True,False,False,False,False,0.836,positive
+Movie 560,Director C,47820534,252525172,4.5,A decent movie with good direction.,204704638,4.280684904104166,False,True,False,False,False,False,0.4404,positive
+Movie 561,Director A,18459984,14736357,4.6,Loved the characters and the storyline.,-3723627,-0.20171344677221822,False,False,True,False,False,False,0.5994,positive
+Movie 562,Director C,82226949,98219800,4.0,"Not worth the time, poor screenplay.",15992851,0.1944964661159932,False,False,False,True,False,False,-0.5812,negative
+Movie 563,Director A,76696347,7114210,8.0,"Not worth the time, poor screenplay.",-69582137,-0.9072418664216172,False,True,False,False,False,False,-0.5812,negative
+Movie 564,Director A,52314495,110609586,8.4,Terrible plot and boring scenes.,58295091,1.1143200560380062,True,False,False,False,False,False,-0.6597,negative
+Movie 565,Director C,13406634,247961746,6.7,Loved the characters and the storyline.,234555112,17.49545128180571,False,False,False,False,True,False,0.5994,positive
+Movie 566,Director A,61908238,46933017,4.6,"Not worth the time, poor screenplay.",-14975221,-0.24189383325689223,False,False,False,False,False,True,-0.5812,negative
+Movie 567,Director C,97644533,264428464,6.9,Loved the characters and the storyline.,166783931,1.708072391518325,False,True,False,False,False,False,0.5994,positive
+Movie 568,Director B,9033363,165473851,6.9,Loved the characters and the storyline.,156440488,17.318078328082244,False,False,False,True,False,False,0.5994,positive
+Movie 569,Director B,35512773,18749864,9.0,Amazing movie with great visuals and acting.,-16762909,-0.47202478387142566,False,True,False,False,False,False,0.836,positive
+Movie 570,Director C,40138453,229156239,4.0,Amazing movie with great visuals and acting.,189017786,4.709144769480777,False,True,False,False,False,False,0.836,positive
+Movie 571,Director A,81993173,192211385,6.4,A decent movie with good direction.,110218212,1.3442364524665975,False,False,False,False,False,True,0.4404,positive
+Movie 572,Director C,6787060,72810401,6.5,"Not worth the time, poor screenplay.",66023341,9.727826334230137,False,False,False,False,True,False,-0.5812,negative
+Movie 573,Director A,48487231,204673074,9.1,Terrible plot and boring scenes.,156185843,3.22117472536223,False,False,False,False,False,True,-0.6597,negative
+Movie 574,Director A,13851671,144156214,4.0,Amazing movie with great visuals and acting.,130304543,9.407135283533663,False,False,True,False,False,False,0.836,positive
+Movie 575,Director D,56426722,198194836,8.9,Loved the characters and the storyline.,141768114,2.5124286681051577,True,False,False,False,False,False,0.5994,positive
+Movie 576,Director D,28908565,5363353,6.8,Terrible plot and boring scenes.,-23545212,-0.8144718355961287,False,True,False,False,False,False,-0.6597,negative
+Movie 577,Director A,31055146,108474381,6.2,Amazing movie with great visuals and acting.,77419235,2.4929599429350615,True,False,False,False,False,False,0.836,positive
+Movie 578,Director B,28597185,17174913,7.2,A decent movie with good direction.,-11422272,-0.3994194533482929,False,False,False,False,True,False,0.4404,positive
+Movie 579,Director D,67611065,283422253,6.2,A decent movie with good direction.,215811188,3.191950725816847,True,False,False,False,False,False,0.4404,positive
+Movie 580,Director C,94366159,104129570,5.5,"Not worth the time, poor screenplay.",9763411,0.10346305395348347,True,False,False,False,False,False,-0.5812,negative
+Movie 581,Director B,36615592,203360857,9.3,Loved the characters and the storyline.,166745265,4.553941528516049,False,False,False,False,False,True,0.5994,positive
+Movie 582,Director D,20062096,49295760,7.8,Loved the characters and the storyline.,29233664,1.4571590126973772,False,False,False,False,True,False,0.5994,positive
+Movie 583,Director C,52931469,162256401,8.4,"Not worth the time, poor screenplay.",109324932,2.065405212917858,False,False,True,False,False,False,-0.5812,negative
+Movie 584,Director A,32600428,23750290,8.5,A decent movie with good direction.,-8850138,-0.2714730616420128,False,False,False,True,False,False,0.4404,positive
+Movie 585,Director D,97095984,179509640,7.7,"Not worth the time, poor screenplay.",82413656,0.8487854245341393,True,False,False,False,False,False,-0.5812,negative
+Movie 586,Director C,29694567,4756512,5.8,Amazing movie with great visuals and acting.,-24938055,-0.8398187789705773,False,False,False,False,True,False,0.836,positive
+Movie 587,Director D,53216898,235661960,8.9,"Not worth the time, poor screenplay.",182445062,3.4283295129302727,False,False,False,True,False,False,-0.5812,negative
+Movie 588,Director C,11478699,124687873,6.0,Loved the characters and the storyline.,113209174,9.862544004333593,False,False,False,False,True,False,0.5994,positive
+Movie 589,Director D,18815529,24753815,4.6,Loved the characters and the storyline.,5938286,0.3156055830266585,False,True,False,False,False,False,0.5994,positive
+Movie 590,Director A,47684663,35163071,9.0,Amazing movie with great visuals and acting.,-12521592,-0.2625916009933844,False,False,False,False,False,True,0.836,positive
+Movie 591,Director A,81780666,65519169,4.0,Terrible plot and boring scenes.,-16261497,-0.1988428047284428,True,False,False,False,False,False,-0.6597,negative
+Movie 592,Director B,74639395,204230132,3.7,Amazing movie with great visuals and acting.,129590737,1.7362243758808602,False,False,False,False,False,True,0.836,positive
+Movie 593,Director C,34681778,33075616,5.0,Amazing movie with great visuals and acting.,-1606162,-0.04631140883261521,False,True,False,False,False,False,0.836,positive
+Movie 594,Director B,26147334,155903305,7.3,"Not worth the time, poor screenplay.",129755971,4.962493346357988,True,False,False,False,False,False,-0.5812,negative
+Movie 595,Director C,81787388,263413252,8.2,Loved the characters and the storyline.,181625864,2.2207074763165195,True,False,False,False,False,False,0.5994,positive
+Movie 596,Director B,44779436,153282676,5.0,Loved the characters and the storyline.,108503240,2.423059549030497,False,False,False,True,False,False,0.5994,positive
+Movie 597,Director A,84410115,182192157,8.4,Amazing movie with great visuals and acting.,97782042,1.1584161684888121,False,False,False,True,False,False,0.836,positive
+Movie 598,Director D,8070152,93582352,7.7,A decent movie with good direction.,85512200,10.596107731304194,False,False,True,False,False,False,0.4404,positive
+Movie 599,Director A,45734439,158131551,5.9,Amazing movie with great visuals and acting.,112397112,2.4576033828686517,False,False,False,True,False,False,0.836,positive
+Movie 600,Director B,60843726,32717000,7.6,"Not worth the time, poor screenplay.",-28126726,-0.4622781648842479,False,False,False,False,False,True,-0.5812,negative
+Movie 601,Director C,84201043,178145337,6.8,"Not worth the time, poor screenplay.",93944294,1.115714136700183,False,False,False,True,False,False,-0.5812,negative
+Movie 602,Director B,21031131,225283385,4.1,Terrible plot and boring scenes.,204252254,9.711900610575817,False,False,True,False,False,False,-0.6597,negative
+Movie 603,Director C,48604582,37960539,5.8,A decent movie with good direction.,-10644043,-0.21899258386791598,False,False,True,False,False,False,0.4404,positive
+Movie 604,Director B,87691430,109694729,9.4,Loved the characters and the storyline.,22003299,0.2509173245321692,True,False,False,False,False,False,0.5994,positive
+Movie 605,Director C,25550924,206945403,5.6,Amazing movie with great visuals and acting.,181394479,7.099331476231544,False,False,False,False,True,False,0.836,positive
+Movie 606,Director C,74566740,169807464,6.7,Terrible plot and boring scenes.,95240724,1.2772547653283488,False,False,False,False,False,True,-0.6597,negative
+Movie 607,Director D,72564160,206863579,6.7,Terrible plot and boring scenes.,134299419,1.8507679135264572,False,False,False,True,False,False,-0.6597,negative
+Movie 608,Director C,33346821,73763865,6.2,Loved the characters and the storyline.,40417044,1.2120208999832398,False,True,False,False,False,False,0.5994,positive
+Movie 609,Director B,22520324,111886558,6.5,Loved the characters and the storyline.,89366234,3.968248147761995,False,True,False,False,False,False,0.5994,positive
+Movie 610,Director B,26069597,49448222,5.5,A decent movie with good direction.,23378625,0.8967773840155642,False,False,False,True,False,False,0.4404,positive
+Movie 611,Director A,26631170,263053144,7.7,Terrible plot and boring scenes.,236421974,8.877641275242507,False,True,False,False,False,False,-0.6597,negative
+Movie 612,Director B,1410460,194551632,9.0,Terrible plot and boring scenes.,193141172,136.9348808190236,False,False,False,False,False,True,-0.6597,negative
+Movie 613,Director A,59565553,10735439,7.7,Amazing movie with great visuals and acting.,-48830114,-0.8197710176551203,False,False,False,False,False,True,0.836,positive
+Movie 614,Director A,43932221,29070042,5.6,Amazing movie with great visuals and acting.,-14862179,-0.3382979203350543,False,False,True,False,False,False,0.836,positive
+Movie 615,Director B,96843134,131722030,8.7,Amazing movie with great visuals and acting.,34878896,0.3601586871403811,True,False,False,False,False,False,0.836,positive
+Movie 616,Director C,86181640,83462113,5.3,Terrible plot and boring scenes.,-2719527,-0.031555758279837795,False,False,True,False,False,False,-0.6597,negative
+Movie 617,Director D,83362896,128575481,3.9,A decent movie with good direction.,45212585,0.5423586171958326,False,False,False,False,False,True,0.4404,positive
+Movie 618,Director C,26919058,17035298,4.8,"Not worth the time, poor screenplay.",-9883760,-0.36716589414087225,False,False,True,False,False,False,-0.5812,negative
+Movie 619,Director A,3703376,244834522,3.9,Amazing movie with great visuals and acting.,241131146,65.11117045636198,False,False,True,False,False,False,0.836,positive
+Movie 620,Director C,86027434,52410592,9.2,Terrible plot and boring scenes.,-33616842,-0.3907688563627273,False,False,False,True,False,False,-0.6597,negative
+Movie 621,Director D,48543353,28929935,6.0,Terrible plot and boring scenes.,-19613418,-0.40403921006445515,False,False,False,False,True,False,-0.6597,negative
+Movie 622,Director C,99596092,130337902,8.2,Terrible plot and boring scenes.,30741810,0.3086648219088757,False,False,False,True,False,False,-0.6597,negative
+Movie 623,Director C,79251440,78903488,5.5,Terrible plot and boring scenes.,-347952,-0.0043904817376189,False,False,False,False,False,True,-0.6597,negative
+Movie 624,Director A,73847649,299136349,4.0,A decent movie with good direction.,225288700,3.0507227115652658,False,True,False,False,False,False,0.4404,positive
+Movie 625,Director A,43421724,289074074,7.0,Loved the characters and the storyline.,245652350,5.657360587525267,False,True,False,False,False,False,0.5994,positive
+Movie 626,Director A,34085258,242262527,5.0,"Not worth the time, poor screenplay.",208177269,6.107545643339416,True,False,False,False,False,False,-0.5812,negative
+Movie 627,Director D,63106255,243978924,5.7,A decent movie with good direction.,180872669,2.86616071576423,False,False,False,False,False,True,0.4404,positive
+Movie 628,Director A,3163906,177056903,6.9,"Not worth the time, poor screenplay.",173892997,54.96149285092541,False,True,False,False,False,False,-0.5812,negative
+Movie 629,Director A,25469969,93108480,5.2,"Not worth the time, poor screenplay.",67638511,2.655618112452355,True,False,False,False,False,False,-0.5812,negative
+Movie 630,Director D,42217841,53240172,6.2,"Not worth the time, poor screenplay.",11022331,0.2610822993056419,False,False,False,True,False,False,-0.5812,negative
+Movie 631,Director B,66731862,55228133,8.9,Loved the characters and the storyline.,-11503729,-0.17238735223662724,False,False,False,False,True,False,0.5994,positive
+Movie 632,Director B,38431219,134576229,5.7,A decent movie with good direction.,96145010,2.501742398543226,False,True,False,False,False,False,0.4404,positive
+Movie 633,Director C,88213061,246523029,7.2,Terrible plot and boring scenes.,158309968,1.794631840289501,False,False,False,True,False,False,-0.6597,negative
+Movie 634,Director B,50498308,293042936,6.5,Amazing movie with great visuals and acting.,242544628,4.803024845901768,False,False,True,False,False,False,0.836,positive
+Movie 635,Director B,79748313,144622530,6.4,A decent movie with good direction.,64874217,0.8134870138256091,False,False,True,False,False,False,0.4404,positive
+Movie 636,Director D,13057901,95112800,8.7,"Not worth the time, poor screenplay.",82054899,6.283927179414211,False,False,False,False,True,False,-0.5812,negative
+Movie 637,Director A,58296770,142616448,9.0,Loved the characters and the storyline.,84319678,1.4463867895253888,False,False,False,True,False,False,0.5994,positive
+Movie 638,Director B,12675995,127408181,7.9,Terrible plot and boring scenes.,114732186,9.05113847078671,False,False,False,False,True,False,-0.6597,negative
+Movie 639,Director D,41374243,260528021,5.0,"Not worth the time, poor screenplay.",219153778,5.2968649601637425,True,False,False,False,False,False,-0.5812,negative
+Movie 640,Director D,82289818,207831369,4.4,Terrible plot and boring scenes.,125541551,1.5256024870537446,False,False,False,False,True,False,-0.6597,negative
+Movie 641,Director C,96203461,76671306,8.5,Terrible plot and boring scenes.,-19532155,-0.20302964983764982,False,False,False,False,False,True,-0.6597,negative
+Movie 642,Director B,88955674,294215015,6.8,Terrible plot and boring scenes.,205259341,2.3074339361421736,False,False,False,True,False,False,-0.6597,negative
+Movie 643,Director B,81049374,204167340,5.7,Terrible plot and boring scenes.,123117966,1.5190489441658117,False,True,False,False,False,False,-0.6597,negative
+Movie 644,Director A,85012225,27962022,3.6,"Not worth the time, poor screenplay.",-57050203,-0.6710823413926644,False,True,False,False,False,False,-0.5812,negative
+Movie 645,Director C,79331591,147766324,7.6,A decent movie with good direction.,68434733,0.8626416303689157,False,False,True,False,False,False,0.4404,positive
+Movie 646,Director A,84014278,196408890,6.4,"Not worth the time, poor screenplay.",112394612,1.3378037004614858,False,False,False,False,True,False,-0.5812,negative
+Movie 647,Director C,99941488,94709861,6.9,"Not worth the time, poor screenplay.",-5231627,-0.052346899217670245,False,False,False,True,False,False,-0.5812,negative
+Movie 648,Director D,97868825,249497760,6.6,"Not worth the time, poor screenplay.",151628935,1.549307810735441,False,True,False,False,False,False,-0.5812,negative
+Movie 649,Director D,29697681,291569581,5.0,Terrible plot and boring scenes.,261871900,8.81792420088289,False,False,False,False,True,False,-0.6597,negative
+Movie 650,Director D,83714361,21081230,9.2,"Not worth the time, poor screenplay.",-62633131,-0.748176659916212,False,False,False,False,False,True,-0.5812,negative
+Movie 651,Director A,58350529,139571919,4.0,Amazing movie with great visuals and acting.,81221390,1.3919563608412189,False,False,False,False,False,True,0.836,positive
+Movie 652,Director A,41381573,297701919,7.0,"Not worth the time, poor screenplay.",256320346,6.194069664775672,False,False,False,True,False,False,-0.5812,negative
+Movie 653,Director B,86617048,256502363,4.0,Terrible plot and boring scenes.,169885315,1.9613380843918855,True,False,False,False,False,False,-0.6597,negative
+Movie 654,Director C,62327233,110091754,6.5,Loved the characters and the storyline.,47764521,0.7663507378869202,False,False,False,True,False,False,0.5994,positive
+Movie 655,Director C,58437000,103195158,8.6,Loved the characters and the storyline.,44758158,0.7659215565480774,False,False,False,True,False,False,0.5994,positive
+Movie 656,Director D,8191126,248123558,7.5,Amazing movie with great visuals and acting.,239932432,29.291752074134862,True,False,False,False,False,False,0.836,positive
+Movie 657,Director D,22812172,37436575,5.0,A decent movie with good direction.,14624403,0.6410789380336077,False,True,False,False,False,False,0.4404,positive
+Movie 658,Director B,7691305,4115831,9.4,A decent movie with good direction.,-3575474,-0.46487221609336776,True,False,False,False,False,False,0.4404,positive
+Movie 659,Director D,66228216,73593840,8.7,A decent movie with good direction.,7365624,0.11121579962232411,False,False,True,False,False,False,0.4404,positive
+Movie 660,Director A,98892624,25982998,3.6,Terrible plot and boring scenes.,-72909626,-0.7372605058998131,False,False,True,False,False,False,-0.6597,negative
+Movie 661,Director A,94639080,75930409,4.8,A decent movie with good direction.,-18708671,-0.19768441324662073,False,False,True,False,False,False,0.4404,positive
+Movie 662,Director C,75836046,46219800,7.8,A decent movie with good direction.,-29616246,-0.3905299334830827,False,False,False,True,False,False,0.4404,positive
+Movie 663,Director D,12541195,157319165,6.9,Terrible plot and boring scenes.,144777970,11.544192559002552,True,False,False,False,False,False,-0.6597,negative
+Movie 664,Director C,40471397,32771190,7.6,Amazing movie with great visuals and acting.,-7700207,-0.19026294051574252,False,False,True,False,False,False,0.836,positive
+Movie 665,Director D,30250198,193362966,5.3,"Not worth the time, poor screenplay.",163112768,5.392122325943123,True,False,False,False,False,False,-0.5812,negative
+Movie 666,Director B,51363784,100028461,5.8,A decent movie with good direction.,48664677,0.9474511652023145,False,True,False,False,False,False,0.4404,positive
+Movie 667,Director C,86289005,265586204,5.4,A decent movie with good direction.,179297199,2.0778684259947138,False,False,False,False,True,False,0.4404,positive
+Movie 668,Director D,13661012,153530676,3.7,Loved the characters and the storyline.,139869664,10.238601942520804,False,False,False,True,False,False,0.5994,positive
+Movie 669,Director C,22807454,242152999,5.7,Terrible plot and boring scenes.,219345545,9.617274466496786,False,False,False,False,False,True,-0.6597,negative
+Movie 670,Director A,81061763,20516229,4.7,Amazing movie with great visuals and acting.,-60545534,-0.7469062078010813,True,False,False,False,False,False,0.836,positive
+Movie 671,Director D,60665763,228183684,3.6,"Not worth the time, poor screenplay.",167517921,2.7613255437008184,False,True,False,False,False,False,-0.5812,negative
+Movie 672,Director B,77372593,72368831,7.9,Loved the characters and the storyline.,-5003762,-0.06467098756791051,False,False,False,False,False,True,0.5994,positive
+Movie 673,Director A,30217578,4194678,3.8,Amazing movie with great visuals and acting.,-26022900,-0.8611841756476976,False,False,True,False,False,False,0.836,positive
+Movie 674,Director B,5270795,107827683,4.9,Loved the characters and the storyline.,102556888,19.45757480607764,False,False,False,True,False,False,0.5994,positive
+Movie 675,Director A,69049123,265742727,6.3,"Not worth the time, poor screenplay.",196693604,2.848603942442542,False,True,False,False,False,False,-0.5812,negative
+Movie 676,Director C,81985599,222903473,6.0,A decent movie with good direction.,140917874,1.7188125197450834,True,False,False,False,False,False,0.4404,positive
+Movie 677,Director B,54141204,130780796,6.9,A decent movie with good direction.,76639592,1.4155501972213251,False,False,True,False,False,False,0.4404,positive
+Movie 678,Director B,9569540,226079116,5.0,Loved the characters and the storyline.,216509576,22.624867652990634,False,False,False,False,True,False,0.5994,positive
+Movie 679,Director B,63937884,246424246,6.5,A decent movie with good direction.,182486362,2.8541195076146093,False,False,False,False,False,True,0.4404,positive
+Movie 680,Director D,9127851,114141500,8.2,A decent movie with good direction.,105013649,11.504750570534073,False,False,True,False,False,False,0.4404,positive
+Movie 681,Director C,40093422,34820893,9.3,Terrible plot and boring scenes.,-5272529,-0.13150608596093394,False,True,False,False,False,False,-0.6597,negative
+Movie 682,Director D,46028472,203439511,7.3,A decent movie with good direction.,157411039,3.4198623625828812,False,True,False,False,False,False,0.4404,positive
+Movie 683,Director C,16762786,23221577,5.2,A decent movie with good direction.,6458791,0.38530534244128634,False,False,False,True,False,False,0.4404,positive
+Movie 684,Director A,95789286,53006049,7.1,Terrible plot and boring scenes.,-42783237,-0.4466390635796158,False,True,False,False,False,False,-0.6597,negative
+Movie 685,Director D,5056120,72382964,6.5,Amazing movie with great visuals and acting.,67326844,13.315911014770219,True,False,False,False,False,False,0.836,positive
+Movie 686,Director C,54289376,34196636,7.3,Loved the characters and the storyline.,-20092740,-0.37010445653307933,True,False,False,False,False,False,0.5994,positive
+Movie 687,Director A,77126699,233321606,7.2,Amazing movie with great visuals and acting.,156194907,2.0251729819267905,False,True,False,False,False,False,0.836,positive
+Movie 688,Director D,45103443,50937771,4.7,"Not worth the time, poor screenplay.",5834328,0.12935438210337954,False,False,False,False,True,False,-0.5812,negative
+Movie 689,Director C,3549184,160096624,5.0,"Not worth the time, poor screenplay.",156547440,44.10800905222158,False,True,False,False,False,False,-0.5812,negative
+Movie 690,Director D,17141497,269013496,9.0,Terrible plot and boring scenes.,251871999,14.6936990975759,False,False,False,True,False,False,-0.6597,negative
+Movie 691,Director D,41068377,64234798,4.9,A decent movie with good direction.,23166421,0.564093901251564,False,False,False,False,False,True,0.4404,positive
+Movie 692,Director B,75354665,48013581,5.9,A decent movie with good direction.,-27341084,-0.3628320025044236,False,False,False,False,True,False,0.4404,positive
+Movie 693,Director A,21023051,281778205,8.7,"Not worth the time, poor screenplay.",260755154,12.403297409115357,False,True,False,False,False,False,-0.5812,negative
+Movie 694,Director A,54312192,204289986,8.5,Loved the characters and the storyline.,149977794,2.7614019702979395,False,False,False,False,True,False,0.5994,positive
+Movie 695,Director D,82498546,269997330,8.1,Amazing movie with great visuals and acting.,187498784,2.27275258887593,False,False,False,True,False,False,0.836,positive
+Movie 696,Director D,34180173,250672580,5.2,Loved the characters and the storyline.,216492407,6.333859310776455,False,False,False,False,False,True,0.5994,positive
+Movie 697,Director C,83052811,215045684,7.1,Amazing movie with great visuals and acting.,131992873,1.589264365778059,False,False,False,False,True,False,0.836,positive
+Movie 698,Director C,47599123,215018960,6.6,Terrible plot and boring scenes.,167419837,3.517288270206155,False,False,False,True,False,False,-0.6597,negative
+Movie 699,Director D,12861798,29058195,4.0,"Not worth the time, poor screenplay.",16196397,1.2592638292095708,False,False,False,True,False,False,-0.5812,negative
+Movie 700,Director A,4497037,215226652,5.4,Terrible plot and boring scenes.,210729615,46.85965781468998,False,False,False,False,False,True,-0.6597,negative
+Movie 701,Director A,83933020,198471962,4.6,Loved the characters and the storyline.,114538942,1.3646469768393894,False,False,False,False,True,False,0.5994,positive
+Movie 702,Director A,73916053,17996962,8.3,A decent movie with good direction.,-55919091,-0.7565216043123948,False,True,False,False,False,False,0.4404,positive
+Movie 703,Director D,58626331,29659920,4.5,Terrible plot and boring scenes.,-28966411,-0.49408534537151916,False,False,True,False,False,False,-0.6597,negative
+Movie 704,Director A,23963783,263433757,7.2,Loved the characters and the storyline.,239469974,9.992995429811728,False,False,True,False,False,False,0.5994,positive
+Movie 705,Director B,66495112,254294251,8.8,Amazing movie with great visuals and acting.,187799139,2.82425479635255,False,False,True,False,False,False,0.836,positive
+Movie 706,Director C,69530439,62525808,4.2,A decent movie with good direction.,-7004631,-0.10074193548526279,False,False,False,False,False,True,0.4404,positive
+Movie 707,Director D,73905441,212692881,8.3,Amazing movie with great visuals and acting.,138787440,1.8779055793740544,False,False,False,True,False,False,0.836,positive
+Movie 708,Director D,56566493,104397511,5.4,Loved the characters and the storyline.,47831018,0.8455715647777563,False,True,False,False,False,False,0.5994,positive
+Movie 709,Director D,80969287,169782870,4.4,Terrible plot and boring scenes.,88813583,1.0968798947185987,False,False,False,False,False,True,-0.6597,negative
+Movie 710,Director D,62720760,45133865,7.7,Amazing movie with great visuals and acting.,-17586895,-0.2803999026797507,False,False,False,True,False,False,0.836,positive
+Movie 711,Director A,29620713,90151584,5.1,Terrible plot and boring scenes.,60530871,2.0435318690674324,False,True,False,False,False,False,-0.6597,negative
+Movie 712,Director C,27515981,82266609,3.8,Amazing movie with great visuals and acting.,54750628,1.9897756143965937,True,False,False,False,False,False,0.836,positive
+Movie 713,Director C,54922508,109733121,6.6,Terrible plot and boring scenes.,54810613,0.9979626749747117,False,False,False,False,True,False,-0.6597,negative
+Movie 714,Director D,17149651,265474885,4.9,A decent movie with good direction.,248325234,14.47990014490674,False,False,False,False,False,True,0.4404,positive
+Movie 715,Director C,85194621,52196297,3.7,Loved the characters and the storyline.,-32998324,-0.38732872583587175,False,False,True,False,False,False,0.5994,positive
+Movie 716,Director D,94577043,20370563,6.4,"Not worth the time, poor screenplay.",-74206480,-0.7846140844136986,False,False,False,True,False,False,-0.5812,negative
+Movie 717,Director D,13563206,126846732,6.4,"Not worth the time, poor screenplay.",113283526,8.352267598088535,False,False,True,False,False,False,-0.5812,negative
+Movie 718,Director D,35693263,188978388,7.8,"Not worth the time, poor screenplay.",153285125,4.294511404014814,False,True,False,False,False,False,-0.5812,negative
+Movie 719,Director D,54645977,140436962,4.7,Amazing movie with great visuals and acting.,85790985,1.569941461564499,True,False,False,False,False,False,0.836,positive
+Movie 720,Director A,90045451,26542827,4.8,"Not worth the time, poor screenplay.",-63502624,-0.7052285628509984,False,False,False,False,True,False,-0.5812,negative
+Movie 721,Director D,83739246,276114577,8.0,"Not worth the time, poor screenplay.",192375331,2.297313866427696,False,False,False,False,True,False,-0.5812,negative
+Movie 722,Director B,66870820,280357980,4.0,"Not worth the time, poor screenplay.",213487160,3.1925309125863865,False,True,False,False,False,False,-0.5812,negative
+Movie 723,Director C,8155810,187266790,5.6,"Not worth the time, poor screenplay.",179110980,21.96115162074644,True,False,False,False,False,False,-0.5812,negative
+Movie 724,Director B,44439596,204597873,5.9,A decent movie with good direction.,160158277,3.6039543878841744,True,False,False,False,False,False,0.4404,positive
+Movie 725,Director A,64338218,88251529,8.4,A decent movie with good direction.,23913311,0.3716812765936414,False,False,False,True,False,False,0.4404,positive
+Movie 726,Director C,98919362,44976170,4.6,Loved the characters and the storyline.,-53943192,-0.5453249081812719,False,True,False,False,False,False,0.5994,positive
+Movie 727,Director B,53197813,272970694,7.5,Loved the characters and the storyline.,219772881,4.1312390229275024,True,False,False,False,False,False,0.5994,positive
+Movie 728,Director C,93137764,268027085,7.9,"Not worth the time, poor screenplay.",174889321,1.877748761501296,False,False,False,True,False,False,-0.5812,negative
+Movie 729,Director D,67486177,195671599,8.7,"Not worth the time, poor screenplay.",128185422,1.8994322644769166,False,False,False,False,True,False,-0.5812,negative
+Movie 730,Director B,86051590,217390397,5.4,A decent movie with good direction.,131338807,1.5262798398030764,True,False,False,False,False,False,0.4404,positive
+Movie 731,Director C,91611924,257579196,4.8,A decent movie with good direction.,165967272,1.8116339528029124,False,False,False,False,True,False,0.4404,positive
+Movie 732,Director A,31144460,78700743,9.3,"Not worth the time, poor screenplay.",47556283,1.5269580207844349,False,False,False,False,True,False,-0.5812,negative
+Movie 733,Director B,90653140,198386262,3.8,Amazing movie with great visuals and acting.,107733122,1.1884102635606444,False,True,False,False,False,False,0.836,positive
+Movie 734,Director B,96198552,237031819,5.5,"Not worth the time, poor screenplay.",140833267,1.4639853102986415,False,True,False,False,False,False,-0.5812,negative
+Movie 735,Director A,4417904,187379438,4.5,Loved the characters and the storyline.,182961534,41.41365090776078,False,True,False,False,False,False,0.5994,positive
+Movie 736,Director D,82339342,119776644,6.0,Terrible plot and boring scenes.,37437302,0.45467089110330755,False,False,False,False,True,False,-0.6597,negative
+Movie 737,Director B,4521745,99441939,5.5,Amazing movie with great visuals and acting.,94920194,20.991938731617992,False,False,True,False,False,False,0.836,positive
+Movie 738,Director B,59270995,251876003,8.8,Loved the characters and the storyline.,192605008,3.2495659639255257,True,False,False,False,False,False,0.5994,positive
+Movie 739,Director C,26869967,174041033,5.8,Amazing movie with great visuals and acting.,147171066,5.477158420030809,False,True,False,False,False,False,0.836,positive
+Movie 740,Director B,7601260,75993131,4.8,Amazing movie with great visuals and acting.,68391871,8.997438714107924,False,False,True,False,False,False,0.836,positive
+Movie 741,Director B,85512076,269256747,5.5,Loved the characters and the storyline.,183744671,2.148756989597586,False,False,False,False,True,False,0.5994,positive
+Movie 742,Director B,23211707,77261295,8.0,Amazing movie with great visuals and acting.,54049588,2.328548606959411,True,False,False,False,False,False,0.836,positive
+Movie 743,Director C,97512031,47602994,7.2,Loved the characters and the storyline.,-49909037,-0.511824402467835,False,False,False,False,False,True,0.5994,positive
+Movie 744,Director C,63173673,217377840,8.6,Loved the characters and the storyline.,154204167,2.4409561717267887,False,False,False,False,False,True,0.5994,positive
+Movie 745,Director C,43282874,126789398,6.3,A decent movie with good direction.,83506524,1.9293202202792725,False,False,False,False,True,False,0.4404,positive
+Movie 746,Director A,55215652,242934070,5.2,Terrible plot and boring scenes.,187718418,3.399731981793858,False,False,False,True,False,False,-0.6597,negative
+Movie 747,Director C,21178813,212414621,7.8,"Not worth the time, poor screenplay.",191235808,9.029581025149993,False,False,True,False,False,False,-0.5812,negative
+Movie 748,Director D,26374238,179499759,6.3,Terrible plot and boring scenes.,153125521,5.805874694844264,True,False,False,False,False,False,-0.6597,negative
+Movie 749,Director A,28162829,299416877,8.3,Loved the characters and the storyline.,271254048,9.63163352658925,False,False,False,True,False,False,0.5994,positive
+Movie 750,Director A,92432960,127066529,4.5,Loved the characters and the storyline.,34633569,0.37468852019885546,False,False,False,False,False,True,0.5994,positive
+Movie 751,Director D,9718915,67223613,6.1,A decent movie with good direction.,57504698,5.916781657211736,True,False,False,False,False,False,0.4404,positive
+Movie 752,Director D,74660861,12308749,5.2,Amazing movie with great visuals and acting.,-62352112,-0.8351378642686695,False,False,False,False,True,False,0.836,positive
+Movie 753,Director D,61255505,244856928,5.1,"Not worth the time, poor screenplay.",183601423,2.997304862640509,False,False,False,False,False,True,-0.5812,negative
+Movie 754,Director D,19369052,216482847,3.5,Amazing movie with great visuals and acting.,197113795,10.176739419151748,False,False,False,False,False,True,0.836,positive
+Movie 755,Director B,71473096,31935709,8.0,Terrible plot and boring scenes.,-39537387,-0.5531785974403571,False,False,False,False,False,True,-0.6597,negative
+Movie 756,Director D,30400149,19419883,3.7,"Not worth the time, poor screenplay.",-10980266,-0.3611911902142322,False,False,False,False,False,True,-0.5812,negative
+Movie 757,Director B,59087135,243221035,7.7,Amazing movie with great visuals and acting.,184133900,3.1163111902447125,False,False,True,False,False,False,0.836,positive
+Movie 758,Director C,20649258,296033311,4.1,Amazing movie with great visuals and acting.,275384053,13.336268693044564,False,True,False,False,False,False,0.836,positive
+Movie 759,Director D,41122472,175066891,3.9,Terrible plot and boring scenes.,133944419,3.257207373136518,False,False,False,False,True,False,-0.6597,negative
+Movie 760,Director C,39405590,276930791,9.1,Terrible plot and boring scenes.,237525201,6.027703201500092,False,False,False,False,True,False,-0.6597,negative
+Movie 761,Director C,21879050,298195831,5.8,"Not worth the time, poor screenplay.",276316781,12.629286052182339,False,True,False,False,False,False,-0.5812,negative
+Movie 762,Director B,3655184,48198055,3.9,Terrible plot and boring scenes.,44542871,12.186218532363897,False,False,False,True,False,False,-0.6597,negative
+Movie 763,Director D,68591968,22391403,6.1,Loved the characters and the storyline.,-46200565,-0.6735564869636048,False,False,False,True,False,False,0.5994,positive
+Movie 764,Director B,6199615,102612386,8.5,Terrible plot and boring scenes.,96412771,15.551412628042225,False,False,False,False,False,True,-0.6597,negative
+Movie 765,Director B,85333582,120071605,5.0,A decent movie with good direction.,34738023,0.4070850207600567,False,True,False,False,False,False,0.4404,positive
+Movie 766,Director B,96692535,282720599,8.0,Loved the characters and the storyline.,186028064,1.9239134024151916,False,False,False,False,False,True,0.5994,positive
+Movie 767,Director D,55218211,69686139,8.4,Loved the characters and the storyline.,14467928,0.26201370413829594,False,True,False,False,False,False,0.5994,positive
+Movie 768,Director C,68621364,292518104,9.2,A decent movie with good direction.,223896740,3.262784750241922,False,False,False,True,False,False,0.4404,positive
+Movie 769,Director A,20412488,261911951,9.3,Terrible plot and boring scenes.,241499463,11.830966563213657,False,False,False,False,True,False,-0.6597,negative
+Movie 770,Director D,37467575,29210902,6.5,Terrible plot and boring scenes.,-8256673,-0.22036849195604466,True,False,False,False,False,False,-0.6597,negative
+Movie 771,Director D,37390702,101793236,6.3,"Not worth the time, poor screenplay.",64402534,1.722421098164993,False,False,False,True,False,False,-0.5812,negative
+Movie 772,Director D,53370546,236723806,4.5,Amazing movie with great visuals and acting.,183353260,3.435476564170807,False,True,False,False,False,False,0.836,positive
+Movie 773,Director D,33799399,110250967,5.7,Loved the characters and the storyline.,76451568,2.2619209294224434,False,False,False,False,False,True,0.5994,positive
+Movie 774,Director A,89255683,10984007,7.1,"Not worth the time, poor screenplay.",-78271676,-0.8769377295561113,False,False,False,False,False,True,-0.5812,negative
+Movie 775,Director C,86893722,73250909,8.4,A decent movie with good direction.,-13642813,-0.1570057385733805,True,False,False,False,False,False,0.4404,positive
+Movie 776,Director A,30518136,38286846,5.1,Amazing movie with great visuals and acting.,7768710,0.2545604358011905,True,False,False,False,False,False,0.836,positive
+Movie 777,Director B,96677705,84272624,4.5,A decent movie with good direction.,-12405081,-0.12831377203254876,False,False,False,True,False,False,0.4404,positive
+Movie 778,Director C,41418969,7273909,9.4,Terrible plot and boring scenes.,-34145060,-0.8243821810243515,False,True,False,False,False,False,-0.6597,negative
+Movie 779,Director A,32132384,171579367,5.1,Amazing movie with great visuals and acting.,139446983,4.3397646125478895,False,False,False,False,True,False,0.836,positive
+Movie 780,Director C,24557537,271253483,6.8,Loved the characters and the storyline.,246695946,10.045630634700865,False,False,False,True,False,False,0.5994,positive
+Movie 781,Director B,84903067,31659216,6.1,A decent movie with good direction.,-53243851,-0.6271133998021532,False,False,False,False,False,True,0.4404,positive
+Movie 782,Director D,67281854,211500114,9.2,Loved the characters and the storyline.,144218260,2.143494143309428,True,False,False,False,False,False,0.5994,positive
+Movie 783,Director C,34230635,76420946,6.5,A decent movie with good direction.,42190311,1.2325307725083101,True,False,False,False,False,False,0.4404,positive
+Movie 784,Director C,90889479,262528534,6.3,Amazing movie with great visuals and acting.,171639055,1.888436999402318,False,False,False,True,False,False,0.836,positive
+Movie 785,Director A,8448273,137202961,8.7,Terrible plot and boring scenes.,128754688,15.24035598754917,False,False,True,False,False,False,-0.6597,negative
+Movie 786,Director A,56585535,111854796,6.7,Amazing movie with great visuals and acting.,55269261,0.9767383307412398,False,False,False,False,True,False,0.836,positive
+Movie 787,Director D,60547192,271968922,4.5,"Not worth the time, poor screenplay.",211421730,3.4918502909267866,False,False,False,False,True,False,-0.5812,negative
+Movie 788,Director C,34088313,65826048,7.6,A decent movie with good direction.,31737735,0.9310444608977863,True,False,False,False,False,False,0.4404,positive
+Movie 789,Director C,59211567,116753633,3.6,Loved the characters and the storyline.,57542066,0.9718044786755939,False,True,False,False,False,False,0.5994,positive
+Movie 790,Director C,68218922,298594207,6.7,A decent movie with good direction.,230375285,3.3769997860710843,False,False,False,True,False,False,0.4404,positive
+Movie 791,Director D,81542622,143727851,4.7,Amazing movie with great visuals and acting.,62185229,0.7626101230838518,False,False,False,True,False,False,0.836,positive
+Movie 792,Director D,37046633,78138850,6.2,A decent movie with good direction.,41092217,1.1092024746216478,False,True,False,False,False,False,0.4404,positive
+Movie 793,Director C,45917320,85371662,7.3,A decent movie with good direction.,39454342,0.859247490924993,False,False,False,True,False,False,0.4404,positive
+Movie 794,Director A,49920488,19223378,4.4,Terrible plot and boring scenes.,-30697110,-0.6149200704929007,False,True,False,False,False,False,-0.6597,negative
+Movie 795,Director D,48631217,109957071,3.7,Loved the characters and the storyline.,61325854,1.2610388508270316,False,False,False,False,False,True,0.5994,positive
+Movie 796,Director C,85113322,276008827,4.6,Loved the characters and the storyline.,190895505,2.2428393172105303,False,False,False,False,False,True,0.5994,positive
+Movie 797,Director B,35424191,149593031,8.1,A decent movie with good direction.,114168840,3.2229060643897274,False,False,False,False,True,False,0.4404,positive
+Movie 798,Director D,43725559,215792450,5.8,A decent movie with good direction.,172066891,3.9351558890304865,False,False,False,False,False,True,0.4404,positive
+Movie 799,Director B,1667159,110116349,8.0,"Not worth the time, poor screenplay.",108449190,65.05029814192888,False,True,False,False,False,False,-0.5812,negative
+Movie 800,Director C,77409237,81018993,6.0,Terrible plot and boring scenes.,3609756,0.046632109292073246,False,False,False,False,True,False,-0.6597,negative
+Movie 801,Director B,1712901,133853805,3.7,A decent movie with good direction.,132140904,77.14450747591367,False,True,False,False,False,False,0.4404,positive
+Movie 802,Director D,90578480,59522695,5.5,Terrible plot and boring scenes.,-31055785,-0.34286052272018697,False,False,False,False,False,True,-0.6597,negative
+Movie 803,Director A,23839138,125208993,9.2,"Not worth the time, poor screenplay.",101369855,4.252244984697014,False,False,False,True,False,False,-0.5812,negative
+Movie 804,Director D,41372251,94579775,6.4,"Not worth the time, poor screenplay.",53207524,1.2860679009222873,False,False,False,False,True,False,-0.5812,negative
+Movie 805,Director B,46134823,218321561,7.4,A decent movie with good direction.,172186738,3.7322509723295134,False,False,False,False,True,False,0.4404,positive
+Movie 806,Director D,82502611,287205672,8.0,Loved the characters and the storyline.,204703061,2.481170698949152,False,True,False,False,False,False,0.5994,positive
+Movie 807,Director D,44222996,172329608,6.9,A decent movie with good direction.,128106612,2.896832498639396,False,False,False,False,True,False,0.4404,positive
+Movie 808,Director A,45536052,175159428,9.5,A decent movie with good direction.,129623376,2.8466098905544115,True,False,False,False,False,False,0.4404,positive
+Movie 809,Director D,17751578,49447230,7.8,"Not worth the time, poor screenplay.",31695652,1.7855118006973802,True,False,False,False,False,False,-0.5812,negative
+Movie 810,Director A,53845679,9400730,6.5,Terrible plot and boring scenes.,-44444949,-0.8254134746819703,False,False,False,False,True,False,-0.6597,negative
+Movie 811,Director C,53225008,242113095,8.4,Amazing movie with great visuals and acting.,188888087,3.5488597202277545,False,False,False,False,True,False,0.836,positive
+Movie 812,Director D,65980748,163495207,6.6,Loved the characters and the storyline.,97514459,1.477922908664206,False,False,False,False,True,False,0.5994,positive
+Movie 813,Director D,14077682,283837754,5.2,Amazing movie with great visuals and acting.,269760072,19.162250717128003,False,True,False,False,False,False,0.836,positive
+Movie 814,Director D,29824247,198327656,6.6,Terrible plot and boring scenes.,168503409,5.649879743820523,False,False,False,False,True,False,-0.6597,negative
+Movie 815,Director B,57472527,50896974,4.9,"Not worth the time, poor screenplay.",-6575553,-0.11441210858885673,False,False,True,False,False,False,-0.5812,negative
+Movie 816,Director D,17372329,51863230,4.6,A decent movie with good direction.,34490901,1.9853930350962155,True,False,False,False,False,False,0.4404,positive
+Movie 817,Director D,82678304,229257940,8.8,Terrible plot and boring scenes.,146579636,1.7728911807382985,False,True,False,False,False,False,-0.6597,negative
+Movie 818,Director B,40019187,190835751,5.9,Terrible plot and boring scenes.,150816564,3.7686063937280885,False,False,False,True,False,False,-0.6597,negative
+Movie 819,Director D,51804154,247528714,4.4,Loved the characters and the storyline.,195724560,3.778163426817085,False,False,False,False,True,False,0.5994,positive
+Movie 820,Director A,79889618,208694308,6.3,Loved the characters and the storyline.,128804690,1.6122832130703142,False,False,False,False,True,False,0.5994,positive
+Movie 821,Director A,72968665,228003011,4.0,Loved the characters and the storyline.,155034346,2.1246701717785297,True,False,False,False,False,False,0.5994,positive
+Movie 822,Director B,43806599,77209142,7.5,Amazing movie with great visuals and acting.,33402543,0.7625002570959686,False,True,False,False,False,False,0.836,positive
+Movie 823,Director A,31112682,134553188,8.3,Amazing movie with great visuals and acting.,103440506,3.3247055332613242,True,False,False,False,False,False,0.836,positive
+Movie 824,Director C,59451976,8945766,6.4,Loved the characters and the storyline.,-50506210,-0.8495295429709518,False,False,False,False,True,False,0.5994,positive
+Movie 825,Director B,52659155,137924838,8.6,Loved the characters and the storyline.,85265683,1.6191996054627158,False,True,False,False,False,False,0.5994,positive
+Movie 826,Director A,18837436,290239258,6.0,Amazing movie with great visuals and acting.,271401822,14.407577655472858,False,False,True,False,False,False,0.836,positive
+Movie 827,Director B,77249401,56787790,6.8,Amazing movie with great visuals and acting.,-20461611,-0.264877277171379,True,False,False,False,False,False,0.836,positive
+Movie 828,Director D,62462996,165989141,6.4,A decent movie with good direction.,103526145,1.6573996066407062,False,False,False,False,False,True,0.4404,positive
+Movie 829,Director B,1785163,76163866,5.0,Terrible plot and boring scenes.,74378703,41.664936479189855,False,False,False,False,True,False,-0.6597,negative
+Movie 830,Director C,50393126,116609453,5.9,"Not worth the time, poor screenplay.",66216327,1.313995226253676,False,False,False,True,False,False,-0.5812,negative
+Movie 831,Director A,79763354,19142386,7.6,A decent movie with good direction.,-60620968,-0.7600102673716554,False,False,False,True,False,False,0.4404,positive
+Movie 832,Director D,95792673,227771101,8.9,Terrible plot and boring scenes.,131978428,1.3777507597058076,False,False,False,False,True,False,-0.6597,negative
+Movie 833,Director A,86384910,12803611,4.7,Amazing movie with great visuals and acting.,-73581299,-0.8517841715642235,True,False,False,False,False,False,0.836,positive
+Movie 834,Director A,14560081,108073669,7.3,"Not worth the time, poor screenplay.",93513588,6.422600808333415,False,False,True,False,False,False,-0.5812,negative
+Movie 835,Director B,30554641,35187316,3.8,Terrible plot and boring scenes.,4632675,0.15161935628698764,False,True,False,False,False,False,-0.6597,negative
+Movie 836,Director A,67704429,70409091,7.2,Amazing movie with great visuals and acting.,2704662,0.03994808079690031,False,True,False,False,False,False,0.836,positive
+Movie 837,Director D,60866670,239619247,5.3,Terrible plot and boring scenes.,178752577,2.936789165564668,False,False,False,False,False,True,-0.6597,negative
+Movie 838,Director D,56817039,72306973,9.0,Loved the characters and the storyline.,15489934,0.27262832193701614,True,False,False,False,False,False,0.5994,positive
+Movie 839,Director A,39417966,196171768,7.5,"Not worth the time, poor screenplay.",156753802,3.976709554216978,False,False,True,False,False,False,-0.5812,negative
+Movie 840,Director D,57363927,204651436,6.1,"Not worth the time, poor screenplay.",147287509,2.5675980830252434,False,True,False,False,False,False,-0.5812,negative
+Movie 841,Director B,81521902,21366421,4.3,"Not worth the time, poor screenplay.",-60155481,-0.7379057593626802,False,False,False,False,True,False,-0.5812,negative
+Movie 842,Director D,88876297,240863474,5.0,"Not worth the time, poor screenplay.",151987177,1.7100979915938668,False,False,False,True,False,False,-0.5812,negative
+Movie 843,Director D,74477036,54443255,9.3,A decent movie with good direction.,-20033781,-0.2689927268319325,False,False,False,False,False,True,0.4404,positive
+Movie 844,Director A,25679921,35459754,6.9,A decent movie with good direction.,9779833,0.38083578995433826,False,False,False,False,False,True,0.4404,positive
+Movie 845,Director D,81814897,233449486,9.3,Terrible plot and boring scenes.,151634589,1.8533860526647121,False,False,True,False,False,False,-0.6597,negative
+Movie 846,Director D,5555016,265489275,7.8,A decent movie with good direction.,259934259,46.79271112810476,True,False,False,False,False,False,0.4404,positive
+Movie 847,Director B,20868680,57255345,6.6,"Not worth the time, poor screenplay.",36386665,1.7436016556868954,False,False,False,False,False,True,-0.5812,negative
+Movie 848,Director D,39574206,116330940,7.4,"Not worth the time, poor screenplay.",76756734,1.939564725568973,False,False,True,False,False,False,-0.5812,negative
+Movie 849,Director D,18676398,267396331,8.9,Loved the characters and the storyline.,248719933,13.317339510541593,False,False,True,False,False,False,0.5994,positive
+Movie 850,Director A,51440697,94335090,9.1,Loved the characters and the storyline.,42894393,0.8338610380804132,True,False,False,False,False,False,0.5994,positive
+Movie 851,Director D,61056295,80789424,5.1,A decent movie with good direction.,19733129,0.32319565083338253,False,False,False,True,False,False,0.4404,positive
+Movie 852,Director A,44643894,102518447,7.6,Loved the characters and the storyline.,57874553,1.2963598784640067,False,False,False,False,False,True,0.5994,positive
+Movie 853,Director B,12066287,44135996,8.6,"Not worth the time, poor screenplay.",32069709,2.657794315683027,False,False,False,False,True,False,-0.5812,negative
+Movie 854,Director C,14816453,68937463,6.4,A decent movie with good direction.,54121010,3.6527642614598785,False,False,False,False,True,False,0.4404,positive
+Movie 855,Director D,65078697,24744124,6.3,Terrible plot and boring scenes.,-40334573,-0.6197815085326616,False,True,False,False,False,False,-0.6597,negative
+Movie 856,Director A,41566344,72340004,3.8,"Not worth the time, poor screenplay.",30773660,0.740350414267851,False,True,False,False,False,False,-0.5812,negative
+Movie 857,Director D,46979372,123506529,7.1,Terrible plot and boring scenes.,76527157,1.6289523197542957,False,False,False,True,False,False,-0.6597,negative
+Movie 858,Director D,36435774,175168804,5.3,"Not worth the time, poor screenplay.",138733030,3.8076048556015305,False,False,False,False,False,True,-0.5812,negative
+Movie 859,Director B,24508494,269390594,8.1,Terrible plot and boring scenes.,244882100,9.991723685674035,False,False,True,False,False,False,-0.6597,negative
+Movie 860,Director B,90150634,34292338,7.0,Amazing movie with great visuals and acting.,-55858296,-0.6196106840468809,False,False,False,True,False,False,0.836,positive
+Movie 861,Director C,88609397,194967689,7.7,Amazing movie with great visuals and acting.,106358292,1.2003048841422541,False,True,False,False,False,False,0.836,positive
+Movie 862,Director B,81632420,118072342,8.6,Amazing movie with great visuals and acting.,36439922,0.4463903189443606,False,False,True,False,False,False,0.836,positive
+Movie 863,Director D,77445817,280957242,3.6,"Not worth the time, poor screenplay.",203511425,2.6277910529370487,True,False,False,False,False,False,-0.5812,negative
+Movie 864,Director C,38579810,108117338,7.2,Amazing movie with great visuals and acting.,69537528,1.8024331379548006,False,False,False,False,False,True,0.836,positive
+Movie 865,Director C,56720779,48948033,5.5,Amazing movie with great visuals and acting.,-7772746,-0.13703524769996547,False,True,False,False,False,False,0.836,positive
+Movie 866,Director C,83499356,37178622,7.3,Terrible plot and boring scenes.,-46320734,-0.5547436078429155,False,False,False,False,True,False,-0.6597,negative
+Movie 867,Director B,17078317,30102016,6.7,Terrible plot and boring scenes.,13023699,0.7625867935347493,False,True,False,False,False,False,-0.6597,negative
+Movie 868,Director A,91942536,4348745,8.1,Loved the characters and the storyline.,-87593791,-0.9527014895477758,False,False,True,False,False,False,0.5994,positive
+Movie 869,Director B,66420620,188572371,5.2,A decent movie with good direction.,122151751,1.8390636973879497,False,False,False,False,True,False,0.4404,positive
+Movie 870,Director C,33051537,108811982,5.9,Loved the characters and the storyline.,75760445,2.2921912829651463,False,False,True,False,False,False,0.5994,positive
+Movie 871,Director A,82833986,181032126,8.9,"Not worth the time, poor screenplay.",98198140,1.1854812830086434,True,False,False,False,False,False,-0.5812,negative
+Movie 872,Director C,26679436,78674456,3.8,Amazing movie with great visuals and acting.,51995020,1.94888002879821,True,False,False,False,False,False,0.836,positive
+Movie 873,Director A,1692934,280623204,8.7,"Not worth the time, poor screenplay.",278930270,164.76145555585745,True,False,False,False,False,False,-0.5812,negative
+Movie 874,Director A,54307421,272450351,7.4,"Not worth the time, poor screenplay.",218142930,4.016816228485606,True,False,False,False,False,False,-0.5812,negative
+Movie 875,Director A,93507973,216846243,4.6,Terrible plot and boring scenes.,123338270,1.3190134064824612,False,False,False,False,True,False,-0.6597,negative
+Movie 876,Director B,91935370,232892031,5.8,Amazing movie with great visuals and acting.,140956661,1.5332147028940004,False,False,False,False,True,False,0.836,positive
+Movie 877,Director B,49829783,129635561,7.4,"Not worth the time, poor screenplay.",79805778,1.6015678414654144,False,False,False,False,False,True,-0.5812,negative
+Movie 878,Director D,25092554,216036417,7.3,Terrible plot and boring scenes.,190943863,7.6095826275794805,False,True,False,False,False,False,-0.6597,negative
+Movie 879,Director A,81975152,117702112,8.8,A decent movie with good direction.,35726960,0.4358267002664417,True,False,False,False,False,False,0.4404,positive
+Movie 880,Director C,49548485,76282477,4.7,Loved the characters and the storyline.,26733992,0.5395521578510423,False,False,True,False,False,False,0.5994,positive
+Movie 881,Director C,62518687,126133176,9.3,Terrible plot and boring scenes.,63614489,1.017527591390395,True,False,False,False,False,False,-0.6597,negative
+Movie 882,Director C,73136102,257172949,6.7,Loved the characters and the storyline.,184036847,2.5163611672932746,False,False,False,False,False,True,0.5994,positive
+Movie 883,Director C,80905673,108096971,4.0,Terrible plot and boring scenes.,27191298,0.3360864200462185,False,False,True,False,False,False,-0.6597,negative
+Movie 884,Director D,55171693,234868197,4.7,Amazing movie with great visuals and acting.,179696504,3.2570416862139795,False,False,False,False,True,False,0.836,positive
+Movie 885,Director A,12343578,191411123,7.8,Amazing movie with great visuals and acting.,179067545,14.506939965057134,False,False,True,False,False,False,0.836,positive
+Movie 886,Director D,80589312,179898810,5.9,A decent movie with good direction.,99309498,1.2322911752863706,False,False,True,False,False,False,0.4404,positive
+Movie 887,Director A,94563562,293172498,5.1,Loved the characters and the storyline.,198608936,2.100269192482407,False,False,False,True,False,False,0.5994,positive
+Movie 888,Director B,15408485,197499003,3.9,Loved the characters and the storyline.,182090518,11.817548448143993,False,True,False,False,False,False,0.5994,positive
+Movie 889,Director B,63512989,103790972,5.2,A decent movie with good direction.,40277983,0.6341692248179345,False,False,False,False,False,True,0.4404,positive
+Movie 890,Director C,62132537,16525354,4.7,Terrible plot and boring scenes.,-45607183,-0.7340305933427441,False,False,False,True,False,False,-0.6597,negative
+Movie 891,Director D,62257056,96094337,7.8,Amazing movie with great visuals and acting.,33837281,0.5435091726791579,False,False,False,False,False,True,0.836,positive
+Movie 892,Director D,72393380,200721001,4.8,Terrible plot and boring scenes.,128327621,1.7726430372500912,False,False,False,False,False,True,-0.6597,negative
+Movie 893,Director D,24345793,122845395,5.1,Loved the characters and the storyline.,98499602,4.045857204158435,True,False,False,False,False,False,0.5994,positive
+Movie 894,Director A,70208820,152649676,5.0,Terrible plot and boring scenes.,82440856,1.1742236374290296,True,False,False,False,False,False,-0.6597,negative
+Movie 895,Director B,84326898,183080210,7.7,A decent movie with good direction.,98753312,1.1710772522428134,False,False,False,False,True,False,0.4404,positive
+Movie 896,Director B,57712805,54816326,5.3,"Not worth the time, poor screenplay.",-2896479,-0.050187804942074817,False,False,False,True,False,False,-0.5812,negative
+Movie 897,Director C,13583381,146789193,8.5,Terrible plot and boring scenes.,133205812,9.806528433532122,False,False,False,True,False,False,-0.6597,negative
+Movie 898,Director B,31873303,28188618,7.0,A decent movie with good direction.,-3684685,-0.11560411545675074,False,False,False,True,False,False,0.4404,positive
+Movie 899,Director B,91366420,207828189,8.3,A decent movie with good direction.,116461769,1.274667093227468,False,False,False,False,True,False,0.4404,positive
+Movie 900,Director B,62724734,109310391,5.0,Loved the characters and the storyline.,46585657,0.7426999530998409,False,False,True,False,False,False,0.5994,positive
+Movie 901,Director A,41830548,89622357,6.9,Terrible plot and boring scenes.,47791809,1.1425097514859237,False,False,False,False,False,True,-0.6597,negative
+Movie 902,Director C,9939607,136348339,4.0,"Not worth the time, poor screenplay.",126408732,12.717679079263396,False,False,False,True,False,False,-0.5812,negative
+Movie 903,Director D,91920633,88088855,7.6,Amazing movie with great visuals and acting.,-3831778,-0.041685722508024936,False,False,True,False,False,False,0.836,positive
+Movie 904,Director A,99383567,121393670,4.4,"Not worth the time, poor screenplay.",22010103,0.22146622086929119,False,True,False,False,False,False,-0.5812,negative
+Movie 905,Director B,69855721,20085050,6.9,Amazing movie with great visuals and acting.,-49770671,-0.7124780946717306,False,False,False,False,True,False,0.836,positive
+Movie 906,Director A,46693545,12631425,5.7,Terrible plot and boring scenes.,-34062120,-0.7294824156101234,False,False,False,False,False,True,-0.6597,negative
+Movie 907,Director A,94475309,47309740,7.9,Amazing movie with great visuals and acting.,-47165569,-0.49923699111690656,False,False,False,False,False,True,0.836,positive
+Movie 908,Director A,52208496,229707856,6.6,"Not worth the time, poor screenplay.",177499360,3.3998175316140116,False,False,True,False,False,False,-0.5812,negative
+Movie 909,Director A,23938170,229060132,4.0,"Not worth the time, poor screenplay.",205121962,8.56882384910793,True,False,False,False,False,False,-0.5812,negative
+Movie 910,Director C,67815754,149071427,5.5,Loved the characters and the storyline.,81255673,1.1981828440630478,False,True,False,False,False,False,0.5994,positive
+Movie 911,Director A,64811150,232191075,8.2,Loved the characters and the storyline.,167379925,2.5825791549756483,False,False,True,False,False,False,0.5994,positive
+Movie 912,Director D,28032067,152665917,4.7,Loved the characters and the storyline.,124633850,4.446117013062219,False,True,False,False,False,False,0.5994,positive
+Movie 913,Director A,31977202,34328632,4.6,A decent movie with good direction.,2351430,0.07353457628969538,False,True,False,False,False,False,0.4404,positive
+Movie 914,Director C,39385294,170331403,7.9,A decent movie with good direction.,130946109,3.324746261891558,False,False,False,False,False,True,0.4404,positive
+Movie 915,Director D,97651471,78936892,4.0,A decent movie with good direction.,-18714579,-0.19164666756530477,False,False,True,False,False,False,0.4404,positive
+Movie 916,Director D,35436822,6392661,6.9,"Not worth the time, poor screenplay.",-29044161,-0.8196039983495134,False,False,False,True,False,False,-0.5812,negative
+Movie 917,Director B,14268072,95535594,9.0,Terrible plot and boring scenes.,81267522,5.695760576481532,True,False,False,False,False,False,-0.6597,negative
+Movie 918,Director A,37697064,276668587,6.1,Loved the characters and the storyline.,238971523,6.339260877186616,False,False,False,False,True,False,0.5994,positive
+Movie 919,Director B,12567395,32255914,9.4,Loved the characters and the storyline.,19688519,1.5666348515344668,False,True,False,False,False,False,0.5994,positive
+Movie 920,Director B,1144136,10697213,7.2,Terrible plot and boring scenes.,9553077,8.349599173524826,True,False,False,False,False,False,-0.6597,negative
+Movie 921,Director C,46059124,96326566,3.8,Loved the characters and the storyline.,50267442,1.0913677385614196,False,True,False,False,False,False,0.5994,positive
+Movie 922,Director D,56980750,140262948,3.6,Loved the characters and the storyline.,83282198,1.4615847983748897,True,False,False,False,False,False,0.5994,positive
+Movie 923,Director B,75954918,60695990,9.0,A decent movie with good direction.,-15258928,-0.20089453588772224,False,False,False,False,True,False,0.4404,positive
+Movie 924,Director C,94859655,39404752,4.2,Amazing movie with great visuals and acting.,-55454903,-0.5845994590640247,True,False,False,False,False,False,0.836,positive
+Movie 925,Director B,43528107,116683338,8.2,"Not worth the time, poor screenplay.",73155231,1.680643520748559,False,False,False,False,True,False,-0.5812,negative
+Movie 926,Director B,24174998,208254662,9.5,"Not worth the time, poor screenplay.",184079664,7.614464497577208,False,False,False,False,True,False,-0.5812,negative
+Movie 927,Director A,95491648,280574536,6.9,Terrible plot and boring scenes.,185082888,1.9382102191806345,True,False,False,False,False,False,-0.6597,negative
+Movie 928,Director C,57384017,272697051,3.8,A decent movie with good direction.,215313034,3.752142935549458,False,False,True,False,False,False,0.4404,positive
+Movie 929,Director B,67971494,183345307,6.7,Terrible plot and boring scenes.,115373813,1.6973852744799165,False,True,False,False,False,False,-0.6597,negative
+Movie 930,Director C,48011249,59784787,9.2,A decent movie with good direction.,11773538,0.245224572266387,False,False,False,True,False,False,0.4404,positive
+Movie 931,Director D,8344240,51606420,5.8,Terrible plot and boring scenes.,43262180,5.184675896187071,False,False,False,False,False,True,-0.6597,negative
+Movie 932,Director C,20403459,5616332,6.2,A decent movie with good direction.,-14787127,-0.7247362812354513,False,False,False,False,True,False,0.4404,positive
+Movie 933,Director B,21014853,32337339,6.0,Terrible plot and boring scenes.,11322486,0.5387849251193906,False,False,False,False,False,True,-0.6597,negative
+Movie 934,Director B,85125554,193958678,3.8,"Not worth the time, poor screenplay.",108833124,1.2785012124561328,True,False,False,False,False,False,-0.5812,negative
+Movie 935,Director B,33797550,133437085,3.8,"Not worth the time, poor screenplay.",99639535,2.9481289324226165,False,False,False,True,False,False,-0.5812,negative
+Movie 936,Director B,58246965,69665854,8.6,"Not worth the time, poor screenplay.",11418889,0.19604264359524998,False,False,False,False,False,True,-0.5812,negative
+Movie 937,Director B,75518358,16379356,8.5,Amazing movie with great visuals and acting.,-59139002,-0.7831076253008573,False,False,False,True,False,False,0.836,positive
+Movie 938,Director C,25238770,296418568,7.0,"Not worth the time, poor screenplay.",271179798,10.744572655482022,False,True,False,False,False,False,-0.5812,negative
+Movie 939,Director C,88182375,104589974,7.9,A decent movie with good direction.,16407599,0.1860643807790389,False,False,False,False,False,True,0.4404,positive
+Movie 940,Director B,16818411,212510995,4.4,Terrible plot and boring scenes.,195692584,11.635616706001535,False,True,False,False,False,False,-0.6597,negative
+Movie 941,Director D,36377960,237959502,4.6,Amazing movie with great visuals and acting.,201581542,5.541309683115821,False,True,False,False,False,False,0.836,positive
+Movie 942,Director B,95729640,124834225,9.0,Loved the characters and the storyline.,29104585,0.3040289820373293,False,False,False,True,False,False,0.5994,positive
+Movie 943,Director D,37701575,53631293,7.8,Loved the characters and the storyline.,15929718,0.4225212872406524,False,False,True,False,False,False,0.5994,positive
+Movie 944,Director D,29761568,80837859,9.4,"Not worth the time, poor screenplay.",51076291,1.7161827965515795,False,False,False,False,False,True,-0.5812,negative
+Movie 945,Director A,82945859,129701952,5.3,Amazing movie with great visuals and acting.,46756093,0.5636941200403989,True,False,False,False,False,False,0.836,positive
+Movie 946,Director D,36015845,21071956,7.0,Amazing movie with great visuals and acting.,-14943889,-0.4149254029719419,False,False,False,True,False,False,0.836,positive
+Movie 947,Director A,35325542,179429966,6.1,"Not worth the time, poor screenplay.",144104424,4.079326624344504,False,False,False,False,False,True,-0.5812,negative
+Movie 948,Director B,88401012,165644417,7.3,Loved the characters and the storyline.,77243405,0.8737841711585835,False,False,True,False,False,False,0.5994,positive
+Movie 949,Director D,49713491,100334420,3.6,"Not worth the time, poor screenplay.",50620929,1.01825335500981,False,False,True,False,False,False,-0.5812,negative
+Movie 950,Director D,63022730,226431200,4.7,Terrible plot and boring scenes.,163408470,2.5928497543664006,True,False,False,False,False,False,-0.6597,negative
+Movie 951,Director D,88484936,5775527,5.3,Terrible plot and boring scenes.,-82709409,-0.9347286977751784,False,False,False,False,True,False,-0.6597,negative
+Movie 952,Director B,28549992,187141142,7.5,A decent movie with good direction.,158591150,5.554857948821842,False,False,False,False,False,True,0.4404,positive
+Movie 953,Director A,42828834,48497278,4.8,Terrible plot and boring scenes.,5668444,0.13235111653985257,False,True,False,False,False,False,-0.6597,negative
+Movie 954,Director B,79254633,20714011,5.8,Loved the characters and the storyline.,-58540622,-0.7386397461458184,True,False,False,False,False,False,0.5994,positive
+Movie 955,Director C,91303592,178294193,7.4,Loved the characters and the storyline.,86990601,0.9527620884838791,False,False,False,False,True,False,0.5994,positive
+Movie 956,Director B,42602255,181130212,7.8,Amazing movie with great visuals and acting.,138527957,3.2516578523836355,False,False,False,False,True,False,0.836,positive
+Movie 957,Director A,18585678,22414617,4.7,Loved the characters and the storyline.,3828939,0.2060155674708235,False,False,False,False,True,False,0.5994,positive
+Movie 958,Director B,9139465,235976817,6.6,A decent movie with good direction.,226837352,24.819543813560202,True,False,False,False,False,False,0.4404,positive
+Movie 959,Director C,42479541,171996735,8.0,Amazing movie with great visuals and acting.,129517194,3.048931107800812,False,True,False,False,False,False,0.836,positive
+Movie 960,Director A,28245094,126172773,5.8,Terrible plot and boring scenes.,97927679,3.467068617296866,False,True,False,False,False,False,-0.6597,negative
+Movie 961,Director A,26262353,88358182,3.7,Terrible plot and boring scenes.,62095829,2.364442706257128,False,False,False,False,False,True,-0.6597,negative
+Movie 962,Director A,41290438,187502750,9.3,Amazing movie with great visuals and acting.,146212312,3.5410695328540713,False,False,False,False,False,True,0.836,positive
+Movie 963,Director D,34135262,172220619,8.0,Loved the characters and the storyline.,138085357,4.045240871448416,False,False,False,False,False,True,0.5994,positive
+Movie 964,Director C,15530798,20922104,7.7,Amazing movie with great visuals and acting.,5391306,0.3471364446308554,False,True,False,False,False,False,0.836,positive
+Movie 965,Director C,35618565,245135710,7.8,A decent movie with good direction.,209517145,5.882245536842936,True,False,False,False,False,False,0.4404,positive
+Movie 966,Director D,59954141,15660335,5.0,Loved the characters and the storyline.,-44293806,-0.7387947731583712,True,False,False,False,False,False,0.5994,positive
+Movie 967,Director A,50431775,284709854,7.4,Terrible plot and boring scenes.,234278079,4.645445832513331,False,False,False,False,False,True,-0.6597,negative
+Movie 968,Director B,46111586,112811085,4.8,Amazing movie with great visuals and acting.,66699499,1.446480262032193,False,True,False,False,False,False,0.836,positive
+Movie 969,Director A,77773980,183482260,4.9,Terrible plot and boring scenes.,105708280,1.3591728236101586,True,False,False,False,False,False,-0.6597,negative
+Movie 970,Director A,77888697,219733681,8.4,"Not worth the time, poor screenplay.",141844984,1.8211241099591124,False,False,False,False,True,False,-0.5812,negative
+Movie 971,Director D,89704846,160465645,8.2,Amazing movie with great visuals and acting.,70760799,0.7888180199317214,False,False,False,False,True,False,0.836,positive
+Movie 972,Director A,88186920,65503701,6.5,Terrible plot and boring scenes.,-22683219,-0.2572174989216088,False,True,False,False,False,False,-0.6597,negative
+Movie 973,Director A,40448517,216980510,4.1,Terrible plot and boring scenes.,176531993,4.364362554997999,True,False,False,False,False,False,-0.6597,negative
+Movie 974,Director C,7449977,240987104,6.9,Terrible plot and boring scenes.,233537127,31.347362146218707,False,True,False,False,False,False,-0.6597,negative
+Movie 975,Director D,74107181,189651130,6.0,A decent movie with good direction.,115543949,1.5591464611236527,False,False,False,False,True,False,0.4404,positive
+Movie 976,Director B,6831505,52839016,8.7,Loved the characters and the storyline.,46007511,6.73460840620039,False,False,False,False,True,False,0.5994,positive
+Movie 977,Director C,63971245,174623911,6.5,Loved the characters and the storyline.,110652666,1.7297250663169053,True,False,False,False,False,False,0.5994,positive
+Movie 978,Director C,22484566,184666332,6.4,Terrible plot and boring scenes.,162181766,7.213026304354729,False,False,False,False,True,False,-0.6597,negative
+Movie 979,Director B,65176395,260883376,4.0,Amazing movie with great visuals and acting.,195706981,3.002727920131207,False,False,False,False,True,False,0.836,positive
+Movie 980,Director C,8766418,41783197,3.8,Loved the characters and the storyline.,33016779,3.7662793400907875,False,False,False,False,True,False,0.5994,positive
+Movie 981,Director D,72241703,101713320,5.1,Amazing movie with great visuals and acting.,29471617,0.40795850286087526,False,False,False,False,False,True,0.836,positive
+Movie 982,Director C,70783662,139538255,8.6,"Not worth the time, poor screenplay.",68754593,0.9713342183398197,False,False,False,False,True,False,-0.5812,negative
+Movie 983,Director B,30175505,285990601,6.0,Amazing movie with great visuals and acting.,255815096,8.477574642081384,False,False,False,False,False,True,0.836,positive
+Movie 984,Director C,20955940,135519564,6.7,"Not worth the time, poor screenplay.",114563624,5.466880703036943,False,True,False,False,False,False,-0.5812,negative
+Movie 985,Director D,32561870,100888176,6.2,A decent movie with good direction.,68326306,2.098353257967064,False,False,False,True,False,False,0.4404,positive
+Movie 986,Director B,33934459,41422809,9.0,Terrible plot and boring scenes.,7488350,0.22067097047281645,True,False,False,False,False,False,-0.6597,negative
+Movie 987,Director A,97380541,299600525,5.7,"Not worth the time, poor screenplay.",202219984,2.076595405236042,False,True,False,False,False,False,-0.5812,negative
+Movie 988,Director A,66360094,109605945,9.2,A decent movie with good direction.,43245851,0.6516845952629302,False,False,True,False,False,False,0.4404,positive
+Movie 989,Director D,23774192,81744148,9.1,Amazing movie with great visuals and acting.,57969956,2.438356517016435,True,False,False,False,False,False,0.836,positive
+Movie 990,Director D,99629160,96059904,8.5,A decent movie with good direction.,-3569256,-0.03582541496887056,False,False,True,False,False,False,0.4404,positive
+Movie 991,Director C,86894224,64062294,6.7,A decent movie with good direction.,-22831930,-0.2627554393028471,False,False,False,False,False,True,0.4404,positive
+Movie 992,Director C,20773728,34723533,5.3,Amazing movie with great visuals and acting.,13949805,0.6715118730735282,False,False,True,False,False,False,0.836,positive
+Movie 993,Director A,91846940,220064082,5.0,Loved the characters and the storyline.,128217142,1.3959870845996611,False,False,True,False,False,False,0.5994,positive
+Movie 994,Director C,45423218,279094471,8.6,Terrible plot and boring scenes.,233671253,5.144313047129334,False,True,False,False,False,False,-0.6597,negative
+Movie 995,Director D,34609813,152915623,3.9,Amazing movie with great visuals and acting.,118305810,3.4182735977221257,False,True,False,False,False,False,0.836,positive
+Movie 996,Director A,84401776,55602455,3.9,Terrible plot and boring scenes.,-28799321,-0.34121700235312585,False,True,False,False,False,False,-0.6597,negative
+Movie 997,Director C,54318172,3836477,5.5,Loved the characters and the storyline.,-50481695,-0.9293702851414072,False,False,False,False,True,False,0.5994,positive
+Movie 998,Director B,24926912,141455986,6.3,A decent movie with good direction.,116529074,4.674829918764106,False,False,False,True,False,False,0.4404,positive
+Movie 999,Director B,94591489,211490348,9.3,Terrible plot and boring scenes.,116898859,1.2358285109562024,True,False,False,False,False,False,-0.6597,negative
+Movie 1000,Director B,24931409,54550865,3.7,Loved the characters and the storyline.,29619456,1.188037787996659,False,False,False,True,False,False,0.5994,positive
