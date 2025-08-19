@@ -9,7 +9,7 @@ By applying **data cleaning, exploratory analysis, visualization, and sentiment 
 - **Excel**: PivotTables, Charts for exploratory analysis  
 - **Power BI**: Interactive dashboards, filters, slicers  
 - **SQL (PostgreSQL)**: Data querying and analysis  
-- **NLTK (VADER)**: Sentiment analysis of reviews  
+
 
 ## 📊 Key Analysis  
 - Designed and executed **SQL queries** on movie datasets (Netflix, IMDB).  
