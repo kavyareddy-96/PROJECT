@@ -26,8 +26,3 @@ By applying **data cleaning, exploratory analysis, visualization, and sentiment 
 This project highlights the value of combining **data analytics and sentiment analysis** for predicting movie success.  
 By blending statistical insights with visualization tools, stakeholders can better understand **content strategy, audience behavior, and profitability drivers**.  
 
-## 🚀 How to Run This Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/movie-success-prediction.git
-   cd movie-success-prediction
